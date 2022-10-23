@@ -107,7 +107,7 @@ I went pretty light on overhauling sneak gameplay, but tweaked it nonetheless.
 
 Not everyone is an item hoarder, though. Something you need to keep in mind is, **the museum is completely optional!** If anything, the sheer amount of content added by LOTD was enough to add it to the list.
 
-In addition to the main mod, I've included the [Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529), [Safehouse Plus](https://www.nexusmods.com/skyrimspecialedition/mods/39278) and [Hall of Forgotten](https://www.nexusmods.com/skyrimspecialedition/mods/64117) add-ons, along with countless patches for full integration.
+In addition to the main mod, I've included the [Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) and [Safehouse Plus](https://www.nexusmods.com/skyrimspecialedition/mods/39278) add-ons, along with countless patches for full integration.
 
 ### New Quests
 
@@ -156,4 +156,3 @@ In addition to the [Creation Club houses](https://en.uesp.net/wiki/Skyrim:Houses
 - [Mörskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) is a large player home situated on the hillside of Dawnstar. The mod comes with a short quest to acquire the home before the player will need to restore the building to its former glory, including the exterior and interior. Depending on your play style, Mörskom can be rebuilt using skill and materials or paid workers.
 - [Stormwatch Castle](https://www.nexusmods.com/skyrimspecialedition/mods/65088) is a smaller castle/home east of Whiterun. It can be purchased for 35,000 gold by interacting with the "For Sale" sign at the door.
 - [Riverside Lodge](https://www.nexusmods.com/skyrimspecialedition/mods/9567) is a picturesque and fully equipped player home between Whiterun and Riverwood. You can find the key in the chest ouside the front door. This is a good starter home, as it's technically free.
-- [Autumngate](https://www.nexusmods.com/skyrimspecialedition/mods/60951) is a small, believable player home situated near Ivarstead in the Rift. The key can be purchased for 12,000 gold from the innkeeper Wilhem at the Vilemyr Inn in Ivarstead.
