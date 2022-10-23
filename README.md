@@ -1,6 +1,6 @@
 # Nordic Souls
 
-Wabbajack Modlist Installer for Skyrim Special Edition by Geborgen.
+Modlist providing a visual and gameplay overhaul designed to "freshen up" and streamline Skyrim, while taking inspirations from other games yet still staying true to Skyrim's Nordic theme.
 
 ![NSLOGO](https://github.com/Geborgen/nordic-souls/blob/main/.github/NSLOGO.png)
 
