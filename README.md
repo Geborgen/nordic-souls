@@ -19,6 +19,7 @@ Modlist providing a visual and gameplay overhaul designed to "freshen up" and st
 - [Installation](#installation)
   - [Anniversary Edition](#anniversary-edition)
   - [Preparations](#preparations)
+    - [Pagefile](#pagefile)
   - [List Installation](#list-installation)
     - [Installing Wabbajack](#installing-wabbajack)
     - [Downloading and Installing the List](#downloading-and-installing-the-list)
@@ -75,17 +76,29 @@ I HIGHLY recommend you buy Nexus Premium before installing the list. You *techni
 Please complete the following steps before the actual list installation.
 
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/16/release/vc_redist.x64.exe).
-2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime).
+2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime) AND [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 3. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 4. Fully uninstall Skyrim by deleting the folders `/Steam/steamapps/common/Skyrim Special Edition and folder` and `/Documents/My Games/Skyrim Special Edition`.
 5. Reinstall Skyrim into a location that is NOT in Program Files. Somewhere like `C:\Games` is a good location. [See this tutorial for moving Steam libraries.](https://www.youtube.com/watch?v=DSF1iWCqsM8)
 6. Launch the game and download all Creation Club add-ons, this should happen automatically. When complete, close the game.
 
+#### Pagefile
+
+Large modlists require a lot of memory. If there isn't enough memory, it might fail to allocate more and cause a memory-related crash. You can fix this with a pagefile, which essentially acts as virtual memory. A
+
+To prevent memory crashes, perform the following steps to increase your pagefile size.
+
+1. Press `Win + R` and enter `sysdm.cpl ,3`
+2. Under the `Advanced` tab, press `Settings` under the `Performance` section
+3. In the window that pops up, go to the `Advanced` tab and press `Change...` under the `Virtual Memory` section
+4. Disable 'Automatically manage paging file size for all drives'
+5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to `System managed size`. Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
+
 ### List Installation
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder near or at the root of your drive, such as `C:\Wabbajack`. **Do not place it in Program Files, on your desktop, or in your downloads folder.**
+Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder near or at the root of your drive, such as `C:\Wabbajack`. **Do not place it in Program Files, on your desktop, or in your downloads folder.**
 
 #### Downloading and Installing the List
 
