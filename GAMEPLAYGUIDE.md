@@ -81,7 +81,7 @@ I went pretty light on overhauling sneak gameplay, but tweaked it nonetheless.
 - [RAID](https://www.nexusmods.com/skyrimspecialedition/mods/2345) is a script-free total recalibration of Skyrim's detection formula, which improves the balanced and realism of sneaking. Enemies will have enhanced sight and hearing abilities, and will search longer when alerted.
 - [Dynamic Weather and Time Based Detection](https://www.nexusmods.com/skyrimspecialedition/mods/62546) changes NPC detection depending on the current weather and time of day. During snow, the peripheral and close range vision of NPCs are severely reduced. During rain, NPC hearing is crippled. During pleasant weather, NPC sight and detection range is increased. At night, overall NPC sight is reduced but hearing is slightly increased.
 - [Book of Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/76086) adds fully animated masks, smoke bombs, warhorns, and sneak takedowns.
-- [Destructible Display Cases](https://www.nexusmods.com/skyrimspecialedition/mods/13625) lets you smash open display cases, or craft a tool to do it stealtily.
+- [Destructible Display Cases](https://www.nexusmods.com/skyrimspecialedition/mods/13625) lets you smash open display cases, or craft a tool to do it stealthily.
 - [Mum's the Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713) removes the stolen tag from worthless items you steal, so long as no one notices.
 
 ### Survival Mode
@@ -129,7 +129,7 @@ In addition to the main mod, I've included the [Curator's Companion](https://www
 - [Say No To Calcelmo](https://www.nexusmods.com/skyrimspecialedition/mods/69991) allows you to fail Calcelmo's quest and optionally tell him to stop bothering you about Dwarven items in the future.
 - [The Companions - Don't be a Milk Drinker](https://www.nexusmods.com/skyrimspecialedition/mods/19490) restores honor to The Companions by removing the option to be a bully and restoring (optionally) an option for Vilkas to go dragon hunting with you.
 - [Save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681) adds alternative routes to the Lights Out! quest, allowing you to save the Icerunner.
-- [Paarthrunax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) is a fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Dragonborn, the final choice.
+- [Paarthurnax - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) is a fully voiced, quite expanded new take on the quest Paarthurnax, giving both the Blades and Paarthurnax good reasons for their stances, and you, Dragonborn, the final choice.
 - [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792) fixes some issues with the misc quest at Nilheim and gives a bit more flexibility to your encounter with good old Telrav, adding a couple of additional dialogue choices and options for roleplaying.
 - [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) expands Molag Bal's daedric quest, giving you the option of choosing an alternative "good guy" route to finish the vanilla quest. Fully voiced, with new scenes and a custom reward: a new follower!
 - [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra.
@@ -139,7 +139,7 @@ In addition to the main mod, I've included the [Curator's Companion](https://www
 
 ## Followers and NPCs
 
-- [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters.
+- [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters. **If you get a prompt asking you to import a custom follower (such as Inigo) into NFF, select no.**
 - [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) an expansion (and complete re-voice) of Serana's dialogue and NPC features to make her a more immersive follower.
 - [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) adds over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. He is also my favorite follower. You can find him in the Riften prison.
