@@ -60,9 +60,9 @@ Nordic Souls was built on a low-to-mid-tier machine, with slightly older-gen par
 - GPU: NVIDIA GeForce GTX 1060 6GB
 - RAM: 16GB DDR4
 
-My specs are the minimum recommended for the best experience. I get about 45-60 FPS in most exteriors.
+My specs are the minimum recommended for the best experience. I get around 40-50 FPS in most exteriors.
 
-The list requires ~210GB of free space (including downloads). Without downloads, it's 150GB.
+The list requires ~220GB of free space (including downloads). Without downloads, it's ~142GB.
 
 ## Installation
 
@@ -91,7 +91,7 @@ To prevent memory crashes, perform the following steps to increase your pagefile
 1. Press `Win + R` and enter `sysdm.cpl ,3`
 2. Under the `Advanced` tab, press `Settings` under the `Performance` section
 3. In the window that pops up, go to the `Advanced` tab and press `Change...` under the `Virtual Memory` section
-4. Disable 'Automatically manage paging file size for all drives'
+4. Disable `Automatically manage paging file size for all drives`
 5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to `System managed size`. Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
 
 ### List Installation
@@ -139,7 +139,7 @@ Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](h
 If you want to change the ENB, you must do the following:
 
 - Ensure the ENB you want works with [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125/) and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158).
-- Disable the `Rudy ENB Required Files` mod, located in the `Lighting` separator in MO2.
+- Disable the `Rudy ENB Required Files` mod, located in the `LIGHTING` separator in MO2.
 - Delete all files in `Nordic Souls\Stock Game` that start with `enb`.
 - Install the preset into the Stock Game folder.
 
@@ -181,7 +181,7 @@ The gameplay guide can be viewed [here](https://github.com/Geborgen/nordic-souls
 
 Before updating, please check the [changelog](https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new save after certain updates, this will be indicated in the changelog.
 
-Updating is like installing the list. Make sure your paths are the same, and tick `overwrite existing modlist` **Any changes you have made to the list will be reverted upon updating.**
+Updating is like installing the list. Make sure your paths are the same, and tick `overwrite existing modlist`. **Any changes you have made to the list will be reverted upon updating.**
 
 ## Uninstalling the List
 
