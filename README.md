@@ -203,4 +203,6 @@ To see the changes and version history, visit the [changelog](https://github.com
 
 - All mod authors for their hard work
 - The Wabbajack team for making this awesome tool
+- Monitor144 and Olivinism for playtesting
+- Styyx for help troubleshoot a lot of Wabbajack errors
 - Based Department (you know who you are)
