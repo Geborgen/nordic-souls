@@ -12,6 +12,10 @@ Modlist providing a visual and gameplay overhaul designed to "freshen up" and st
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a>
 </p>
 
+<p align="center">
+  Please read this document in its entirety before playing the list.
+</p>
+
 ## Contents
 - [Preamble](#preamble)
 - [List Contents](#list-contents)
@@ -204,5 +208,5 @@ To see the changes and version history, visit the [changelog](https://github.com
 - All mod authors for their hard work
 - The Wabbajack team for making this awesome tool
 - Monitor144 and Olivinism for playtesting
-- Styyx for help troubleshoot a lot of Wabbajack errors
+- Styyx for helping troubleshoot a lot of Wabbajack errors
 - Based Department (you know who you are)
