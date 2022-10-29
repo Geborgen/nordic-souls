@@ -147,7 +147,7 @@ If you want to fully remove ENB, delete `d3d11.dll` and `d3dcompiler_46e.dll`.
 
 ### Customizing the List
 
-Under the `OPTIONAL CONTENT` separator, you can enable and disable things to your liking. This includes a custom gamepad keymap if you prefer playing with gamepad, and a widescreen fix. If you use a widescreen monitor, enable this, and check the [Untarnished UI](https://www.nexusmods.com/skyrimspecialedition/mods/75188) mod page for additional instructions.
+Under the `OPTIONAL CONTENT` separator, you can enable and disable things to your liking. This includes a widescreen fix: If you use a widescreen monitor, enable this, and check the [Untarnished UI](https://www.nexusmods.com/skyrimspecialedition/mods/75188) mod page for additional instructions.
 
 **Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods.
 
