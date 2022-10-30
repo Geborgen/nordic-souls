@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve
+about: Please follow this template.
 title: "[BUG]"
 labels: ''
 assignees: Geborgen
