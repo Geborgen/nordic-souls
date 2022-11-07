@@ -44,6 +44,8 @@ Modlist providing a visual and gameplay overhaul designed to "freshen up" and st
 - [Changelog](#changelog)
 - [Credits and Thanks](#credits-and-thanks)
 
+## THIS LIST REQUIRES THE COMPLETE AE UPGRADE.
+
 ## Preamble
 
 Nordic Souls is a comprehensive gameplay and visual overhaul for Skyrim SE/AE which expands on the darker aspects of the game while still staying true to Skyrim's Nordic theme and modernizing it. Including LOTD, dozens of hours of new quests, a complete SimonRim gameplay overhaul, and much more, this list will modernize Skyrim in a way that is somewhat familiar yet new and refreshing.
@@ -153,6 +155,8 @@ If you want to fully remove ENB, delete `d3d11.dll` and `d3dcompiler_46e.dll`.
 
 Under the `OPTIONAL CONTENT` separator, you can enable and disable things to your liking. This includes a widescreen fix: If you use a widescreen monitor, enable this, and check the [Untarnished UI](https://www.nexusmods.com/skyrimspecialedition/mods/75188) mod page for additional instructions.
 
+You can also enable mods such as [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498) for more performance if you have an NVIDIA GPU and [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) for a more lively camera. [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is also under this category if you don't like it.
+
 **Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods.
 
 ## Playing the List
@@ -197,7 +201,7 @@ Please refer to [this page](https://github.com/Geborgen/nordic-souls/blob/main/K
 
 ## I found a bug!
 
-Visit the [issues](https://github.com/Geborgen/nordic-souls/issues) tab to see if your issue was already reported. If not, create a new issue. Please be as detailed as possible.
+Visit the [issues](https://github.com/Geborgen/nordic-souls/issues) tab to see if your issue was already reported. If not, create a new issue. Please be as detailed as possible, and use the template provided.
 
 ## Changelog
 
