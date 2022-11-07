@@ -3,12 +3,13 @@
 700+ mods can change the game quite a bit. I will try to go over everything of importance, pointing out key gameplay mods, quests, followers, homes, and tips. Some things I have purposely left out, for you to explore.
 
 ## Contents
-- [What is Nordic Souls?](#what-is-nordic-souls?)
+- [What is Nordic Souls?](#what-is-nordic-souls)
 - [Core Gameplay Mods](#core-gameplay-mods)
   - [Loot and Character Building](#loot-and-character-building)
   - [Combat](#combat)
   - [Magic](#magic)
   - [Stealth](#stealth)
+  - [Creatures](#creatures)
   - [Survival Mode](#survival-mode)
   - [Other Stuff](#other-stuff)
 - [Quests](#quests)
@@ -58,8 +59,6 @@ Combat in Nordic Souls is slightly more difficult but still balanced. It's techn
 - [Smart NPC Potions](https://www.nexusmods.com/skyrimspecialedition/mods/40102) makes it so enemies sometimes carry and use a couple of potions and poisons just like you do. This will make fights fairer, more unpredictable and harder.
 - [Enhanced Enemy AI](https://www.nexusmods.com/skyrimspecialedition/mods/32063) is a script-free and lightweight improvement to combat style of all enemies. They are now smarter, making fights more challenging.
 - [Wait Your Turn](https://www.nexusmods.com/skyrimspecialedition/mods/65091) is a lightweight combat add-on mod that adds circling behaviour to enemies. Now, group combat is more fair and fun for the player, as enemies will no longer attack all at once without a pattern.
-- [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) gives new AI to animals for more realistic behavior.
-- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) is a complete and lightweight overhaul of Skyrim’s dragons, designed to improve the overall experience of dragon fights.
 
 ### Magic
 
@@ -84,9 +83,24 @@ I went pretty light on overhauling sneak gameplay, but tweaked it nonetheless.
 - [Destructible Display Cases](https://www.nexusmods.com/skyrimspecialedition/mods/13625) lets you smash open display cases, or craft a tool to do it stealthily.
 - [Mum's the Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713) removes the stolen tag from worthless items you steal, so long as no one notices.
 
+### Creatures
+
+Nordic Souls includes enhanced AI for vanilla creatures, as well as some exciting new ones!
+
+- [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) gives new AI to animals for more realistic behavior.
+- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) is a complete and lightweight overhaul of Skyrim’s dragons, designed to improve the overall experience of dragon fights.
+- [Bone Colossi and Gravelords](https://www.nexusmods.com/skyrimspecialedition/mods/76147) are two types of terrifying monstrous creatures made of bones, blood-chilling effigies of death and despair, to make all your enemies fall at your feet trembling in fear as they meet the very face of death personified before them.
+- [Omens of Cinders](https://www.nexusmods.com/skyrimspecialedition/mods/72465) are ash Golems impregnated and corrupted by the chaos energy of the Deadlands, if an Ash Golem is already a formidable enemy, an Omen of Cinders is a name that makes even the most experienced summoner tremble.
+- [Fire Golems](https://www.nexusmods.com/skyrimspecialedition/mods/52456) are animated humanoid constructs molded from firestone, at temperatures that reach considerable high levels, and possessing enviable flaming powers. They are adorned with rune bracelets imbued with magical properties of condensation and containment and are certainly superior to a common Flame Atronach.
+- [Ruinachs](https://www.nexusmods.com/skyrimspecialedition/mods/49543) are giant four-armed monstrosities that serve as Dagon’s elite marauders, and of all the beasts that live in the Deadlands, they're the ones more alike to the Prince of Destruction in form and in fury. These fanatical daedra believe their race grew from Dagon's own flesh, thus claiming direct Dagonic ancestry.
+- [Minotaurs](https://www.nexusmods.com/skyrimspecialedition/mods/72454) are fierce bull-men, descendants of the demigod Morihaus.
+- [Morrowind Creatues](https://www.nexusmods.com/skyrimspecialedition/mods/50435) adds three types of new creatures to your game, and one riding guar. You will meet them while traveling through Rift and Solstheim.
+- [Wraiths](https://www.nexusmods.com/skyrimspecialedition/mods/47808) are wraiths. Everyone knows what a wraiths is, right?
+- [Ogres](https://www.nexusmods.com/skyrimspecialedition/mods/59363) are bulky, tall creatures, somewhat resembling goblins and orcs.
+
 ### Survival Mode
 
-[Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been fully overhauled with [Conner's Survival Mode](https://www.nexusmods.com/skyrimspecialedition/mods/19152). The first time you enter an exterior worldspace, you will get a pop-up about it. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it. You can tweak it in Conner's MCM.
+[Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been overhauled with [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374). The first time you enter an exterior worldspace, you will get a pop-up about it. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it. You can tweak it in the Survival Control Panel MCM.
 
 ### Other Stuff
 
@@ -144,6 +158,7 @@ In addition to the main mod, I've included the [Curator's Companion](https://www
 - [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) adds over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. He is also my favorite follower. You can find him in the Riften prison.
 - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right. You can find him at the Dead Man's Drink Inn in Falkreath.
+- [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075) is a romantic follower featuring over 1200 lines of dialogue, custom home, and mini quests. You can begin looking for him by asking Orgnar at the Sleeping Giant Inn in Whiterun if anything interesting is happening in town.
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) is a traditionalist Wood Elf archer, and my second-favorite follower. You can find her house somewhere in the Falkreath pine forest.
 - [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) is a Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore Dwemer ruins in Skyrim, but she needs your help. While she's not much of a fighter, she boasts a knack for machinery and will reprogram a dwemer spider to fight alongside you both. You can find her at the Silver-Blood Inn in Markarth
 - [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893) is a custom fully voiced Argonian lawman of House Telvanni with ~4150 lines. He is on his way to Rivenspire in High Rock, having traveled all the way from Port Telvannis in Morrowind. Xelzaz has just arrived in Skyrim and is looking for a traveling companion. In return he will keep you company, cook you warm meals and brew powerful potions. You can start looking for him by finding a note on the wall in the Bee and Bard Inn in Riften.
