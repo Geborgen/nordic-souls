@@ -6,8 +6,7 @@
 
 ## Version 1.1.0
 **THIS UPDATE REQUIRES A NEW GAME**
-
-Large update including multiple bug fixes and some new content! Added Kaidan, some creatures by 4thUnknown & Mihail. There were quite a few changes in this update, including new custom patching and removal of a buggy smashed patch.
+- Large update including multiple bug fixes and some new content! Added Kaidan, some creatures by 4thUnknown & Mihail. There were quite a few changes in this update, including new custom patching and removal of a buggy smashed patch.
 ### Fixed
 - [Auri's face is glitched (2)](https://github.com/Geborgen/nordic-souls/issues/2)
 - [Water stops all of a sudden (3)](https://github.com/Geborgen/nordic-souls/issues/3)
@@ -28,7 +27,7 @@ Large update including multiple bug fixes and some new content! Added Kaidan, so
 - [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)
 - [NPC AI Process POsition Fix - NG](https://www.nexusmods.com/skyrimspecialedition/mods/69326)
 - [Wade In Water Redone](https://www.nexusmods.com/skyrimspecialedition/mods/71418)
-- [Cathedral #D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756)
+- [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756)
 - [Animated Forge Water](https://www.nexusmods.com/skyrimspecialedition/mods/52322)
 - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
 ### Added
