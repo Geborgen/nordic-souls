@@ -49,7 +49,7 @@
 - [IHSS - Improved Horse Step Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/848)
 - [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
 - [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357)
-- [Skyrim's Got Talent - Interesting NPCs (3DNPC Addon](https://www.nexusmods.com/skyrimspecialedition/mods/74466)
+- [Skyrim's Got Talent - Interesting NPCs (3DNPC Addon)](https://www.nexusmods.com/skyrimspecialedition/mods/74466)
 - [Animals Swim (Sort of)](https://www.nexusmods.com/skyrimspecialedition/mods/78267)
 - [Remove Spell Absorb Effect - No ESP](https://www.nexusmods.com/skyrimspecialedition/mods/43016)
 - [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) (disabled by default)
