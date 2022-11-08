@@ -13,6 +13,7 @@
 - [Necromancer's Amulet has Wrong Description (4)](https://github.com/Geborgen/nordic-souls/issues/4)
 - [Breton Necromancer Spell Absorb Effect (5)](https://github.com/Geborgen/nordic-souls/issues/5)
 - [SDA is not compatible with Serana's Hood Fix (6)](https://github.com/Geborgen/nordic-souls/issues/6)
+- Potions are extremely expensive
 ### Updated
 - [Recursion Monitor](https://www.nexusmods.com/skyrimspecialedition/mods/76867)
 - [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
