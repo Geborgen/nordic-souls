@@ -95,7 +95,7 @@ Nordic Souls includes enhanced AI for vanilla creatures, as well as some excitin
 - [Ruinachs](https://www.nexusmods.com/skyrimspecialedition/mods/49543) are giant four-armed monstrosities that serve as Dagon’s elite marauders, and of all the beasts that live in the Deadlands, they're the ones more alike to the Prince of Destruction in form and in fury. These fanatical daedra believe their race grew from Dagon's own flesh, thus claiming direct Dagonic ancestry.
 - [Minotaurs](https://www.nexusmods.com/skyrimspecialedition/mods/72454) are fierce bull-men, descendants of the demigod Morihaus.
 - [Morrowind Creatues](https://www.nexusmods.com/skyrimspecialedition/mods/50435) adds three types of new creatures to your game, and one riding guar. You will meet them while traveling through Rift and Solstheim.
-- [Wraiths](https://www.nexusmods.com/skyrimspecialedition/mods/47808) are wraiths. Everyone knows what a wraiths is, right?
+- [Wraiths](https://www.nexusmods.com/skyrimspecialedition/mods/47808) are wraiths. Everyone knows what a wraith is, right?
 - [Ogres](https://www.nexusmods.com/skyrimspecialedition/mods/59363) are bulky, tall creatures, somewhat resembling goblins and orcs.
 
 ### Survival Mode
