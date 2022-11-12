@@ -100,7 +100,7 @@ Nordic Souls includes enhanced AI for vanilla creatures, as well as some excitin
 
 ### Survival Mode
 
-[Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been overhauled with [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374). The first time you enter an exterior worldspace, you will get a pop-up about it. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it. You can tweak it in the Survival Control Panel MCM.
+[Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been overhauled with [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244). The first time you enter an exterior worldspace, you will get a pop-up about it. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it. You can tweak it in the Survival Control Panel MCM.
 
 ### Other Stuff
 
