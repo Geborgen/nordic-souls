@@ -7,7 +7,7 @@
 
 ## Version 1.2.0
 **THIS UPDATE REQUIRES A NEW GAME**
-- Revamped some audio with Sound Record Distrubutor
+- Revamped some audio with Sound Record Distributor
 - Revamped appearances of NPCs from various mods
 - Tweaked some MCMs
 - Tweaked some textures
