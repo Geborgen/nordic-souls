@@ -153,11 +153,21 @@ If you want to fully remove ENB, delete `d3d11.dll` and `d3dcompiler_46e.dll`.
 
 ### Customizing the List
 
-Under the `OPTIONAL CONTENT` separator, you can enable and disable things to your liking. This includes a widescreen fix: If you use a widescreen monitor, enable this, and check the [Untarnished UI](https://www.nexusmods.com/skyrimspecialedition/mods/75188) mod page for additional instructions.
+Under the `OPTIONAL CONTENT` separator, you can enable and disable things to your liking.
 
-You can also enable mods such as [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498) for more performance if you have an NVIDIA GPU and [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) for a more lively camera. [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is also under this category if you don't like it.
+- [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is **enabled** by default. Disable if you prefer Apothecary's restore-over-time system. If you re-enable, the ESP placement doesn't matter as long as it loads after Apothecary and before the Synthesis patch.
+- [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) is **enabled** by default. Disable if you don't want zoom effect during dialogue.
+- [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529) is **enabled** by default. Disable if you don't want full screen load screens.
+- [Custom Map Markers for Paper Maps by Mirhayasu](https://www.nexusmods.com/skyrimspecialedition/mods/55432) is **disabled** by default. Enable if you want a different style of map markers (from pre-1.2).
+- [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498) is **disabled** by default. Enable if you have an NVIDIA GPU (HIGHLY RECOMMENDED).
+- [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) is **disabled** by default. Enable if you want a subtle camera-shake effect.
+- [NS - Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is **disabled** by default. Enable if you use a widescreen monitor, then check the [Untarnished UI](https://www.nexusmods.com/skyrimspecialedition/mods/75188) mod page for additional instructions.
 
-**Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods.
+If you want the paper map style from pre-1.2 versions of the list, go to the `PAPER MAP` separator, disable `Skyrim Paper Map by Caro Tuts for FWMF` and `Solstheim Paper Map by Duncan for FWMF`, and enable `Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF`.
+
+**Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugins should always be at the very bottom of your load order.
+
+As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I probably won't be able to help if things break.
 
 ## Playing the List
 
