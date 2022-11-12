@@ -1,8 +1,68 @@
 # Changelog
 
+- [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.2.0
+**THIS UPDATE REQUIRES A NEW GAME**
+- Revamped some audio with Sound Record Distrubutor
+- Revamped appearances of NPCs from various mods
+- Tweaked some MCMs
+- Tweaked some textures
+- SKSE-ified Survival Mode
+- Changed the paper map & icons (you can still get the old ones if you want)
+- Added a few new epic things
+- Updated some mods
+- Greatly improved patching and stability
+- Greatly improved immersion:tm:
+### Fixed
+- [Necromancer's Amulet has Wrong Description (4)](https://github.com/Geborgen/nordic-souls/issues/4) (for real this time)
+### Updated
+- [Audio Overhaul for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/12466)
+- [Legacy of the Dragonborn - Improved Dig Sites](https://www.nexusmods.com/skyrimspecialedition/mods/78042)
+- [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- [VIGILANT - NPC Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/22146)
+- [Skyrim Children Refine](https://www.nexusmods.com/skyrimspecialedition/mods/72389)
+- [Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339)
+- [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+- [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+### Added
+- [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815)
+- [Regional Sounds Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77829)
+- [Reverb Interior Sounds Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77947)
+- [OIL - My HD version](https://www.nexusmods.com/skyrimspecialedition/mods/78321)
+- [Dragon Bridge Blended Roads Fix](https://www.nexusmods.com/skyrimspecialedition/mods/78304)
+- [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244)
+- [Stairs of Skyrim - Windhelm Bridge Stairs](https://www.nexusmods.com/skyrimspecialedition/mods/78399)
+- [RYFTEN - Consistency of windows in Riften](https://www.nexusmods.com/skyrimspecialedition/mods/61536)
+- [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
+- [Rudy fix for Smoke](https://www.nexusmods.com/skyrimspecialedition/mods/78495)
+- [Nature's Bounty - An Immersive Lore-Friendly Resource Gathering Integration Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/72194)
+- [Cathedral - 3D Black Mountain Flowers - for Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/60058)
+- [Survival Control Panel - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/78593)
+- [Daedric Shrines - Meridia](https://www.nexusmods.com/skyrimspecialedition/mods/78428)
+- [Daedric Shrines - Meridia - My patches](https://www.nexusmods.com/skyrimspecialedition/mods/78462)
+- [Farmhouse Chimneys SE](https://www.nexusmods.com/skyrimspecialedition/mods/8766)
+- [Farmhouse Chimneys SE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/58036)
+- [Smart NPC Potions - Enemies Use Potions and Poisons - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/63662)
+- [3D Ropes for Goldenhills Plantation](https://www.nexusmods.com/skyrimspecialedition/mods/59711)
+- [My Aching Back - Matresses for Dwemer Beds](https://www.nexusmods.com/skyrimspecialedition/mods/78256)
+- [Serana Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/43430)
+- [Hood Plus Hair for Serana Re-Imagined](https://www.nexusmods.com/skyrimspecialedition/mods/43495)
+- [Modpocalypse NPCs - Resources](https://www.nexusmods.com/skyrimspecialedition/mods/54421)
+- [Modpocalypse NPCs - Interesting NPCs - 3DNPC](https://www.nexusmods.com/skyrimspecialedition/mods/54424)
+- [Modpocalypse NPCs - Alternate Start Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/55800)
+- [Modpocalypse NPCs - Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/56479)
+- [Modpocalypse NPCs - Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/56575)
+- [Modpocalypse NPCs - The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/56739)
+- [Modpocalypse NPCs - Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56988)
+- [Modpocalypse NPCs - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/57897)
+- [Legacy of the Dragonborn Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64477)
+- [PSkyrim Paper Map by Caro Tuts for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/62705)
+### Removed
+- [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374)
 
 ## Version 1.1.0
 **THIS UPDATE REQUIRES A NEW GAME**
