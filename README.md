@@ -149,7 +149,7 @@ If you want to change the ENB, you must do the following:
 - Delete all files in `Nordic Souls\Stock Game` that start with `enb`.
 - Install the preset into the Stock Game folder.
 
-If you want to fully remove ENB, delete `d3d11.dll` and `d3dcompiler_46e.dll`.
+Do not delete the ENB binaries as this will cause issues with the list. If you don't want ENB, keep it toggled off.
 
 ### Customizing the List
 
