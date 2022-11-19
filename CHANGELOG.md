@@ -8,6 +8,7 @@
 
 ## Version 1.2.1
 **THIS UPDATE IS SAVE-SAFE, JUST SAVE IN AN INTERIOR**
+- Small maintenance update
 - Added Mists of Tamriel
 - Added some QoL mods
 ## Updated
