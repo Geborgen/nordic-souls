@@ -1,9 +1,26 @@
 # Changelog
 
+- [Version 1.2.1](#version-121)
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.2.1
+**THIS UPDATE IS SAVE-SAFE, JUST SAVE IN AN INTERIOR**
+- Added Mists of Tamriel
+- Added some QoL mods
+## Updated
+- [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
+## Added
+- [Mists of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/78703)
+- [Mists of Tamriel - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/78891)
+- [Nemesis Creature Behavior Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
+- [Precision Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/74887)
+- [Better Harvesting](https://www.nexusmods.com/skyrimspecialedition/mods/522)
+- [FYX - RowBoat](https://www.nexusmods.com/skyrimspecialedition/mods/78566)
+- [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688)
+- [moreHUD SE - Legacy Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/55503)
 
 ## Version 1.2.0
 **THIS UPDATE REQUIRES A NEW GAME**
