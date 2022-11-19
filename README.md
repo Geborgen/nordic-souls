@@ -145,7 +145,7 @@ Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](h
 If you want to change the ENB, you must do the following:
 
 - Ensure the ENB you want works with [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125/) and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158).
-- Disable the `Rudy ENB Required Files` mod, located in the `LIGHTING` separator in MO2.
+- Disable the `Rudy ENB Required Files` and `Mists of Tamriel for Rudy Obsidian` mods, located in the `LIGHTING` separator in MO2.
 - Delete all files in `Nordic Souls\Stock Game` that start with `enb`.
 - Install the preset into the Stock Game folder.
 
