@@ -11,8 +11,10 @@ Aiming for release around Christmas, maybe sooner but probably not later. Will r
 - Hopefully Untarnished UI gets an update relatively soon, the screenshots of the WIP update for that mod look awesome
 - Xelzaz got a large update apparently
 - VC perk integration when :( hopefully by then (call me eminem)
+- Maybe more player homes? Can't have enough of those and there are barely any rn
 
 ## Future Updates
 - Definitely Ryn's Skyrim AIO when that releases
 - Inigo v3 where are youuuuu
 - I will not add Skyrim: Extended Cut (maybe in another modlist if I feel like ever making another modlist... that is wayy in the future)
+- Odyssey of the Dragonborn of course
