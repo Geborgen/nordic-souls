@@ -12,6 +12,7 @@ Aiming for release around Christmas, maybe sooner but probably not later. Will r
 - Xelzaz got a large update apparently
 - VC perk integration when :( hopefully by then (call me eminem)
 - Maybe more player homes? Can't have enough of those and there are barely any rn
+- Gamepad control map
 
 ## Future Updates
 - Definitely Ryn's Skyrim AIO when that releases
