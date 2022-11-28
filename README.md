@@ -159,6 +159,7 @@ Under the `OPTIONAL CONTENT` separator, you can enable and disable things to you
 - [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is **enabled** by default. Disable if you prefer Apothecary's restore-over-time system. If you re-enable, the ESP placement doesn't matter as long as it loads after Apothecary and before the Synthesis patch.
 - [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) is **enabled** by default. Disable if you don't want zoom effect during dialogue.
 - [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529) is **enabled** by default. Disable if you don't want full screen load screens.
+- [Full Nordic UI Suite](https://www.nexusmods.com/skyrimspecialedition/mods/49881) is **disabled** by default. Enable if you want a different UI style.
 - [Custom Map Markers for Paper Maps by Mirhayasu](https://www.nexusmods.com/skyrimspecialedition/mods/55432) is **disabled** by default. Enable if you want a different style of map markers (from pre-1.2).
 - [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498) is **disabled** by default. Enable if you have an NVIDIA GPU (HIGHLY RECOMMENDED).
 - [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) is **disabled** by default. Enable if you want a subtle camera-shake effect.
