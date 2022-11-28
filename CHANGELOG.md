@@ -1,10 +1,40 @@
 # Changelog
 
+- [Version 1.2.2](#version-122)
 - [Version 1.2.1](#version-121)
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.2.2
+**THIS UPDATE IS SAVE-SAFE**
+- Added OPTIONAL Nordic UI (with fixes and add-ons, merged into one mod)
+- Fixed issue with crafted potions
+- Added more immersion:tm:
+## Fixed
+- [Apothecary Instant Restore Optional Plugin behaves weirdly with Crafted potions (7)](https://github.com/Geborgen/nordic-souls/issues/7)
+## Updated
+- [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230)
+- [FYX - Fortified Whiterun Consistency](https://www.nexusmods.com/skyrimspecialedition/mods/67881)
+- [Stairs of Skyrim - Windhelm Bridge Stairs](https://www.nexusmods.com/skyrimspecialedition/mods/78399)
+- [Civil War Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77566)
+- [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244)
+- [Paintings Remade - Legacy of The Dragonborn - Interesting NPCs - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/76823)
+- [QuickLoot EE](https://www.nexusmods.com/skyrimspecialedition/mods/69980)
+## Added
+- [Carriages and Stables Dialogue Bundle](https://www.nexusmods.com/skyrimspecialedition/mods/79297)
+- [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386)
+- [Nordic UI - Clean StartMenu](https://www.nexusmods.com/skyrimspecialedition/mods/57621)
+- [NORDIC UI - Miscellaneous Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54102)
+- [NORDIC UI - Compass Markers Restored](https://www.nexusmods.com/skyrimspecialedition/mods/64249)
+- [NORDIC UI Markers](https://www.nexusmods.com/skyrimspecialedition/mods/72209)
+- [Nordic...ish - A TrueHUD preset based on Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/63212)
+- [Oxygen Meter 2 - Nordic UI like Skin](https://www.nexusmods.com/skyrimspecialedition/mods/69567)
+- [Better Third Person Selection - Nordic UI Activation Button Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/74781)
+- [Convenient Dialogue UI - SE](https://www.nexusmods.com/skyrimspecialedition/mods/57943)
+- [NORDIC UI - QuickLoot EE](https://www.nexusmods.com/skyrimspecialedition/mods/70175)
+- [NORDIC UI - Better Scroll Bar](https://www.nexusmods.com/skyrimspecialedition/mods/66039)
 
 ## Version 1.2.1
 **THIS UPDATE IS SAVE-SAFE, JUST SAVE IN AN INTERIOR**
