@@ -1,11 +1,23 @@
 # Changelog
 
+- [Version 1.2.3](#version-123)
 - [Version 1.2.2](#version-122)
 - [Version 1.2.1](#version-121)
 - [Version 1.2.0](#version-120)
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.2.3
+**THIS UPDATE IS SAVE-SAFE**
+- Fixed more conflicts
+- Small tweaks and updates
+## Updated
+- [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
+## Added
+- [Glorious Gradients](https://www.nexusmods.com/skyrimspecialedition/mods/79583)
+- [Pets of Skyrim (CC) Collision Patch](https://www.nexusmods.com/skyrimspecialedition/mods/75617)
 
 ## Version 1.2.2
 **THIS UPDATE IS SAVE-SAFE**
