@@ -5,6 +5,7 @@ Modlist providing a visual and gameplay overhaul designed to "freshen up" and st
 ![NSLOGO](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NSLOGO.webp)
 
 <p align="center">
+  <a href="https://geborgen.net/Nordic-Souls.html">Website</a> |
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/77497">Nexus Page</a> |
   <a href="https://discord.com/invite/nsJquPrHHE">Discord Support</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
