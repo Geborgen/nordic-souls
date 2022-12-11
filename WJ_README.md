@@ -1,0 +1,1 @@
+Modlist providing a visual and gameplay overhaul designed to 'freshen up' and streamline Skyrim, while taking inspirations from other games yet still staying true to Skyrim's Nordic theme. Including LOTD, dozens of hours of new quests, a complete SimonRim gameplay overhaul, and much more, this list will modernize Skyrim in a way that is somewhat familiar yet new and refreshing.
