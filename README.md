@@ -1,7 +1,5 @@
 # Nordic Souls
 
-Modlist providing a visual and gameplay overhaul designed to "freshen up" and streamline Skyrim, while taking inspirations from other games yet still staying true to Skyrim's Nordic theme.
-
 ![NSLOGO](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NSLOGO.webp)
 
 <p align="center">
