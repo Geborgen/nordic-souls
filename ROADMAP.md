@@ -11,6 +11,7 @@ Aiming for release around Christmas, maybe later but probably not sooner. Will r
 - Saints & Seducers Extended Cut
 - Xelzaz update
 - Kaidan 2 update (add-ons from the new website)
+- College of Winterhold Quest Expansion
 - Formlist Manipulator + patches
 - Skyrim Landscape & Water Fixes
 - More mesh fixes
