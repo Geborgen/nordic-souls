@@ -13,6 +13,7 @@ Aiming for release around Christmas, maybe later but probably not sooner. Will r
 - Kaidan 2 update (add-ons from the new website)
 - Formlist Manipulator + patches
 - Skyrim Landscape & Water Fixes
+- More mesh fixes
 - USMP, which removes the need for a bunch of small fixes and tweaks I added previously
 - A new player home :O
 - Some new animations, nothing too crazy
