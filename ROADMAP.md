@@ -21,7 +21,7 @@ Aiming for release around Christmas, maybe later but probably not sooner. Will r
 - Update a lot of mods, naturally
 - Remove Khajiit Has Wares due to fps issues
 - Remove Immersive Fort Dawnguard due to various issues
-- Remove Serana Dialogue Add-on due to list theming issues (replaced with Serana Dialogue Edit)
+- Remove Serana Dialogue Add-on due to list theming and taste issues (replaced with Serana Dialogue Edit)
 
 **Maybe:**
 
