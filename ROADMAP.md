@@ -23,12 +23,10 @@ Aiming for release around Christmas, maybe later but probably not sooner. Will r
 - Remove Khajiit Has Wares due to fps issues
 - Remove Immersive Fort Dawnguard due to various issues
 - Remove Serana Dialogue Add-on due to list theming and taste issues (replaced with Serana Dialogue Edit)
-- Remove Undeath due to keeping everything streamlined and bug-free. More of a personal decision here
 
 **Maybe:**
 
 - Simon's artifact mod, if it releases in time. I will weigh it against RoM
-
 
 ## Future Updates
 By future, I mean distant future.
