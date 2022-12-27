@@ -8,3 +8,4 @@
 | Poison Spell Crash | Being looked at |
 | Some buggy inns | Being looked at |
 | [Flourish perk does not increase weapon speed](https://github.com/Geborgen/nordic-souls/issues/10) | Being looked at |
+| Character sometimes (very rarely) invisible during combat | No discernable pattern |
