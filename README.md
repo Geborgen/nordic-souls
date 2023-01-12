@@ -143,7 +143,7 @@ Nordic Souls includes the **Stock Game** feature. This is essentially a copy of 
 
 ### ENB
 
-Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle the ENB, and `F9` to take a screenshot.
+Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu and `F12` to toggle the ENB.
 
 If you want to change the ENB, you must do the following:
 
