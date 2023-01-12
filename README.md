@@ -3,6 +3,10 @@
 ![NSLOGO](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NSLOGO.webp)
 
 <p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
+</p>
+
+<p align="center">
   <a href="https://geborgen.net/Nordic-Souls.html">Website</a> |
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/77497">Nexus Page</a> |
   <a href="https://discord.com/invite/nsJquPrHHE">Discord Support</a> |
@@ -103,16 +107,16 @@ To prevent memory crashes, perform the following steps to increase your pagefile
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) and place it in a folder near or at the root of your drive, such as `C:\Wabbajack`. **Do not place it in Program Files, on your desktop, or in your downloads folder.**
+Once you have completed pre-installation, download the [latest version of Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, such as `C:\Wabbajack`. **Do not place it in Program Files, on your desktop, or in your downloads folder.**
 
 #### Downloading and Installing the List
 
 Downloading and installing Nordic Souls can take a long time depending on your internet connection and PC specs. I recommend you install it on an SSD, as everything will go much faster. Complete the steps below for installation.
 
 1. Create a folder near the root of your drive called `Nordic Souls`.
-2. Download the .wabbajack file and open it.
+2. Open Wabbajack, go to `Browse Modlists`, find Nordic Souls, and click the download arrow. Alternatively, download the .wabbajack file from this repository, add it to your Wabbajack folder, and open it.
 3. Set your installation folder to the folder you made in step 1 (e.g. `C:\Nordic Souls`).
-5. Your downloads folder should be set automatically. If it isn’t, set it to `Nordic Souls\downloads`.
+5. Your downloads folder should be set automatically. If it isn’t, set it to either `Nordic Souls\downloads` or another location. It can even be on another drive.
 6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 800 mods.*
 7. Wait. It may take an hour or more depending on your connection. Read the rest of the readme and take a nap. If you have any errors during installation, see below. Otherwise, carry on to [post-installation](#post-installation) when completed.
 
@@ -129,7 +133,7 @@ Some common errors you may encounter during installation are listed below.
 - Antivirus reports a virus:
   - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack). *Do not use my server for Wabbajack support.*
+If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [my server](https://discord.com/invite/nsJquPrHHE).
 
 ## Post-Installation
 
@@ -139,7 +143,7 @@ Nordic Souls includes the **Stock Game** feature. This is essentially a copy of 
 
 ### ENB
 
-Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, and `F12` to toggle the ENB.
+Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle the ENB, and `F9` to take a screenshot.
 
 If you want to change the ENB, you must do the following:
 
@@ -148,6 +152,10 @@ If you want to change the ENB, you must do the following:
 - Enable the `Mists of Tamriel for Obsidian Weathers` located under the same separator.
 - Delete all files in `Nordic Souls\Stock Game` that start with `enb`.
 - Install the preset into the Stock Game folder.
+
+Some recommended ENBs are [PI-CHO](https://www.nexusmods.com/skyrimspecialedition/mods/21543) and [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543).
+
+If you want to change the weather mod, disable `Obsidian Weathers & Seasons`, look at the missing masters warning that MO2 gives, and disable plugins accordingly. You will not recieve support if things break, as this is a larger modification of the list (see #custommizing-the-list).
 
 Do not delete the ENB binaries as this will cause issues with the list. If you don't want ENB, keep it toggled off.
 
@@ -166,7 +174,7 @@ Under the `OPTIONAL CONTENT` separator, you can enable and disable things to you
 
 If you want the paper map style from pre-1.2 versions of the list, go to the `PAPER MAP` separator, disable `Skyrim Paper Map by Caro Tuts for FWMF` and `Solstheim Paper Map by Duncan for FWMF`, and enable `Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF`.
 
-**Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugins should always be at the very bottom of your load order.
+**Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugin should always be at the very bottom of your load order.
 
 As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I probably won't be able to help if things break.
 
@@ -188,7 +196,7 @@ All MCMs have been pre-configured. Wait until all notifications on the top left 
 
 ### Starting the Game
 
-Character creation has been overhauled. High Poly Head should be selected automatically. Nordic Souls does not include any character presets, but you can easily add presets yourself by installing them like normal mods (ensure they use HPH). *If your character is frozen at first, just change the race. This is a known issue with Precision.*
+Character creation has been overhauled. High Poly Head should be selected automatically. Nordic Souls does not include any character presets, but you can easily add presets yourself by installing them like normal mods (their placement in the mod list doesn't matter). Ensure that installed presets use HPH.
 
 You will spawn in a cell. **Wait until notifications have stopped appearing in the top right** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options.
 
@@ -222,6 +230,5 @@ To see the changes and version history, visit the [changelog](https://github.com
 
 - All mod authors for their hard work
 - The Wabbajack team for making this awesome tool
-- Monitor144 and Olivinism for playtesting
 - Styyx for helping troubleshoot a lot of Wabbajack errors
 - Based Department (you know who you are)
