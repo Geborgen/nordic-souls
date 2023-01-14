@@ -1,4 +1,4 @@
-# Knows Issues
+# Known Issues
 
 | Issue | Status |
 | ------------- | ------------- |
