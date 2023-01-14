@@ -38,6 +38,7 @@
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
   - [Mod Configuration Menu](#mod-configuration-menu)
+    - [Easy WheelMenu](#easy-wheelmenu) 
   - [Starting the Game](#starting-the-game)
   - [Gameplay Guide](#gameplay-guide)
 - [Updating the List](#updating-the-list)
@@ -59,6 +60,8 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 ## List Contents
 [The full list of mods can be viewed on Load Order Library.](https://loadorderlibrary.com/lists/nordic-souls)
+
+[The default keymap can be found here.](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d)
 
 ## System Requirements
 
@@ -93,7 +96,7 @@ Please complete the following steps before the actual list installation.
 
 #### Pagefile
 
-Large modlists require a lot of memory. If there isn't enough memory, it might fail to allocate more and cause a memory-related crash. You can fix this with a pagefile, which essentially acts as virtual memory. A
+Large modlists require a lot of memory. If there isn't enough memory, it might fail to allocate more and cause a memory-related crash. You can fix this with a pagefile, which essentially acts as virtual memory.
 
 To prevent memory crashes, perform the following steps to increase your pagefile size.
 
@@ -143,7 +146,7 @@ Nordic Souls includes the **Stock Game** feature. This is essentially a copy of 
 
 ### ENB
 
-Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu and `F12` to toggle the ENB.
+Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle the ENB, and `F8` to take a screenshot.
 
 If you want to change the ENB, you must do the following:
 
@@ -165,18 +168,17 @@ Under the `OPTIONAL CONTENT` separator, you can enable and disable things to you
 
 - [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is **enabled** by default. Disable if you prefer Apothecary's restore-over-time system. If you re-enable, the ESP placement doesn't matter as long as it loads after Apothecary and before the Synthesis patch.
 - [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) is **enabled** by default. Disable if you don't want zoom effect during dialogue.
-- [Simple Load Screens](https://www.nexusmods.com/skyrimspecialedition/mods/49529) is **enabled** by default. Disable if you don't want full screen load screens.
-- [Full Nordic UI Suite](https://www.nexusmods.com/skyrimspecialedition/mods/49881) is **disabled** by default. Enable if you want a different UI style.
-- [Custom Map Markers for Paper Maps by Mirhayasu](https://www.nexusmods.com/skyrimspecialedition/mods/55432) is **disabled** by default. Enable if you want a different style of map markers (from pre-1.2).
+- [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) is **enabled** by default. Disable if you don't like the subtle camera-shake effect.
+- [NORDIC UI Full Suite](https://www.nexusmods.com/skyrimspecialedition/mods/49881) is **disabled** by default. Enable if you want a different UI style.
+- [Enhanced Blood Textures - No Screen Blood](https://www.nexusmods.com/skyrimspecialedition/mods/2357) is **disabled** by default. Enable if you don't like the screen blood that EBT adds.
+- [Kaidan 2 Fart Patch](https://kaidanmod.com/) is **disabled** by default. Enable to make Kaidan fart. Only if you're close, though.
 - [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498) is **disabled** by default. Enable if you have an NVIDIA GPU (HIGHLY RECOMMENDED).
-- [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) is **disabled** by default. Enable if you want a subtle camera-shake effect.
-- [NS - Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is **disabled** by default. Enable if you use a widescreen monitor, then check the [Untarnished UI](https://www.nexusmods.com/skyrimspecialedition/mods/75188) mod page for additional instructions.
-
-If you want the paper map style from pre-1.2 versions of the list, go to the `PAPER MAP` separator, disable `Skyrim Paper Map by Caro Tuts for FWMF` and `Solstheim Paper Map by Duncan for FWMF`, and enable `Paper Skyrim and Solstheim World Maps by Mirhayasu for FWMF`.
+- [The Ultimate Control Scheme](https://www.nexusmods.com/skyrimspecialedition/mods/29381) is **disabled** by default. Enable for better controller support.
+- [NS - Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is **disabled** by default. Enable if you use a widescreen monitor. Please note that this is very much untested, and might not even work with the included UI repplacers.
 
 **Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugin should always be at the very bottom of your load order.
 
-As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I probably won't be able to help if things break.
+As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's rule 11, meaning that any modifications you make, you do so at your own risk.
 
 ## Playing the List
 
@@ -194,9 +196,18 @@ You can create a desktop shortcut in the shortcuts dropdown.
 
 All MCMs have been pre-configured. Wait until all notifications on the top left are gone before opening the MCM. **Failure to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak them to your liking if you want to customize your experience.
 
+#### Easy WheelMenu
+
+Easy WheelMenu requires special configuration.
+
+- Open the `EasyWheel` MCM, go to `Maintenance`, and press `Load` under `User Settings`. 
+- Go to `General`, un-tick `Hide Spells`, then tick it again.
+
+Easy WheelMenu is now successfully configured. Press `K` to open.
+
 ### Starting the Game
 
-Character creation has been overhauled. High Poly Head should be selected automatically. Nordic Souls does not include any character presets, but you can easily add presets yourself by installing them like normal mods (their placement in the mod list doesn't matter). Ensure that installed presets use HPH.
+Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls does not include any character presets, but you can easily add presets yourself by installing them like normal mods (their placement in the mod list doesn't matter). Ensure that installed presets use HPH.
 
 You will spawn in a cell. **Wait until notifications have stopped appearing in the top right** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options.
 
