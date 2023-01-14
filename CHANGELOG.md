@@ -105,6 +105,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903)
 - [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235)
 - [Song of the Green (Auri Follower)](https://www.nexusmods.com/skyrimspecialedition/mods/11278)
+- [Simplicity of Settlements - Dragon Bridge - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/77942)
 ## Added
 - [Unofficial Skyrim Modder’s Patch - USMP](https://www.nexusmods.com/skyrimspecialedition/mods/49616)
 - [Unofficial Skyrim Modders Patch - USMP - Patch Emporium](https://www.nexusmods.com/skyrimspecialedition/mods/50813)
@@ -429,7 +430,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Modpocalypse NPCs - Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/56988)
 - [Modpocalypse NPCs - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/57897)
 - [Legacy of the Dragonborn Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64477)
-- [PSkyrim Paper Map by Caro Tuts for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/62705)
+- [Skyrim Paper Map by Caro Tuts for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/62705)
 ### Removed
 - [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374)
 
