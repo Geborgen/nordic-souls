@@ -1,6 +1,8 @@
 # Gameplay Guide
 
-700+ mods can change the game quite a bit. I will try to go over everything of importance, pointing out key gameplay mods, quests, followers, homes, and tips. Some things I have purposely left out, for you to explore.
+[Default Keymap](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d)
+
+900+ mods can change the game quite a bit. I will try to go over everything of importance, pointing out key gameplay mods, quests, followers, homes, and tips. Some things I have purposely left out, for you to explore.
 
 ## Contents
 - [What is Nordic Souls?](#what-is-nordic-souls)
@@ -9,7 +11,7 @@
   - [Combat](#combat)
   - [Magic](#magic)
   - [Stealth](#stealth)
-  - [Creatures](#creatures)
+  - [New Creatures](#new-creatures)
   - [Survival Mode](#survival-mode)
   - [Other Stuff](#other-stuff)
 - [Quests](#quests)
@@ -41,9 +43,9 @@ With new perk and open world overhaul mods, you will have a fresh experience for
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a complete overhaul of Skyrim’s human, elf, and beast races designed to balance the game’s races and add powerful new gameplay options.
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) is a complete overhaul of Skyrim’s perk trees designed to balance existing skills and add powerful new perks to the game.
 - [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) is an addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.
+- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is a complete overhaul of Skyrim’s Standing Stones designed to balance the game’s stone bonuses and add powerful new gameplay options.
 - [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) is a complete overhaul of Skyrim’s Vampire system designed to balance existing Vampire mechanics and add powerful new vampiric abilities to the game.
 - [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game.
-- [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is a complete overhaul of Skyrim’s Standing Stones designed to balance the game’s stone bonuses and add powerful new gameplay options.
 
 ### Combat
 
@@ -65,13 +67,16 @@ Combat in Nordic Souls is slightly more difficult but still balanced. It's techn
 Nordic Souls doesn't add a whole lot of new spells, instead opting to improve what vanilla already provided. Vanilla already has a good magic system, but with a lot of issues which I addressed.
 
 - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) is a complete overhaul of Skyrim’s magic system designed to balance existing spells and add powerful new magical effects to the game.
-- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) is a lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic.
+- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) is a complete overhaul of Skyrim’s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game. I've included the Food & Drink add-on, which tweaks food, alcohol, and drugs.
+- [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882) improves the alchemy system with dynamic models, better item names, and more.
+- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) is a complete overhaul of Skyrim’s religion system that adds dozens of new deities and with powerful shrine effects to the game.
 - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) is a complete overhaul of Skyrim’s enchanting system designed to balance existing enchantments and add powerful new weapon and armor enchantments to the game.
-- [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) includes balanced, lore-friendly, and unique enchantments to nearly all of Skyrim's most legendary and famous artifacts.
+- [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276) is a lightweight shouts overhaul, designed to balance in a sensible manner this underwhelming but cool mechanic.
+- [Dragon Aspect Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/29941) includes various tweaks to the Dragon Aspect power.
 - [Arachnomancy](https://www.nexusmods.com/skyrimspecialedition/mods/67272) is a complete overhaul of Skyrim's spider scrolls crafting system designed to balance existing spiders while adding powerful new ones to the game.
 - [Oblivion](https://www.nexusmods.com/skyrimspecialedition/mods/69513) is a complete overhaul of Skyrim's Atronach Forge, designed to expand its functionality.
-- [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) is a complete overhaul of Skyrim’s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game. I've included the Food & Drink add-on, which tweaks food, alcohol, and drugs.
-- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) is a complete overhaul of Skyrim’s religion system that adds dozens of new deities and with powerful shrine effects to the game.
+- [Reliquary of Myth](https://www.nexusmods.com/skyrimspecialedition/mods/31612) includes balanced, lore-friendly, and unique enchantments to nearly all of Skyrim's most legendary and famous artifacts.
+- [Charged Concentration](https://www.nexusmods.com/skyrimspecialedition/mods/82317) updates the casting time for concentration spells and their magic effects such that they now take a moment to charge before the spell begins. The casting time is 0.33 seconds making them faster to cast than fire and forget spells. It gives concentration spells a bit of risk and a sense of power that was missing before.
 
 ### Stealth
 
@@ -83,18 +88,16 @@ I went pretty light on overhauling sneak gameplay, but tweaked it nonetheless.
 - [Destructible Display Cases](https://www.nexusmods.com/skyrimspecialedition/mods/13625) lets you smash open display cases, or craft a tool to do it stealthily.
 - [Mum's the Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713) removes the stolen tag from worthless items you steal, so long as no one notices.
 
-### Creatures
+### New Creatures
 
-Nordic Souls includes enhanced AI for vanilla creatures, as well as some exciting new ones!
+Nordic Souls include some exciting and powerful new creatures.
 
-- [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) gives new AI to animals for more realistic behavior.
-- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) is a complete and lightweight overhaul of Skyrim’s dragons, designed to improve the overall experience of dragon fights.
-- [Bone Colossi and Gravelords](https://www.nexusmods.com/skyrimspecialedition/mods/76147) are two types of terrifying monstrous creatures made of bones, blood-chilling effigies of death and despair, to make all your enemies fall at your feet trembling in fear as they meet the very face of death personified before them.
+- [Gravelords](https://www.nexusmods.com/skyrimspecialedition/mods/27365) are enigmatic entities formed by hundreds of darkened bones covered in a cloak of dense shadows. They're the spawn of Sithis, the representation of the primordial state of emptiness and the Void. They roam the darkest places of Nirn and Oblivion, surrounded by their dread armies of scary Gravelord Servants.
 - [Omens of Cinders](https://www.nexusmods.com/skyrimspecialedition/mods/72465) are ash Golems impregnated and corrupted by the chaos energy of the Deadlands, if an Ash Golem is already a formidable enemy, an Omen of Cinders is a name that makes even the most experienced summoner tremble.
 - [Fire Golems](https://www.nexusmods.com/skyrimspecialedition/mods/52456) are animated humanoid constructs molded from firestone, at temperatures that reach considerable high levels, and possessing enviable flaming powers. They are adorned with rune bracelets imbued with magical properties of condensation and containment and are certainly superior to a common Flame Atronach.
 - [Ruinachs](https://www.nexusmods.com/skyrimspecialedition/mods/49543) are giant four-armed monstrosities that serve as Dagon’s elite marauders, and of all the beasts that live in the Deadlands, they're the ones more alike to the Prince of Destruction in form and in fury. These fanatical daedra believe their race grew from Dagon's own flesh, thus claiming direct Dagonic ancestry.
 - [Minotaurs](https://www.nexusmods.com/skyrimspecialedition/mods/72454) are fierce bull-men, descendants of the demigod Morihaus.
-- [Morrowind Creatues](https://www.nexusmods.com/skyrimspecialedition/mods/50435) adds three types of new creatures to your game, and one riding guar. You will meet them while traveling through Rift and Solstheim.
+- [Morrowind Creatues](https://www.nexusmods.com/skyrimspecialedition/mods/50435) adds three types of new creatures to your game, and one riding guar. You will meet them while traveling through the Rift and Solstheim.
 - [Wraiths](https://www.nexusmods.com/skyrimspecialedition/mods/47808) are wraiths. Everyone knows what a wraith is, right?
 - [Ogres](https://www.nexusmods.com/skyrimspecialedition/mods/59363) are bulky, tall creatures, somewhat resembling goblins and orcs.
 
@@ -104,14 +107,18 @@ Nordic Souls includes enhanced AI for vanilla creatures, as well as some excitin
 
 ### Other Stuff
 
+- [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104) gives new AI to animals for more realistic behavior.
+- [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) is a complete and lightweight overhaul of Skyrim’s dragons, designed to improve the overall experience of dragon fights.
+- [THe Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/81422) is comprehensive overhaul for Draugr, the undead creatures mostly found in Nordic Crypts around Skyrim, protecting ancient treasures and their lords. With it, Draugr are more challenging and varied than even before.
+- [Reading Is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) reworks skill books so that instead of granting levels instantly, they give you a permanent boost to your leveling speed in the respective skill. This means that you benefit more by reading them as soon as you find them.
 - [Trade and Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) provides many new variables to adjust the trade and barter rates in Skyrim, including merchant gold, trading perks, inventory respawn rates, and more.
 - [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) is a lightweight overhaul of both the vanilla Skyrim carriage system and Dawnguard's ferry system. Realistic and bug-free.
 - [Mystic Condenser](https://www.nexusmods.com/skyrimspecialedition/mods/10176) lets you combine low level potions/poisons/soul gems into their higher level counterparts. They are usually located at the Jarl's court wizard's work area.
+- [Skyrim's Got Talent](https://www.nexusmods.com/skyrimspecialedition/mods/50357) is a compact, yet powerful Bard Gameplay Overhaul. Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
 - [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) lets you use a broom to clean up physics messes.
 - [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) lets you use a shovel to clean up dead bodies. Access buried bodies via MCM.
 - [Fish Anywhere With Water](https://www.nexusmods.com/skyrimspecialedition/mods/60915) lets you fish anywhere as long you are facing a nearby body of water.
 - [Use Telekinesis on Traps](https://www.nexusmods.com/skyrimspecialedition/mods/59350) does exactly what it says it does.
-- [Dismiss Steward](https://www.nexusmods.com/skyrimspecialedition/mods/22236) lets you dismiss your Hearthfire steward.
 
 ## Quests
 
@@ -123,6 +130,8 @@ Not everyone is an item hoarder, though. Something you need to keep in mind is, 
 
 In addition to the main mod, I've included the [Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) and [Safehouse Plus](https://www.nexusmods.com/skyrimspecialedition/mods/39278) add-ons, along with countless patches for full integration.
 
+If you want to avoid the museum entirely, [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) is included.
+
 ### New Quests
 
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565) is a new lands mod. The East Empire Company commissions the Dragonborn to slay a dragon that is interrupting trade routes throughout Skyrim. But is the dragon stirring up trouble with a particular reason and what sinister motive does it have for its actions?
@@ -131,12 +140,12 @@ In addition to the main mod, I've included the [Curator's Companion](https://www
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) is the first mod in history to win a national Writers' Guild award for its script. It is a critically acclaimed expansion mod offering a unique 6 - 8 hour experience: a murder mystery investigation set in an ancient underground city. You'll need to solve it using your wits, and the ability to travel through time...
 - [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180) is quest mod that gives you the option to turn into a lich. I've included the [Classical Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802) add-on. When a powerful necromancer and his followers seek out the forbidden secrets of immortality that could threaten Skyrim, will you defeat him to stop his evil quest, or continue it yourself?
 - [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867) is a quest mod involving a powerful sword. Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order.
-- [Legends of Aetherium](https://www.nexusmods.com/skyrimspecialedition/mods/69807) is a quest mod involving Dwemer ruins. Explore the lost Dwarven Ruins of Itharzel and hunt down lost custom Aetherium weapons and armors.
 - [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494) is a quest mod involving the Reach. Delve into the depths of an unground swamp in the aid of a priest in order to heal the Heart of the Reach. Including a new quest, weapons, ring, spell and more.
 - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards.
 
 ### Vanilla Quest Changes
 
+- [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) lets you return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation.
 - [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847) expands bounty quests for bandits, forsworn, giants and dragons. Like in the Witcher 3, bring "trophies" from your enemy to the Jarl as proof of the bounty or deliver the captured bandits to a guard for justice.
 - [Whiterun Battle Brothers](https://www.nexusmods.com/skyrimspecialedition/mods/36036) makes the guards who survive Dragon Rising into unique NPCs who recognize the player and continue to guard Whiterun.
 - [After the Civil War - Siege Damage Repairs](https://www.nexusmods.com/skyrimspecialedition/mods/20668) adds an immersive way of repairing the damage left by the Civil War. Twenty days after the final battle the cities will be back to normal, but a generous donation will speed-up the reconstruction. Crews will be at work fixing the damage.
@@ -148,6 +157,8 @@ In addition to the main mod, I've included the [Curator's Companion](https://www
 - [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) expands Molag Bal's daedric quest, giving you the option of choosing an alternative "good guy" route to finish the vanilla quest. Fully voiced, with new scenes and a custom reward: a new follower!
 - [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) enhances Peryite's daedric quest, expanding the vanilla quest with new conversations, scenes and paths to complete the quest with or without cavorting with daedra.
 - [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606) allows you to experience a longer version of Mephala's Daedric quest, now with more dialogue, more decisions and a general darker approach to the original quest.
+- [College of Winterhold - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666) provides 7 new starter magic lessons/quests to make your College of Winterhold feel like an actual school of magic.
+- [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974) provides new paths (both good and evil) to complete the first Dark Brotherhood quest.
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) allows you to customize the starting conditions for various quests. You can choose to delay the start of Dragonborn, Dawnguard, or Hearthfire quests, as well as other quest events. You can also reduce the level requirements to allow a quest to begin earlier than it normally would. [Check here for the Nordic Souls quest condition changes.](https://github.com/Geborgen/nordic-souls/blob/main/.github/QUESTCHANGES.md)
 - [Thieves Guild Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) is a compilation of adjustments to the Thieves Guild and its related quests. Adds skill and radiant requirements that must be met in order to advance the Thieves Guild questline, the ability to sell Stones of Berenziah, improved shadowmarks, and much more! [Check here for the Nordic Souls Thieve's Guild condition changes.](https://github.com/Geborgen/nordic-souls/blob/main/.github/THIEVESGUILD.md)
 
@@ -156,6 +167,7 @@ In addition to the main mod, I've included the [Curator's Companion](https://www
 - [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters. **If you get a prompt asking you to import a custom follower (such as Inigo) into NFF, select no.**
 - [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) an expansion (and complete re-voice) of Serana's dialogue and NPC features to make her a more immersive follower.
 - [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) adds over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
+- [Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069) adds all new, fully-voiced characters, unique followers, branching dialogue and more.
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. He is also my favorite follower. You can find him in the Riften prison.
 - [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) is a fully voiced Imperial follower with over 5000 lines of immersive, lore-friendly dialogue. Though he arrives in Skyrim as a cowardly scholar, he'll gradually gain strength and confidence by your side until he grows into a hero in his own right. You can find him at the Dead Man's Drink Inn in Falkreath.
 - [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075) is a romantic follower featuring over 1200 lines of dialogue, custom home, and mini quests. You can begin looking for him by asking Orgnar at the Sleeping Giant Inn in Whiterun if anything interesting is happening in town.
@@ -166,8 +178,12 @@ In addition to the main mod, I've included the [Curator's Companion](https://www
 
 ## Player Homes
 
-In addition to the [Creation Club houses](https://en.uesp.net/wiki/Skyrim:Houses#Creation_Club_HousesCC), I've added a few custom player homes. Some of them will require you to use the spell from [Hearthfire Multiple Adoptions](https://www.nexusmods.com/skyrimspecialedition/mods/3862) if you want your family to move in.
+In addition to the [Creation Club houses](https://en.uesp.net/wiki/Skyrim:Houses#Creation_Club_HousesCC), I've added a few custom player homes. Some of them will require you to use the power from [Hearthfire Multiple Adoptions](https://www.nexusmods.com/skyrimspecialedition/mods/3862) if you want your family to move in: in the wheel menu, select `Bless Home`.
 
+- [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) is a small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout.
 - [Mörskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) is a large player home situated on the hillside of Dawnstar. The mod comes with a short quest to acquire the home before the player will need to restore the building to its former glory, including the exterior and interior. Depending on your play style, Mörskom can be rebuilt using skill and materials or paid workers.
 - [Stormwatch Castle](https://www.nexusmods.com/skyrimspecialedition/mods/65088) is a smaller castle/home east of Whiterun. It can be purchased for 35,000 gold by interacting with the "For Sale" sign at the door.
 - [Riverside Lodge](https://www.nexusmods.com/skyrimspecialedition/mods/9567) is a picturesque and fully equipped player home between Whiterun and Riverwood. You can find the key in the chest ouside the front door. This is a good starter home, as it's technically free.
+- [Viking's Longhouse](https://www.nexusmods.com/skyrimspecialedition/mods/10860) is a nordic themed player home near Windhelm, simple yet cozy for a nord warrior.
+- [Elysium Estate](https://www.nexusmods.com/skyrimspecialedition/mods/4119) is a mid-sized, lore friendly home located near Whiterun for you, or with family and followers. Full of foliage, fountains, features to customize, optional displays, crafting and plenty more.
+
