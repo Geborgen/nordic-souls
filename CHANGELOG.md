@@ -250,6 +250,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
 - [Assorted Mods and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/50250) (Simple Horse Tweaks)
 - [Song of the Green Auri’s fancy pod](https://www.nexusmods.com/skyrimspecialedition/mods/82661)
+- [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728)
 - [Ennead Banners](https://www.nexusmods.com/skyrimspecialedition/mods/10564)
 - [Gravelords- Mihail Monsters and Animals](https://www.nexusmods.com/skyrimspecialedition/mods/27365)
 ## Removed
