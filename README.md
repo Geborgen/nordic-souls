@@ -90,7 +90,7 @@ Please complete the following steps before the actual list installation.
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime) AND [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 3. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-4. Fully uninstall Skyrim by deleting the folders `/Steam/steamapps/common/Skyrim Special Edition and folder` and `/Documents/My Games/Skyrim Special Edition`.
+4. Fully uninstall Skyrim by deleting the folders `/Steam/steamapps/common/Skyrim Special Edition and folder` and `/Documents/My Games/Skyrim Special Edition`, in addition to uninstalling through Steam.
 5. Reinstall Skyrim into a location that is NOT in Program Files. Somewhere like `C:\Games` is a good location. [See this tutorial for moving Steam libraries.](https://www.youtube.com/watch?v=DSF1iWCqsM8)
 6. Launch the game and download all Creation Club add-ons, this should happen automatically. When complete, close the game.
 
