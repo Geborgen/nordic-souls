@@ -74,7 +74,7 @@ Nordic Souls was built on a low-to-mid-tier machine, with slightly older-gen par
 
 My specs are the minimum recommended for the best experience. I get around 40-50 FPS in most exteriors.
 
-The list requires ~220GB of free space (including downloads). Without downloads, it's ~142GB.
+The list requires ~232GB of free space (including downloads). Without downloads, it's ~148GB.
 
 ## Installation
 
@@ -223,7 +223,7 @@ Updating is like installing the list. Make sure your paths are the same, and tic
 
 ## Uninstalling the List
 
-Just delete the folder. The Stock Game feature makes this simple.
+Simply delete the folder, and you have uninstalled the list.
 
 ## Known Issues
 
