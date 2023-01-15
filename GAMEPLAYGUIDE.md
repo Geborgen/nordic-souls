@@ -165,7 +165,6 @@ If you want to avoid the museum entirely, [Dovahkiin's Vault](https://www.nexusm
 ## Followers and NPCs
 
 - [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) is a multi-follower system that is light on game resources and allows for up to 10 companions at one time. It provides a wealth of additional features, including immersion and quality-of-life functions to allow you to adventure with a small team of characters. **If you get a prompt asking you to import a custom follower (such as Inigo) into NFF, select no.**
-- [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) an expansion (and complete re-voice) of Serana's dialogue and NPC features to make her a more immersive follower.
 - [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) adds over 250+ fully voiced NPCs, 25+ followers, 15+ marriage NPCs, and 50+ quests.
 - [Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069) adds all new, fully-voiced characters, unique followers, branching dialogue and more.
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. He is also my favorite follower. You can find him in the Riften prison.
@@ -178,7 +177,7 @@ If you want to avoid the museum entirely, [Dovahkiin's Vault](https://www.nexusm
 
 ## Player Homes
 
-In addition to the [Creation Club houses](https://en.uesp.net/wiki/Skyrim:Houses#Creation_Club_HousesCC), I've added a few custom player homes. Some of them will require you to use the power from [Hearthfire Multiple Adoptions](https://www.nexusmods.com/skyrimspecialedition/mods/3862) if you want your family to move in: in the wheel menu, select `Bless Home`.
+In addition to the [Creation Club houses](https://en.uesp.net/wiki/Skyrim:Houses#Creation_Club_HousesCC), I've added a few custom player homes. Some of them will require you to use the power from [Hearthfire Multiple Adoptions](https://www.nexusmods.com/skyrimspecialedition/mods/3862) if you want your family to move in: open the wheel menu and select `Bless Home`.
 
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) is a small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Only accessible with Clear Skies shout.
 - [Mörskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) is a large player home situated on the hillside of Dawnstar. The mod comes with a short quest to acquire the home before the player will need to restore the building to its former glory, including the exterior and interior. Depending on your play style, Mörskom can be rebuilt using skill and materials or paid workers.
