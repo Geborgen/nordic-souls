@@ -17,6 +17,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - Added Skyrim Extended Cut - Saints and Seducers
 - Updated Kaidan 2 Extended Edition with mods from their new website
 - Added Citizens of Tamriel
+- Added BUVARP
 - Added FormList Manipulator with patches
 - Added the Unofficial Skyrim Modders Patch, replacing the need for a lot of smaller mods
 - Added Skyrim Landscape & Water Fixes
@@ -136,6 +137,9 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
 - [Extended Cut Saitns and Seducers - Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/78834)
 - [SEC Saints And Seducers High Poly NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/78595)
+- [BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/56120)
+- [BUVARP SE RE - Patches](https://www.nexusmods.com/skyrimspecialedition/mods/56878)
+- [BUVARP SE RE - Various Patches](https://www.nexusmods.com/skyrimspecialedition/mods/67135)
 - [Butterflies Land True](https://www.nexusmods.com/skyrimspecialedition/mods/29434)
 - [Cathedral - 3D Mountain Flowers Resized and Desaturated](https://www.nexusmods.com/skyrimspecialedition/mods/77531)
 - [ConsolePlusPlus](https://www.nexusmods.com/skyrimspecialedition/mods/79975)
@@ -175,6 +179,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Whiterun Mesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/48120)
 - [Whiterun Objects SMIMed (and fixes too)](https://www.nexusmods.com/skyrimspecialedition/mods/69125)
 - [Windhelm Fake Windows Fix](https://www.nexusmods.com/skyrimspecialedition/mods/54923)
+- [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728)
 - [Casting Bar](https://www.nexusmods.com/skyrimspecialedition/mods/80455)
 - [Casting Bar HUD Variance](https://www.nexusmods.com/skyrimspecialedition/mods/80691)
 - [Editable Myrwatch-XelzazAE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/80546)
@@ -241,21 +246,23 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882)
 - [Alchemy Plus SE](https://www.nexusmods.com/skyrimspecialedition/mods/81747)
 - [Reading Is Good (SKSE)](https://www.nexusmods.com/skyrimspecialedition/mods/42026)
+- [HD Local Map](https://www.nexusmods.com/skyrimspecialedition/mods/74722)
 - [Skyland Happy Little Trees Bark](https://www.nexusmods.com/skyrimspecialedition/mods/82491)
 - [Animated Ivy](https://www.nexusmods.com/skyrimspecialedition/mods/82048)
+- [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
 - [Crimson Ranger Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/75893)
 - [Vanilla Table Replacers](https://www.nexusmods.com/skyrimspecialedition/mods/33041)
 - [Less Visually Obtrusive Cloak Spell Effects](https://www.nexusmods.com/skyrimspecialedition/mods/16964)
 - [Saints and Seducers - Mysticism Rebalance](https://www.nexusmods.com/skyrimspecialedition/mods/81950)
 - [Charged Concentration](https://www.nexusmods.com/skyrimspecialedition/mods/82317)
 - [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863)
+- [Bed Head - A Vanilla Hair Replacement](https://www.nexusmods.com/skyrimspecialedition/mods/8528)
 - [BeastHHBB - Khajiit and Argonian content - player character and NPC replacer](https://www.nexusmods.com/skyrimspecialedition/mods/38480)
 - [Assorted Mods and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/50250) (Simple Horse Tweaks)
 - [Song of the Green Auri’s fancy pod](https://www.nexusmods.com/skyrimspecialedition/mods/82661)
 - [Auri - Thistlefoot Should Stay Outdoors](https://www.nexusmods.com/skyrimspecialedition/mods/82688)
 - [Ennead Banners](https://www.nexusmods.com/skyrimspecialedition/mods/10564)
 - [Gravelords- Mihail Monsters and Animals](https://www.nexusmods.com/skyrimspecialedition/mods/27365)
-- [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
 ## Removed
 - [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547)
 - [Chillwind Depths CTD Fix](https://www.nexusmods.com/skyrimspecialedition/mods/44249)
@@ -316,6 +323,11 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Immersive Laundry](https://www.nexusmods.com/skyrimspecialedition/mods/2011)
 - [Immersive Laundry Wood Post Re-texture](https://www.nexusmods.com/skyrimspecialedition/mods/73149)
 - [Bone Colossi and Gravelords- Mihail Monsters and Animals](https://www.nexusmods.com/skyrimspecialedition/mods/76147)
+- [VHR - Vanilla Hair Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/25574)
+- [Modpocalypse NPCs - Alternate Start Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/55800)
+- [Modpocalypse NPCs - Interesting NPCs - 3DNPC](https://www.nexusmods.com/skyrimspecialedition/mods/54424)
+- [Modpocalypse NPCs - Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/56479)
+- [Legacy of the Dragonborn Visual Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/64477)
 - [Custom Map Markers for Paper Maps by Mirhayasu](https://www.nexusmods.com/skyrimspecialedition/mods/55432)
 - [Infinity UI](https://www.nexusmods.com/skyrimspecialedition/mods/74483) (temporarily)
 - [Compass Navigation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74484) (temporarily)
