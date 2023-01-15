@@ -106,6 +106,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Simplicity of Snow](https://www.nexusmods.com/skyrimspecialedition/mods/56235)
 - [Song of the Green (Auri Follower)](https://www.nexusmods.com/skyrimspecialedition/mods/11278)
 - [Simplicity of Settlements - Dragon Bridge - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/77942)
+- [Happy Little Shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/71992)
 ## Added
 - [Unofficial Skyrim Modder’s Patch - USMP](https://www.nexusmods.com/skyrimspecialedition/mods/49616)
 - [Unofficial Skyrim Modders Patch - USMP - Patch Emporium](https://www.nexusmods.com/skyrimspecialedition/mods/50813)
@@ -254,6 +255,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Auri - Thistlefoot Should Stay Outdoors](https://www.nexusmods.com/skyrimspecialedition/mods/82688)
 - [Ennead Banners](https://www.nexusmods.com/skyrimspecialedition/mods/10564)
 - [Gravelords- Mihail Monsters and Animals](https://www.nexusmods.com/skyrimspecialedition/mods/27365)
+- [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907)
 ## Removed
 - [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547)
 - [Chillwind Depths CTD Fix](https://www.nexusmods.com/skyrimspecialedition/mods/44249)
