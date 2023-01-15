@@ -117,10 +117,10 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 Downloading and installing Nordic Souls can take a long time depending on your internet connection and PC specs. I recommend you install it on an SSD, as everything will go much faster. Complete the steps below for installation.
 
 1. Create a folder near the root of your drive called `Nordic Souls`.
-2. Open Wabbajack, go to `Browse Modlists`, find Nordic Souls, and click the download arrow. Alternatively, download the .wabbajack file from this repository, add it to your Wabbajack folder, and open it.
+2. Open Wabbajack, go to `Browse Modlists`, find Nordic Souls, and click the download arrow. Alternatively, download the .wabbajack file from this repository or the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/77497), add it to your Wabbajack folder, and open it.
 3. Set your installation folder to the folder you made in step 1 (e.g. `C:\Nordic Souls`).
 5. Your downloads folder should be set automatically. If it isn’t, set it to either `Nordic Souls\downloads` or another location. It can even be on another drive.
-6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 800 mods.*
+6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 900 mods.*
 7. Wait. It may take an hour or more depending on your connection. Read the rest of the readme and take a nap. If you have any errors during installation, see below. Otherwise, carry on to [post-installation](#post-installation) when completed.
 
 #### Problems with Installation
@@ -136,7 +136,7 @@ Some common errors you may encounter during installation are listed below.
 - Antivirus reports a virus:
   - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [my server](https://discord.com/invite/nsJquPrHHE).
+If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [my server](https://discord.com/invite/9cRs3KPyuW).
 
 ## Post-Installation
 
