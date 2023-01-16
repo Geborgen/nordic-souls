@@ -147,6 +147,7 @@ If you want to avoid the museum entirely, [Dovahkiin's Vault](https://www.nexusm
 
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) lets you return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation.
 - [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847) expands bounty quests for bandits, forsworn, giants and dragons. Like in the Witcher 3, bring "trophies" from your enemy to the Jarl as proof of the bounty or deliver the captured bandits to a guard for justice.
+- [BUVARP](https://www.nexusmods.com/skyrimspecialedition/mods/56120) gives new purposes to NPCs that are barely used in Vanilla. In many cases, they are quest NPCs that get deleted by the game after their quests.
 - [Whiterun Battle Brothers](https://www.nexusmods.com/skyrimspecialedition/mods/36036) makes the guards who survive Dragon Rising into unique NPCs who recognize the player and continue to guard Whiterun.
 - [After the Civil War - Siege Damage Repairs](https://www.nexusmods.com/skyrimspecialedition/mods/20668) adds an immersive way of repairing the damage left by the Civil War. Twenty days after the final battle the cities will be back to normal, but a generous donation will speed-up the reconstruction. Crews will be at work fixing the damage.
 - [Say No To Calcelmo](https://www.nexusmods.com/skyrimspecialedition/mods/69991) allows you to fail Calcelmo's quest and optionally tell him to stop bothering you about Dwarven items in the future.
