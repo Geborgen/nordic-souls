@@ -13,7 +13,7 @@
 **THIS UPDATE REQUIRES A NEW GAME**
 
 Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the list and helped me fix issues, and apologies for the delay. Quite a hefty changelog, so let’s get started (*takes breath*):
-- Updated SimonRim with with Scion 2 and Manbeast 2
+- Updated SimonRim with Scion 2 and Manbeast 2
 - Added Skyrim Extended Cut - Saints and Seducers
 - Updated Kaidan 2 Extended Edition with mods from their new website
 - Added Citizens of Tamriel
