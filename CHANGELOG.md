@@ -27,6 +27,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - Slightly increased arrow speed
 - UI updates
 - Removed Serana Dialogue Add-On, replaced with Serana Dialogue Edit
+- Tweaked NPC appearances
 - Added some new armors and player homes
 - Added, updated, and replaced a lot of mods
 - Re-worked patching
