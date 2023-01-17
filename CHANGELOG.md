@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 1.3.1](#version-131)
 - [Version 1.3.0](#version-130)
 - [Version 1.2.3](#version-123)
 - [Version 1.2.2](#version-122)
@@ -8,6 +9,22 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.3.1
+**THIS UPDATE IS SAVE-SAFE, JUST SAVE OUTSIDE OF WINDHELM AND MARKARTH**
+- Updated Untarnished UI with Constructible Object Custom Keyword System (COCKS) support
+- QuickLoot menus now resize dynamically
+- Added Spaghetti's Windhelm
+- Small updates and fixes
+### Fixed
+- Crash related to Lunar weapons
+### Updated
+- [Untarnished UI](https://www.nexusmods.com/skyrimspecialedition/mods/75188)
+- [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728)
+- [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974)
+- [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
+### Added
+- [Spaghetti's Cities - Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/82820)
 
 ## Version 1.3.0
 **THIS UPDATE REQUIRES A NEW GAME**
@@ -33,12 +50,12 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - Re-worked patching
 - Added icon
 - Tweaked MO2 categories
-## Fixed
+### Fixed
 - [Wrong magicka costs for some spells (runes) (9)](https://github.com/Geborgen/nordic-souls/issues/9)
 - [Flourish Perk from One Handed does not increase weapon speed by 20%](https://github.com/Geborgen/nordic-souls/issues/10)
 - Character sometimes frozen in RaceMenu upon new character creation
 - Dawnguard Prophet Quest Bug: when Isran calls you over to chat w/Serana, Serana spawns in the troll pit and they both have no quest dialogue.
-## Updated
+### Updated
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
 - [VIGILANT SE](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
 - [VIGILANT Voiced - English Addon](https://www.nexusmods.com/skyrimspecialedition/mods/11894)
@@ -109,7 +126,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Song of the Green (Auri Follower)](https://www.nexusmods.com/skyrimspecialedition/mods/11278)
 - [Simplicity of Settlements - Dragon Bridge - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/77942)
 - [Happy Little Shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/71992)
-## Added
+### Added
 - [Unofficial Skyrim Modder’s Patch - USMP](https://www.nexusmods.com/skyrimspecialedition/mods/49616)
 - [Unofficial Skyrim Modders Patch - USMP - Patch Emporium](https://www.nexusmods.com/skyrimspecialedition/mods/50813)
 - [Vigilant Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/45735)
@@ -264,7 +281,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Auri - Thistlefoot Should Stay Outdoors](https://www.nexusmods.com/skyrimspecialedition/mods/82688)
 - [Ennead Banners](https://www.nexusmods.com/skyrimspecialedition/mods/10564)
 - [Gravelords- Mihail Monsters and Animals](https://www.nexusmods.com/skyrimspecialedition/mods/27365)
-## Removed
+### Removed
 - [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547)
 - [Chillwind Depths CTD Fix](https://www.nexusmods.com/skyrimspecialedition/mods/44249)
 - [No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/1763)
@@ -337,10 +354,10 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 **THIS UPDATE IS SAVE-SAFE**
 - Fixed more conflicts
 - Small tweaks and updates
-## Updated
+### Updated
 - [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
 - [Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)
-## Added
+### Added
 - [Glorious Gradients](https://www.nexusmods.com/skyrimspecialedition/mods/79583)
 - [Pets of Skyrim (CC) Collision Patch](https://www.nexusmods.com/skyrimspecialedition/mods/75617)
 
@@ -349,9 +366,9 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - Added OPTIONAL Nordic UI (with fixes and add-ons, merged into one mod)
 - Fixed issue with crafted potions
 - Added more immersion:tm:
-## Fixed
+### Fixed
 - [Apothecary Instant Restore Optional Plugin behaves weirdly with Crafted potions (7)](https://github.com/Geborgen/nordic-souls/issues/7)
-## Updated
+### Updated
 - [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230)
 - [FYX - Fortified Whiterun Consistency](https://www.nexusmods.com/skyrimspecialedition/mods/67881)
 - [Stairs of Skyrim - Windhelm Bridge Stairs](https://www.nexusmods.com/skyrimspecialedition/mods/78399)
@@ -359,7 +376,7 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244)
 - [Paintings Remade - Legacy of The Dragonborn - Interesting NPCs - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/76823)
 - [QuickLoot EE](https://www.nexusmods.com/skyrimspecialedition/mods/69980)
-## Added
+### Added
 - [Carriages and Stables Dialogue Bundle](https://www.nexusmods.com/skyrimspecialedition/mods/79297)
 - [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386)
 - [Nordic UI - Clean StartMenu](https://www.nexusmods.com/skyrimspecialedition/mods/57621)
@@ -378,9 +395,9 @@ Largest update to Nordic Souls yet. Thank you to everyone who has stuck with the
 - Small maintenance update
 - Added Mists of Tamriel
 - Added some QoL mods
-## Updated
+### Updated
 - [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
-## Added
+### Added
 - [Mists of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/78703)
 - [Mists of Tamriel - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/78891)
 - [Nemesis Creature Behavior Compatibility](https://www.nexusmods.com/skyrimspecialedition/mods/45966)
