@@ -219,8 +219,7 @@ The gameplay guide can be viewed [here](https://github.com/Geborgen/nordic-souls
 
 Before updating, please check the [changelog](https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new save after certain updates, this will be indicated in the changelog.
 
-Updating is like installing the list. Make sure your paths are the same, and tick `overwrite existing modlist`. **Any changes you have made to the list will be reverted upon updating.**
-
+Updating is like installing the list. Make sure your paths are the same, and tick `overwrite existing modlist`. **Any changes you have made to the list will be reverted upon updating.** To keep mods that you added, prefix the mod name with `[NoDelete]`.
 ## Uninstalling the List
 
 Simply delete the folder, and you have uninstalled the list.
