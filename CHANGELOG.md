@@ -14,7 +14,7 @@
 ## Version 1.3.2
 **THIS UPDATE IS SAVE-SAFE, JUST SAVE OUTSIDE OF MARKARTH. HOWEVER, IF YOU HAVE PURCHASED THE FLOURISH OR QUICK DRAW PERKS, USE THE CONSOLE TO REMOVE AND RE-ADD THE PERKS AFTER UPDATING.**
 - SimonRim updates
-- New animations with Verolevi's CATA framework
+- Added new animations with Verolevi's CATA framework
 
 ### Updated
 - [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686)
