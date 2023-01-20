@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 1.3.2](#version-132)
 - [Version 1.3.1](#version-131)
 - [Version 1.3.0](#version-130)
 - [Version 1.2.3](#version-123)
@@ -9,6 +10,28 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.3.2
+**THIS UPDATE IS SAVE-SAFE, JUST SAVE OUTSIDE OF MARKARTH. HOWEVER, IF YOU HAVE PURCHASED THE FLOURISH OR QUICK DRAW PERKS, USE THE CONSOLE TO REMOVE AND RE-ADD THE PERKS AFTER UPDATING.**
+- SimonRim updates
+- New animations with Verolevi's CATA framework
+
+### Updated
+- [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686)
+- [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
+- [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
+- [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790)
+- [The Dragon Cult - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/81422)
+- [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728)
+### Added
+- [Conditional Armor Type Animations](https://www.nexusmods.com/skyrimspecialedition/mods/51507)
+- [Goetia Animations - Male Idle Walk And Run](https://www.nexusmods.com/skyrimspecialedition/mods/68625)
+- [Goetia Animations - Female Idle Walk And Run](https://www.nexusmods.com/skyrimspecialedition/mods/68005)
+- [Goetia Animations - Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/69409)
+- [Leviathan Animations II - Male Idle Walk And Run](https://www.nexusmods.com/skyrimspecialedition/mods/81463)
+- [Leviathan Animations II - Female Idle Walk And Run](https://www.nexusmods.com/skyrimspecialedition/mods/80760)
+- [Leviathan Animations II - Sprint](https://www.nexusmods.com/skyrimspecialedition/mods/82603)
+- [SPID - NFF - Add Ignore Token to CustomAI Followers](https://www.nexusmods.com/skyrimspecialedition/mods/82945)
 
 ## Version 1.3.1
 **THIS UPDATE IS SAVE-SAFE, JUST SAVE OUTSIDE OF WINDHELM AND MARKARTH**
