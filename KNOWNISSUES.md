@@ -7,3 +7,4 @@
 | Poison Spell Crash | Being looked at |
 | Character sometimes (very rarely) invisible during combat | Resolves itself, no discernable pattern |
 | Footstep sounds when jumping with spells in both hands | Being looked at |
+| Dewth when falling to ground after Meridia raises you to sky | Being looked at; for now, use TCL or TGM in the console |
