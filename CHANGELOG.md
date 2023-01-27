@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 1.3.3](#version-133)
 - [Version 1.3.2](#version-132)
 - [Version 1.3.1](#version-131)
 - [Version 1.3.0](#version-130)
@@ -10,6 +11,36 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.3.3
+**THIS UPDATE IS SAVE-SAFE**
+- Flat World Map Framework & paper map updates
+- Added desktop splash screen (it works, but it might show up behind all your open apps)
+- Other small fixes and updates
+
+### Fixed
+- Bone Colossus T-pose
+- Spear weapons from RFM are overpowered
+### Updated
+- [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686)
+- [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099)
+- [Markarth Fixed AF](https://www.nexusmods.com/skyrimspecialedition/mods/82728)
+- [Flat World Map Framework (FWMF)](https://www.nexusmods.com/skyrimspecialedition/mods/29932)
+- [Skyrim Paper Map by Caro Tuts for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/62705)
+- [Duncan's Paper Maps for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/55025)
+- [Blackreach Paper Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/53878)
+- [Sovngarde Paper Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/54255)
+- [Soul Cairn Paper Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/55387)
+- [Cathedral - 3D Thistle](https://www.nexusmods.com/skyrimspecialedition/mods/67619)
+- [Precision - Accurate Melle Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+- [Xelzaz - Custom Fully Voiced Argonian Telvanni Follower](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
+### Added
+- [Desktop Splash Screen](https://www.nexusmods.com/skyrimspecialedition/mods/83470)
+- [Cathedral - 3D Sword Ferns](https://www.nexusmods.com/skyrimspecialedition/mods/82978)
+- [Market Stalls Animated](https://www.nexusmods.com/skyrimspecialedition/mods/83523)
+- [CC Bone Colossus Skeleton Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63167)
+- [High Poly Windhelm Hawk Gate Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/83313)
+- [Erandur Dialogue Edits](https://www.nexusmods.com/skyrimspecialedition/mods/83324)
 
 ## Version 1.3.2
 **THIS UPDATE IS SAVE-SAFE, JUST SAVE OUTSIDE OF MARKARTH. HOWEVER, IF YOU HAVE PURCHASED THE FLOURISH OR QUICK DRAW PERKS, USE THE CONSOLE TO REMOVE AND RE-ADD THE PERKS AFTER UPDATING.**
