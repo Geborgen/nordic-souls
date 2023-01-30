@@ -10,6 +10,8 @@ I'm also not happy with the performance, or at least, MY performance. I get 40-5
 
 This brings me to ENB. I want to add more of them. I tried to add ENB Organizer before but it didn't work. I didn't really delve into it however, so I'll give it another shot. Currently, I'm thinking about PI-CHO, Silent Horizons, Ominous, Culinated, and Weather Is Sacred as alternatives. Rudy will always be the list default. ENB Organizer will make it harder to add your own ENBs, but I'll try to add different options. I'm always open to suggestions for this.
 
+Overall it's becoming a pain to maintain the list, but that just happens with the amount of mods I have. I will do some trimming down. Despite my frustrations, I'm excited for the future of this modlist.
+
 - SimonRim updates
 - MAYBE Simon's artifact mod, depending on release date, will weigh against RoM
 - MAYBE ENB Organizer with some different ENB options
