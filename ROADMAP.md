@@ -14,14 +14,18 @@ Overall it's becoming a pain to maintain the list, but that just happens with th
 
 - SimonRim updates
 - MAYBE Simon's artifact mod, depending on release date, will weigh against RoM
-- MAYBE ENB Organizer with some different ENB options
+- ENB Organizer with some different ENB options
 - All tools shipped and installed natively
 - Remove COTN, every city will be Spaghetti-ified
 - VAE 2.0
 - Ish's Respec Mod
 - Cult of the World Eater - Dragon Priests Buff Alduin
 - Some form of leveling change. Not sure what yet. Skill Uncapper? Experience? I have work to do.
-- MAYBE more armor and weapons (some hand-placed outfits???)
+- MAYBE more armor and weapons
+- Replace The Dragon Cult with Haugbui to fix draugr balancing
+- MAYBE tweak dragons too
+- Fix some AI stuff, and play with EVGAT (probably will keep it but undecided)
+- Change some of the custom creatures
 
 ## Version 1.3
 RELEASED 15 JAN 2023, REQUIRES NEW GAME
