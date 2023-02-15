@@ -6,5 +6,5 @@
 | Poison Spell Crash | Being looked at |
 | Character sometimes (very rarely) invisible during combat | Resolves itself, no discernable pattern |
 | Footstep sounds when jumping with bow or spells in both hands | Being looked at |
-| Death when falling to ground after Meridia raises you to sky | Being looked at; for now, use TCL or TGM in the console |
+| Death when falling to ground after Meridia raises you to sky | Being looked at; for now, use TCL or TGM in the console. [This thread has a few other solutions.](https://steamcommunity.com/app/72850/discussions/0/451848854984690733/) |
 | Draugr are too difficult/tanky | Not exactly a bug but definitely a balancing issue. Looking at tweaking or removing The Dragon Cult |
