@@ -80,7 +80,7 @@ My specs are the minimum recommended for the best experience.
 
 With the default ENB, in heavy areas (Falkreath/Riverwood) I might get ~35 FPS, but in most other exteriors I'll get closer to 50 FPS. In interiors, I'll keep a steady 60. Many users report a stable high FPS in most or all areas of the game.
 
-The list requires ~232GB of free space (including downloads). Without downloads, it's ~148GB.
+The list requires ~270 GB of free space (including downloads). Without downloads, it's ~168 GB.
 
 ## Installation
 
@@ -128,7 +128,7 @@ Downloading and installing Nordic Souls can take a long time depending on your i
 2. Open Wabbajack, go to `Browse Modlists`, find Nordic Souls, and click the download arrow. Alternatively, download the .wabbajack file from this repository or the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/77497), add it to your Wabbajack folder, and open it.
 3. Set your installation folder to the folder you made in step 1 (e.g. `C:\Nordic Souls`).
 5. Your downloads folder should be set automatically. If it isn’t, set it to either `Nordic Souls\downloads` or another location. It can even be on another drive.
-6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 900 mods.*
+6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 1000 mods.*
 7. Wait. It may take an hour or more depending on your connection. Read the rest of the readme and take a nap. If you have any errors during installation, see below. Otherwise, carry on to [post-installation](#post-installation) when completed.
 
 #### Problems with Installation
@@ -140,7 +140,7 @@ Some common errors you may encounter during installation are listed below.
   - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content.
 - x is not a whitelisted download:
   - This may happen when I update the list. Please check if there is a new update or wait if there is none.
-- Wabbajack could not find my game folder:
+- Wabbajack could not find the game folder:
   - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) step.
 - Antivirus reports a virus:
   - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
@@ -155,21 +155,25 @@ Nordic Souls includes the **Stock Game** feature. This is essentially a copy of 
 
 ### Customizing the List
 
-Game settings and mod configs can be found in the `[NoDelete] NS - Game Settings` mod under the `WRAPPING UP - OUTPUT` category in MO2. Right-click, open in explorer, and find the config you need. If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.
+**Other than what is mentioned here, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugin should always be at the very bottom of your load order.
+
+As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's rule 11, meaning that any modifications you make, you do so at your own risk.
+
+Game settings and mod configs can be found in the `[NoDelete] NS - Game Settings` mod under the `WRAPPING UP - OUTPUT` separator in MO2. Right-click, open in explorer, and find the config you need. If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.
 
 #### ENB
 
 Nordic Souls uses a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796) by default,, however there are a few alternative presets to choose from. Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle the ENB, and `F7` to take a screenshot. These keybinds are the same for all included ENBs.
 
 If you want to change the ENB, you must do the following:
-- Under the `WRAPPING UP - ENB` category in MO2, **disable** `Mists of Tamriel for Rudy Obsidian` and `Rudy ENB Required Files`
-- Under the same category, **enable** `Mists of Tamriel for Obsidian Weathers` and `ENB Night Eye Fix`
-- In the dropdown in the top right of MO2, change the program to `ENB Organizer`
-- Run it and ignore any warning about Nexus updates
-- Click the three bars on the top left and navigate to the `Presets` tab
-- Disable Rudy ENB with the toggle on the bottom of the card, and enable any other ENB (see [here](https://imgur.com/gallery/3WDkZit) for a higher quality comparison)
-- Make sure you only have one ENB enabled at a time
-- Launch your game as usual
+1. Under the `WRAPPING UP - ENB` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian` and `Rudy ENB Required Files`.
+2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers` and `ENB Night Eye Fix`.
+3. In the dropdown in the top right of MO2, change the program to `ENB Organizer`.
+4. Run it and ignore any warning about Nexus updates.
+5. Click the three bars on the top left and navigate to the `Presets` tab.
+6. Disable Rudy ENB with the toggle on the bottom of the card, and enable any other ENB (see [here](https://imgur.com/gallery/3WDkZit) for a higher quality comparison).
+7. Make sure you only have one ENB enabled at a time.
+8. Launch your game as usual.
 
 Adding new ENBs or changing weather mods is possible but not supported.
 
@@ -198,10 +202,6 @@ Under the `WRAPPING UP - OPTIONAL CONTENT` separator, you can enable and disable
 #### Gamepad Support
 
 Vanilla gamepad support is... fine. For the purposes of this list, you can use the vanilla gamepad controlmap. See [this section](#the-ultimate-dodge-mod) for a recommended tweak to make dodging work correctly.
-
-**Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugin should always be at the very bottom of your load order.
-
-As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's rule 11, meaning that any modifications you make, you do so at your own risk.
 
 ## Playing the List
 
@@ -251,6 +251,7 @@ The gameplay guide can be viewed [here](https://github.com/Geborgen/nordic-souls
 Before updating, please check the [changelog](https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new save after certain updates, this will be indicated in the changelog.
 
 Updating is like installing the list. Make sure your paths are the same, and tick `overwrite existing modlist`. **Any changes you have made to the list will be reverted upon updating.** To keep mods that you added, prefix the mod name with `[NoDelete]`.
+
 ## Uninstalling the List
 
 Simply delete the folder, and you have uninstalled the list.
