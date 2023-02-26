@@ -11,7 +11,6 @@
   - [Combat](#combat)
   - [Magic](#magic)
   - [Alchemy](#alchemy)
-  - [New Creatures](#new-creatures)
   - [Survival Mode](#survival-mode)
   - [Other Stuff](#other-stuff)
 - [Quests](#quests)
