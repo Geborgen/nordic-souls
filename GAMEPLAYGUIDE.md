@@ -103,6 +103,7 @@ Alchemy has been overhauled with improvements to vanilla, and new systems as wel
 - [Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) is a lightweight overhaul of both the vanilla Skyrim carriage system and Dawnguard's ferry system. Realistic and bug-free.
 - [Mystic Condenser](https://www.nexusmods.com/skyrimspecialedition/mods/10176) lets you combine low level potions/poisons/soul gems into their higher level counterparts. They are usually located at the Jarl's court wizard's work area.
 - [Ish's Respec Mod](https://www.nexusmods.com/skyrimspecialedition/mods/1960) adds a potion allowing you to respec your perk points.
+- [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) reworks several horse-based mechanics introduced by the Creation Club.
 - [Skyrim's Got Talent](https://www.nexusmods.com/skyrimspecialedition/mods/50357) is a compact, yet powerful Bard Gameplay Overhaul. Play instruments, get better, NPCs react to your skill dynamically, many new songs, lots of easter eggs, simple implementation.
 - [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) lets you use a broom to clean up physics messes.
 - [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984) lets you use a shovel to clean up dead bodies. Access buried bodies via MCM.
