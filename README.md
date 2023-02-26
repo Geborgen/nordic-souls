@@ -84,10 +84,12 @@ The list requires ~232GB of free space (including downloads). Without downloads,
 
 ## Installation
 
-I HIGHLY recommend you buy Nexus Premium before installing the list. You *technically* don't need it, but it will be an extremely long manual process if you don't have it. If you are just updating the list, you can safely skip to [this section](#updating-the-list).
+I HIGHLY recommend you buy Nexus Premium before installing the list. You *technically* don't need it, but it will be an extremely long manual process if you don't have it. If you absolutely cannot buy premium, then put on a TV show or audiobook and make a day out it. 
+
+If you are just updating the list, you can safely skip to [this section](#updating-the-list).
 
 ### Anniversary Edition
-**Nordic Souls requires the full AE upgrade**, which means you must PURCHASE the Anniversary Edition add-on DLC. The list is built around every single CC item being installed, and will not function without them.
+**Nordic Souls requires the full AE upgrade**, which means you must PURCHASE the Anniversary Edition upgrade/DLC. The list is built around every single CC item being installed, and will not function without them.
 
 ### Preparations
 
@@ -135,6 +137,7 @@ Some common errors you may encounter during installation are listed below.
 
 - Could not download x:
   - Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
+  - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content.
 - x is not a whitelisted download:
   - This may happen when I update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find my game folder:
