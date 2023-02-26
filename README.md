@@ -33,12 +33,16 @@
     - [Problems with Installation](#problems-with-installation)
 - [Post-Installation](#post-installation)
   - [Stock Game](#stock-game)
-  - [ENB](#enb)
   - [Customizing the List](#customizing-the-list)
+    - [ENB](#enb)
+    - [Optional Content](#optional-content)
+    - [Widescreen Support](#widescreen-support)
+    - [Gamepad Support](#gamepad-support)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
   - [Mod Configuration Menu](#mod-configuration-menu)
     - [Easy WheelMenu](#easy-wheelmenu) 
+    - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
   - [Starting the Game](#starting-the-game)
   - [Gameplay Guide](#gameplay-guide)
 - [Updating the List](#updating-the-list)
@@ -48,7 +52,7 @@
 - [Changelog](#changelog)
 - [Credits and Thanks](#credits-and-thanks)
 
-## THIS LIST REQUIRES THE COMPLETE AE UPGRADE.
+## IMPORTANT: THIS LIST REQUIRES THE COMPLETE ANNIVERSARY EDITION UPGRADE. THIS MEANS THAT YOU MUST *PURCHASE* THE AE UPGRADE/DLC FROM STEAM.
 
 ## Preamble
 
@@ -72,7 +76,9 @@ Nordic Souls was built on a low-to-mid-tier machine, with slightly older-gen par
 - GPU: NVIDIA GeForce GTX 1060 6GB
 - RAM: 16GB DDR4
 
-My specs are the minimum recommended for the best experience. I get around 40-50 FPS in most exteriors.
+My specs are the minimum recommended for the best experience. 
+
+With the default ENB, in heavy areas (Falkreath/Riverwood) I might get ~35 FPS, but in most other exteriors I'll get closer to 50 FPS. In interiors, I'll keep a steady 60. Many users report a stable high FPS in most or all areas of the game.
 
 The list requires ~232GB of free space (including downloads). Without downloads, it's ~148GB.
 
@@ -144,28 +150,31 @@ If you are still having issues, visit the [Wabbajack Discord](https://discord.co
 
 Nordic Souls includes the **Stock Game** feature. This is essentially a copy of Skyrim included with the installation folder, which has cleaned plugins and all required files. This means that everything is completely separate from your Steam installation of Skyrim (which is still required as the game files are not redistributed). Basically, you don't need to transfer any files to your game folder.
 
-### ENB
-
-Nordic Souls includes a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle the ENB, and `F8` to take a screenshot.
-
-If you want to change the ENB, you must do the following:
-
-- Ensure the ENB you want works with [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125/) and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158).
-- Disable the `Rudy ENB Required Files` and `Mists of Tamriel for Rudy Obsidian` mods, located in the `LIGHTING` separator in MO2.
-- Enable the `Mists of Tamriel for Obsidian Weathers` located under the same separator.
-- Delete all files in `Nordic Souls\Stock Game` that start with `enb`.
-- Install the preset into the Stock Game folder.
-
-Some recommended ENBs are [PI-CHO](https://www.nexusmods.com/skyrimspecialedition/mods/21543) and [Silent Horizons](https://www.nexusmods.com/skyrimspecialedition/mods/21543).
-
-If you want to change the weather mod, disable `Obsidian Weathers & Seasons`, look at the missing masters warning that MO2 gives, and disable plugins accordingly. You will not recieve support if things break, as this is a larger modification of the list (see #custommizing-the-list).
-
-Do not delete the ENB binaries as this will cause issues with the list. If you don't want ENB, keep it toggled off.
-
 ### Customizing the List
 
-Under the `OPTIONAL CONTENT` separator, you can enable and disable things to your liking.
+Game settings and mod configs can be found in the `[NoDelete] NS - Game Settings` mod under the `WRAPPING UP - OUTPUT` category in MO2. Right-click, open in explorer, and find the config you need. If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.
 
+#### ENB
+
+Nordic Souls uses a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796) by default,, however there are a few alternative presets to choose from. Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle the ENB, and `F7` to take a screenshot. These keybinds are the same for all included ENBs.
+
+If you want to change the ENB, you must do the following:
+- Under the `WRAPPING UP - ENB` category in MO2, **disable** `Mists of Tamriel for Rudy Obsidian` and `Rudy ENB Required Files`
+- Under the same category, **enable** `Mists of Tamriel for Obsidian Weathers` and `ENB Night Eye Fix`
+- In the dropdown in the top right of MO2, change the program to `ENB Organizer`
+- Run it and ignore any warning about Nexus updates
+- Click the three bars on the top left and navigate to the `Presets` tab
+- Disable Rudy ENB with the toggle on the bottom of the card, and enable any other ENB (see [here](https://imgur.com/gallery/3WDkZit) for a higher quality comparison)
+- Make sure you only have one ENB enabled at a time
+- Launch your game as usual
+
+Adding new ENBs or changing weather mods is possible but not supported.
+
+If you do not want to use ENB, keep it toggled off.
+
+#### Optional Content
+
+Under the `WRAPPING UP - OPTIONAL CONTENT` separator, you can enable and disable things to your liking:
 - [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is **enabled** by default. Disable if you prefer Apothecary's restore-over-time system. If you re-enable, the ESP placement doesn't matter as long as it loads after Apothecary and before the Synthesis patch.
 - [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) is **enabled** by default. Disable if you don't want zoom effect during dialogue.
 - [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) is **enabled** by default. Disable if you don't like the subtle camera-shake effect.
@@ -173,8 +182,19 @@ Under the `OPTIONAL CONTENT` separator, you can enable and disable things to you
 - [Enhanced Blood Textures - No Screen Blood](https://www.nexusmods.com/skyrimspecialedition/mods/2357) is **disabled** by default. Enable if you don't like the screen blood that EBT adds.
 - [Kaidan 2 Fart Patch](https://kaidanmod.com/) is **disabled** by default. Enable to make Kaidan fart. Only if you're close, though.
 - [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498) is **disabled** by default. Enable if you have an NVIDIA GPU (HIGHLY RECOMMENDED).
-- [The Ultimate Control Scheme](https://www.nexusmods.com/skyrimspecialedition/mods/29381) is **disabled** by default. Enable for better controller support.
-- [NS - Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) is **disabled** by default. Enable if you use a widescreen monitor. Please note that this is very much untested, and might not even work with the included UI repplacers.
+
+#### Widescreen Support
+
+- Enable `Widescreen Fix` under the `WRAPPING UP - OPTIONAL CONTENT` separator. This was made for 21:9 displays, but it *should* work fine for 32:9 displays.
+- If you use the optional Nordic UI, enable the previous mod, and `NORDIC UI Widescreen Fix` (below the previous mod).
+- Recommended settings you should change yourself:
+  - SkyHUD - fMessageInfoPosX = `1030`
+  - TrueHUD - Player Widget Anchor X = `-0.105` 
+  - TrueHUD - Player Loot Anchor X = `1.17`
+
+#### Gamepad Support
+
+Vanilla gamepad support is... fine. For the purposes of this list, you can use the vanilla gamepad controlmap. See [this section](#the-ultimate-dodge-mod) for a recommended tweak to make dodging work correctly.
 
 **Other than this, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugin should always be at the very bottom of your load order.
 
@@ -184,13 +204,10 @@ As this may cause some confusion, I should clarify that I'm not against people e
 
 ### Starting Up
 
-Open the installation folder and open `ModOrganizer.exe`.
-
-Make sure the dropdown box on the right is set to `Play Nordic Souls [SKSE]` and run it.
-
-You can create a desktop shortcut in the shortcuts dropdown.
-
-**Do not launch the game through Steam.**
+- Open the installation folder and open `ModOrganizer.exe`.
+- Make sure the dropdown box on the right is set to `Play Nordic Souls [SKSE]` and run it.
+- You can create a desktop shortcut in the shortcuts dropdown.
+- **Do not launch the game through Steam.**
 
 ### Mod Configuration Menu
 
@@ -203,7 +220,18 @@ Easy WheelMenu requires special configuration.
 - Open the `EasyWheel` MCM, go to `Maintenance`, and press `Load` under `User Settings`. 
 - Go to `General`, un-tick `Hide Spells`, then tick it again.
 
-Easy WheelMenu is now successfully configured. Press `K` to open.
+Easy WheelMenu is now configured. Press `K` to use it.
+
+#### The Ultimate Dodge Mod
+
+If you use gamepad, you may want to configure TUDM.
+
+- Open the `The Ultimate Dodge Mod` MCM, go to `General`, and tick `Gamepad/Controller Compatibility`.
+- Pick your sneak style:
+  - Sneak Style 1 (recommended): Dodge with left thumb while weapon is drawn and/or in combat, sneak otherwise.
+  - Sneak Style 2: Dodge with left thumb while weapon is drawn, sneak otherwise.
+  
+TUDM is now configured for gamepad usage.
 
 ### Starting the Game
 
