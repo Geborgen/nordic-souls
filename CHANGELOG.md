@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 1.4.0.1](#version-1401)
 - [Version 1.4.0](#version-140)
 - [Version 1.3.3](#version-133)
 - [Version 1.3.2](#version-132)
@@ -12,6 +13,10 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.4.0.1
+**HOTFIX UPDATE, SAVE-SAFE**
+- Fixed certain installation issues related to the Creation Kit
 
 ## Version 1.4.0
 **THIS UPDATE REQUIRES A NEW GAME**
