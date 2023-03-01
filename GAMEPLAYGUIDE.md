@@ -120,7 +120,7 @@ Not everyone is an item hoarder, though. Something you need to keep in mind is, 
 
 In addition to the main mod, I've included the [Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529) and [Safehouse Plus](https://www.nexusmods.com/skyrimspecialedition/mods/39278) add-ons, along with countless patches for full integration.
 
-If you want to avoid the museum entirely, [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) is included.
+If you want to avoid the museum entirely, [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) is included. Find the key for the vault in High Hrothgar.
 
 ### New Quests
 
@@ -163,14 +163,13 @@ If you want to avoid the museum entirely, [Dovahkiin's Vault](https://www.nexusm
 - [Kaidan](https://www.nexusmods.com/skyrimspecialedition/mods/19075) is a romantic follower featuring over 1200 lines of dialogue, custom home, and mini quests. You can begin looking for him by asking Orgnar at the Sleeping Giant Inn in Whiterun if anything interesting is happening in town.
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) is a traditionalist Wood Elf archer, and my second-favorite follower. You can find her house somewhere in the Falkreath pine forest.
 - [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) is a Breton engineer who will accompany you in your travels. She's travelled from Wayrest to explore Dwemer ruins in Skyrim, but she needs your help. While she's not much of a fighter, she boasts a knack for machinery and will reprogram a dwemer spider to fight alongside you both. You can find her at the Silver-Blood Inn in Markarth
-- [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893) is a custom fully voiced Argonian lawman of House Telvanni with ~4150 lines. He is on his way to Rivenspire in High Rock, having traveled all the way from Port Telvannis in Morrowind. Xelzaz has just arrived in Skyrim and is looking for a traveling companion. In return he will keep you company, cook you warm meals and brew powerful potions. You can start looking for him by finding a note on the wall in the Bee and Bard Inn in Riften.
+- [Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/62893) is a custom fully voiced Argonian lawman of House Telvanni with ~4150 lines. He is on his way to Rivenspire in High Rock, having traveled all the way from Port Telvannis in Morrowind. Xelzaz has just arrived in Skyrim and is looking for a traveling companion. In return he will keep you company, cook you warm meals and brew powerful potions. You can start looking for him by finding a note on the wall in the Bee and Barb Inn in Riften.
 - [Garm](https://www.nexusmods.com/skyrimspecialedition/mods/68873) is a fierce husky companion. What more do you need? He can be found with Andurs at the Temple of Arkay in Whiterun.
 
 ## Player Homes
 
 In addition to the [Creation Club houses](https://en.uesp.net/wiki/Skyrim:Houses#Creation_Club_HousesCC), I've added a few custom player homes. Some of them will require you to use the power from [Hearthfire Multiple Adoptions](https://www.nexusmods.com/skyrimspecialedition/mods/3862) if you want your family to move in (open the wheel menu and select `Bless Home`).
 
-- [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237) is a small vault in the Throat of the World for storing away all those sketchy arcane objects in a safe location away from innocent people and your family. Find the key in High Hrothgar.
 - [Mörskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) is a large player home situated on the hillside of Dawnstar. The mod comes with a short quest to acquire the home before the player will need to restore the building to its former glory, including the exterior and interior. Depending on your play style, Mörskom can be rebuilt using skill and materials or paid workers.
 - [Riverside Lodge](https://www.nexusmods.com/skyrimspecialedition/mods/9567) is a picturesque and fully equipped player home between Whiterun and Riverwood. You can find the key in the chest ouside the front door. This is a good starter home, as it's technically free.
 - [Viking's Longhouse](https://www.nexusmods.com/skyrimspecialedition/mods/10860) is a nordic themed player home near Windhelm, simple yet cozy for a nord warrior.
