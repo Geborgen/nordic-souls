@@ -34,7 +34,7 @@ Let's get started with the breakdown of what you can expect.
 
 Nordic Souls uses both the [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) and [DeltaRim](https://www.nexusmods.com/skyrimspecialedition/users/3222307?tab=user+files) suites of mods, among a few others.
 
-The vanilla boss fights and enemies have been revamped. Each Dragon Priest gives Alduin a different buff, so you should hunt down all the priests for an easier Alduin fight. Same thing with Miraak: The Solstheim Dragon Priests will buff him unless killed (killing Vahlok will buf him, however). You can take on these familiar adventures, and explore some new lands and quests as well. You'll find more interesting Draugr fights, harder dragon fights. There's also some new creatures, armor, and weapons scattered throughout the world. New powerful artifacts have been added, with existing ones balanced and overhauled.
+The vanilla boss fights and enemies have been revamped. Each Dragon Priest gives Alduin a different buff, so you should hunt down all the priests for an easier Alduin fight. Same thing with Miraak: The Solstheim Dragon Priests will buff him unless killed (killing Vahlok will buff him, however). You can take on these familiar adventures, and explore some new lands and quests as well. You'll find more interesting Draugr fights and harder dragon fights. There's also some new creatures, armor, and weapons scattered throughout the world. New powerful artifacts have been added, with existing ones balanced and overhauled.
 
 For every mod linked below, you should familiarize yourself with their systems.
 
