@@ -23,6 +23,7 @@
 - [Preamble](#preamble)
 - [List Contents](#list-contents)
 - [System Requirements](#system-requirements)
+  - [My Specs](#my-specs)
 - [Installation](#installation)
   - [Anniversary Edition](#anniversary-edition)
   - [Preparations](#preparations)
@@ -43,6 +44,7 @@
   - [Mod Configuration Menu](#mod-configuration-menu)
     - [Easy WheelMenu](#easy-wheelmenu) 
     - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
+    - [Leveling Freedom](#leveling-freedom)
   - [Starting the Game](#starting-the-game)
   - [Gameplay Guide](#gameplay-guide)
 - [Updating the List](#updating-the-list)
@@ -69,7 +71,9 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 ## System Requirements
 
-Nordic Souls was built on a low-to-mid-tier machine, with slightly older-gen parts. I run a 1080p 16:9 display.
+Nordic Souls requires ~273 GB of free space (including downloads). Without downloads, it's ~170 GB.
+
+The list was built on a low-to-mid-tier machine, with slightly older-gen parts. I run a 1080p 16:9 display.
 
 ### My Specs
 - CPU: AMD Ryzen 5 2600
@@ -79,8 +83,6 @@ Nordic Souls was built on a low-to-mid-tier machine, with slightly older-gen par
 My specs are the minimum recommended for the best experience. 
 
 With the default ENB, in heavy areas (Falkreath/Riverwood) I might get ~35 FPS, but in most other exteriors I'll get closer to 50 FPS. In interiors, I'll keep a steady 60. Many users report a stable high FPS in most or all areas of the game.
-
-The list requires ~270 GB of free space (including downloads). Without downloads, it's ~168 GB.
 
 ## Installation
 
@@ -165,7 +167,8 @@ Game settings and mod configs can be found in the `[NoDelete] NS - Game Settings
 
 Nordic Souls uses a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796) by default,, however there are a few alternative presets to choose from. Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle the ENB, and `F7` to take a screenshot. These keybinds are the same for all included ENBs.
 
-If you want to change the ENB, you must do the following:
+If you want to change the ENB, you must do the following.
+
 1. Under the `WRAPPING UP - ENB` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian` and `Rudy ENB Required Files`.
 2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers` and `ENB Night Eye Fix`.
 3. In the dropdown in the top right of MO2, change the program to `ENB Organizer`.
@@ -236,6 +239,10 @@ If you use gamepad, you may want to configure TUDM.
   - Sneak Style 2: Dodge with left thumb while weapon is drawn, sneak otherwise.
   
 TUDM is now configured for gamepad usage.
+
+#### Leveling Freedom
+
+By default, Nordic Souls uses the vanilla leveling system, but the nuances of it can be changed. In the Leveling Freedom MCM, you can adjust the leveling curve by selecting a preset or adjusting your own values. This will change how fast you level up in relation to your current level. See the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/69589) for more information.
 
 ### Starting the Game
 
