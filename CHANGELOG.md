@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 1.4.1](#version-141)
 - [Version 1.4.0.1](#version-1401)
 - [Version 1.4.0](#version-140)
 - [Version 1.3.3](#version-133)
@@ -13,6 +14,67 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.4.1
+**THIS UPDATE REQUIRES A NEW GAME**
+A lot of behind-the-hood changes and a lot more patching, unfortunately requiring a new game even with the smaller size of the update. I've added some new armor to make up for it.
+- Horses no longer have randomized coats and armor
+- Some major mod updates
+- You can now change the leveling curve
+- Colovian Prince armor
+- Miscellaneous conflict resolution and plugin fixes
+- Reduced .wabbajack file size
+### Updated
+- [VIGILANT - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/57961)
+- [Unofficial Skyrim Modder's Patch - USMP SE](https://www.nexusmods.com/skyrimspecialedition/mods/49616)
+- [Unofficial Skyrim Modders Patch - USMP - Patch Emporium](https://www.nexusmods.com/skyrimspecialedition/mods/50813)
+- [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
+- [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372)
+- [Cooking Categories Improvement (Constructible Object Custom Keyword System - Fixes)](https://www.nexusmods.com/skyrimspecialedition/mods/84875)
+- [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
+- [Ebony Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/83654)
+- [Remiel-Custom Voiced Dwemer Specialist and Companion](https://www.nexusmods.com/skyrimspecialedition/mods/51874)
+- [Xelzaz - Custom Fully Voiced Argonian Telvanni Follower](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
+- [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802)
+- [Legacy of the Dragonborn - The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+- [FormList Manipulator - FLM](https://www.nexusmods.com/skyrimspecialedition/mods/74037)
+- [Skyrim Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/26138)
+- [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
+- [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095)
+- [CBBE 3BA (3BBB)](https://www.nexusmods.com/skyrimspecialedition/mods/30174)
+- [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+- [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790)
+- [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
+- [QuickLoot EE](https://www.nexusmods.com/skyrimspecialedition/mods/69980)
+- [Untarnished UI](https://www.nexusmods.com/skyrimspecialedition/mods/75188)
+### Added
+- [Lux - Variants](https://www.nexusmods.com/skyrimspecialedition/mods/60524)
+- [Brewer - An Alcohol Brewing Mod](https://www.nexusmods.com/skyrimspecialedition/mods/83542)
+- [Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097)
+- [3BA and HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86141)
+- [Wyrmstooth Suleyk Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/68073)
+- [Interesting NPCs (3DNPC) character Zora Fairchild's voice boosted](https://www.nexusmods.com/skyrimspecialedition/mods/16090)
+- [Immersive Kaidan Start - ElevenLabs Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/85916)
+- [Remiel - Default Outfit BodySlides - CBBE 3BA - BHUNP](https://www.nexusmods.com/skyrimspecialedition/mods/85903)
+- [RAE - Quest Requirements - ECSS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/86008)
+- [HearthFires Display Case Fix SE](https://www.nexusmods.com/skyrimspecialedition/mods/15104)
+- [Common Clothes - No Numbers](https://www.nexusmods.com/skyrimspecialedition/mods/86245)
+- [Rudy HQ - Hay SE](https://www.nexusmods.com/skyrimspecialedition/mods/25125)
+- [Leveling Freedom - Configure your XP Curve](https://www.nexusmods.com/skyrimspecialedition/mods/69589)
+- [Colovian Prince Set](https://www.nexusmods.com/skyrimspecialedition/mods/79894)
+- [Colovian Prince Set- Optimized Textures](https://www.nexusmods.com/skyrimspecialedition/mods/84202)
+- [Colovian Prince Armor - SPID](https://www.nexusmods.com/skyrimspecialedition/mods/84481)
+- [3BA Colovian Prince](https://www.nexusmods.com/skyrimspecialedition/mods/84230)
+- [Wall mounted dead animals fixes](https://www.nexusmods.com/skyrimspecialedition/mods/58511)
+- [Leviathan Animations II - Greatsword Non Combat Locomotion](https://www.nexusmods.com/skyrimspecialedition/users/3812151)
+- [Leviathan Animations II - Greatsword Low Stance](https://www.nexusmods.com/skyrimspecialedition/mods/86183)
+### Removed
+- [Unofficial Lux Patches](https://www.nexusmods.com/skyrimspecialedition/mods/62550)
+- [Lux Orbis Misc Patches](https://www.nexusmods.com/skyrimspecialedition/mods/67610)
+- [King Olaf's Fire Festival Not Ending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/65849)
+- [Frankly HD Imperial Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/20848)
+- [Lord's Mail - Ebony Styled Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59105)
 
 ## Version 1.4.0.1
 **HOTFIX UPDATE, SAVE-SAFE**
