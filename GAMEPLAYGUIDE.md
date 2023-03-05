@@ -42,6 +42,7 @@ For every mod linked below, you should familiarize yourself with their systems.
 
 With new perk overhauls and various other character overhauls, you will have a familiar yet fresh experience building up your influence in Skyrim.
 
+- [Leveling Freedom](https://www.nexusmods.com/skyrimspecialedition/mods/69589) gives you control over the shape of the leveling curve in the game. You can adjust how quickly levels come at first, and how much more they cost as you level up - if any more at all. Vanilla values are set by default, but you can change them in the MCM.
 - [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a complete overhaul of Skyrim’s human, elf, and beast races designed to balance the game’s races and add powerful new gameplay options.
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) is a complete overhaul of Skyrim’s perk trees designed to balance existing skills and add powerful new perks to the game.
 - [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) is an addon for Adamant - A Perk Overhaul that merges Lockpicking and Pickpocketing into a single skill and adds a new perk tree for Hand to Hand combat.
