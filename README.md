@@ -45,6 +45,7 @@
     - [Easy WheelMenu](#easy-wheelmenu) 
     - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
     - [Leveling Freedom](#leveling-freedom)
+    - [SmoothCam](#smoothcam)
   - [Starting the Game](#starting-the-game)
   - [Gameplay Guide](#gameplay-guide)
 - [Updating the List](#updating-the-list)
@@ -192,7 +193,6 @@ Under the `WRAPPING UP - OPTIONAL CONTENT` separator, you can enable and disable
 - [NORDIC UI Full Suite](https://www.nexusmods.com/skyrimspecialedition/mods/49881) is **disabled** by default. Enable if you want a different UI style.
 - [Enhanced Blood Textures - No Screen Blood](https://www.nexusmods.com/skyrimspecialedition/mods/2357) is **disabled** by default. Enable if you don't like the screen blood that EBT adds.
 - [Kaidan 2 Fart Patch](https://kaidanmod.com/) is **disabled** by default. Enable to make Kaidan fart. Only if you're close, though.
-- [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498) is **disabled** by default. Enable if you have an NVIDIA GPU (HIGHLY RECOMMENDED).
 
 #### Widescreen Support
 
@@ -243,6 +243,10 @@ TUDM is now configured for gamepad usage.
 #### Leveling Freedom
 
 By default, Nordic Souls uses the vanilla leveling system, but the nuances of it can be changed. In the Leveling Freedom MCM, you can adjust the leveling curve by selecting a preset or adjusting your own values. This will change how fast you level up in relation to your current level. See the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/69589) for more information.
+
+#### SmoothCam
+
+The Octavian preset is enabled by default. There are a few other options you can try. If you add your own, pay attention to the slot number.
 
 ### Starting the Game
 
