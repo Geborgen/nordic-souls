@@ -22,6 +22,7 @@
 - Updated LOTD Curator's Companion so no more CraftLoot issues
 - New player home
 - A few town updates
+- Contextual Crosshair
 - Hopefully smoothed out a lot of stuttering
 ### Fixed
 - [Negative Carry Weight After LotD Supply Sorting (13)](https://github.com/Geborgen/nordic-souls/issues/13)
