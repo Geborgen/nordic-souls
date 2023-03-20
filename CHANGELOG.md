@@ -318,7 +318,7 @@ Woah, another big update... is it bigger than 1.3? Perhaps. A lot of things chan
 - [Ashbound - Solstheim Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/73278)
 - [Iron Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84978)
 - [Daedric Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/84151)
-- [Ebondy Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/83654)
+- [Ebony Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/83654)
 - [Steel Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/85445)
 - [Lord's Mail - Ebony Styled Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59105)
 - [Unique Red Wave](https://www.nexusmods.com/skyrimspecialedition/mods/77586)
