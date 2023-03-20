@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 1.4.2](#version-142)
 - [Version 1.4.1](#version-141)
 - [Version 1.4.0.1](#version-1401)
 - [Version 1.4.0](#version-140)
@@ -14,6 +15,69 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.4.2
+**THIS UPDATE REQUIRES A NEW GAME**
+- Surface overhaul with Lux Via
+- Updated LOTD Curators Companion so no more CraftLoot issues
+- New player home
+- A few town updates
+- Hopefully smoothed out a lot of stuttering
+### Fixed
+- [Negative Carry Weight After LotD Supply Sorting (13)](https://github.com/Geborgen/nordic-souls/issues/13)
+- Various crash issues related to books
+- Nordic UI uses wrong compass
+### Updated
+- [Legacy of the Dragonborn - The Curator's Companion](https://www.nexusmods.com/skyrimspecialedition/mods/38529)
+- [Legacy of the Dragonborn Patches (Official)](https://www.nexusmods.com/skyrimspecialedition/mods/30980)
+- [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)
+- [FYX - Jorrvaskr](https://www.nexusmods.com/skyrimspecialedition/mods/77355)
+- [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133)
+- [C.O.C.K.S. for Skyrim 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/81723)
+- [Alchemy Plus for Skyrim 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/81747)
+- [Beard Mask Fix for Skyrim 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/81756)
+- [Spaghetti's Cities - AIO](https://www.nexusmods.com/skyrimspecialedition/mods/84735)
+- [Spaghetti's Towns - Riverwood](https://www.nexusmods.com/skyrimspecialedition/mods/85356)
+- [Spaghetti's Towns - Rorikstead](https://www.nexusmods.com/skyrimspecialedition/mods/85802)
+- [Unmarked Locations Pack](https://www.nexusmods.com/skyrimspecialedition/mods/82662)
+- [Recipe Auto-Learn](https://www.nexusmods.com/skyrimspecialedition/mods/84909)
+- [Desktop Splash Screen](https://www.nexusmods.com/skyrimspecialedition/mods/83470)
+- [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372)
+- [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
+- [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- [Unofficial eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/70176)
+- [NPC Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
+### Added
+- [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588) (main file)
+- [Magelight Keep](https://www.nexusmods.com/skyrimspecialedition/mods/83670)
+- [Blades Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86568)
+- [Elven Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87283)
+- [FYX - Eastern Empire Company Building](https://www.nexusmods.com/skyrimspecialedition/mods/86526)
+- [FYX - The first Rampart and Watchtower of Solitude](https://www.nexusmods.com/skyrimspecialedition/mods/86964)
+- [Soul Cairn Script Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/86367)
+- [Sprint Sneak Movement Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/86631)
+- [Motionless Rocks Killing People Fix](https://www.nexusmods.com/skyrimspecialedition/mods/87111)
+- [Versatile Item and Group Re-Assignment - C.O.C.K.S. Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/85419)
+- [Inventory Interface Information Injector](https://www.nexusmods.com/skyrimspecialedition/mods/85702)
+- [Inventory Interface Information Injector for Skyrim 1.5](https://www.nexusmods.com/skyrimspecialedition/mods/87002)
+- [Spaghetti's Towns - Dragon Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/86302)
+- [Spaghetti's Towns - Ivarstead](https://www.nexusmods.com/skyrimspecialedition/mods/86816)
+- [Spaghetti's Towns - Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/87292)
+- [Ryn's Anise's Cabin](https://www.nexusmods.com/skyrimspecialedition/mods/75056)
+- [Distinct Interiors Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/86918)
+- [Psychopatchist Purgatory](https://www.nexusmods.com/skyrimspecialedition/mods/87016)
+- [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
+### Removed
+- [Ryn's Farms](https://www.nexusmods.com/skyrimspecialedition/mods/72305)
+- [Ryn's Farms AIO - Landscape and Water Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/72747)
+- [Dragon Priest Fix - Behaviour Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/51608)
+- [Leviathan Animations II - Greatsword Non Combat Locomotion](https://www.nexusmods.com/skyrimspecialedition/mods/84201)
+- [Leviathan Animations II - Greatsword Low Stance](https://www.nexusmods.com/skyrimspecialedition/mods/86183)
+- [Constructible Object Custom Keyword System - Seperate Weapon and Armor](https://www.nexusmods.com/skyrimspecialedition/mods/81787)
+- [Fix Note icon for SkyUI (SKSE64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/32561)
+- [Ancient Land](https://www.nexusmods.com/skyrimspecialedition/mods/22900)
+- [More Wooden Bridges](https://www.nexusmods.com/skyrimspecialedition/mods/42201)
+- [Book Covers Skyrim - Lost Library REDUX 4K-2K](https://www.nexusmods.com/skyrimspecialedition/mods/70272)
 
 ## Version 1.4.1
 **THIS UPDATE REQUIRES A NEW GAME**
