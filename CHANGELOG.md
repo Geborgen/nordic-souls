@@ -19,7 +19,7 @@
 ## Version 1.4.2
 **THIS UPDATE REQUIRES A NEW GAME**
 - Surface overhaul with Lux Via
-- Updated LOTD Curators Companion so no more CraftLoot issues
+- Updated LOTD Curator's Companion so no more CraftLoot issues
 - New player home
 - A few town updates
 - Hopefully smoothed out a lot of stuttering
