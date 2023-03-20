@@ -285,6 +285,6 @@ To see the changes and version history, visit the [changelog](https://github.com
 
 - All mod authors for their hard work
 - The Wabbajack team for making this awesome tool
-- Other Wabbajack authors for their help and inspiration
+- Other Wabbajack list authors for their help and inspiration
 - All the members of my Discord who have helped develop the list, through finding issues and contributing ideas
 - Based Department (you know who you are)
