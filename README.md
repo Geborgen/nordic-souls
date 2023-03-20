@@ -190,6 +190,7 @@ Under the `WRAPPING UP - OPTIONAL CONTENT` separator, you can enable and disable
 - [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) is **enabled** by default. Disable if you don't want zoom effect during dialogue.
 - [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) is **enabled** by default. Disable if you don't like the subtle camera-shake effect.
 - [Rumble](https://www.nexusmods.com/skyrimspecialedition/mods/84507) is **enabled** by default. Disable if you don't like the improved controller rumble.
+- [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980) is **enabled** by default. Disable if you want the crosshair to always show.
 - [NORDIC UI Full Suite](https://www.nexusmods.com/skyrimspecialedition/mods/49881) is **disabled** by default. Enable if you want a different UI style.
 - [Enhanced Blood Textures - No Screen Blood](https://www.nexusmods.com/skyrimspecialedition/mods/2357) is **disabled** by default. Enable if you don't like the screen blood that EBT adds.
 - [Kaidan 2 Fart Patch](https://kaidanmod.com/) is **disabled** by default. Enable to make Kaidan fart. Only if you're close, though.
