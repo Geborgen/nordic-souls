@@ -54,7 +54,7 @@ With new perk overhauls and various other character overhauls, you will have a f
 
 Combat in Nordic Souls is slightly more difficult but still balanced. It's technically designed for third person; however, unlike some lists, first person combat will work perfectly fine. The full suite of beautiful combat animations by [Verolevi](https://www.nexusmods.com/skyrimspecialedition/users/3812151) has been provided, with [FPCA](https://www.nexusmods.com/skyrimspecialedition/mods/45177) for first-person animations if you choose to play that way.
 
-- [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) adds script-free timed blocking, projectile parrying, stun and execution, and none-intrusive stamina management to push Skyrim's combat to modern standards.
+- [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) adds script-free timed blocking, projectile parrying, stun and execution, and non-intrusive stamina management to push Skyrim's combat to modern standards.
 - [The Ultimate Dodge Mod Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/63000) adds a dodge mechanic with i-frames, or invincibility frames, which means you are invulnerable to damage for the duration of the dodge. The default dodge key is `ctrl`.
 - [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) adds correct hitboxes for weapons, physics-based hit reactions, weapon trails, hitstop, camera shake, and recoils.
 - [Vanguard](https://www.skyrim-guild.com/adris-projects/vanguard) slows down bash behaviors for NPC actors and gives more telegraph and balance and allows you to time to dodge or move aside.
