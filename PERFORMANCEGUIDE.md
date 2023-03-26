@@ -9,8 +9,9 @@ Despite Nordic Souls being relatively performance-friendly, it can still be taxi
   - [Basic Tab](#basic-tab)
   - [Detail Tab](#detail-tab)
   - [View Distance Tab](#view-distance-tab)
-- [LOD](#lod)
 - [SSE Display Tweaks](#sse-display-tweaks)
+- [Upscaler](#upscaler)
+- [LOD](#lod)
 - [Wrapping Up](#wrapping-up)
 
 ## Hardware Upgrade
@@ -56,18 +57,6 @@ Once you open BethINI, you should first go to the `Setup` tab and make sure your
 
 Back on the `Basic` tab, save and exit.
 
-## LOD
-
-Nordic Souls uses high quality LODs. Unfortunately, these might cause stuttering. Thankfully, they can be changed or disabled.
-
-To disable the LODs, open the `WRAPPING UP - OUTPUT` separator and disable `NS - xLODGen Output`, `NS - TexGen Output`, and `NS - DynDOLOD Output`. If you re-enable these, refer to the plugin placement [here](https://loadorderlibrary.com/lists/nordic-souls).
-
-You can also re-generate the LODs at a lower quality. Plese note that this now falls under Wabbajack's rule 11 and you will not recieve support if you break things.
-
-All the tools you need are included. In MO2's application drop-down, click `<Edit...>`. Find `xLODGenx64`, `TexGenx64`, and `DynDOLODx64`. For each application, disable `Hide in user interface`.
-
-Please refer to [Althro's DynDOLOD guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md) when generating LODs. You can skip steps involving Grass LODs (unless you want to generate grass cache and do it yourself) and ACMOS (NS uses a paper map). Some things you can do are disable 3D tree LODs and use DynDOLOD medium or low rules.
-
 ## SSE Display Tweaks
 
 The [SSE Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) has quite a lot of configuration options, but most of them are disabled by default.
@@ -81,6 +70,28 @@ To find the INI, open the `WRAPPING UP - OUTPUT` separator in MO2. right-click t
 - Set `#ResolutionScale=0.75` to `ResolutionScale=0.9`
 
 Remeber to remove the `#` where noted, so the tweaks actually work. The minimum you should set the resolution scale to is `0.8` or you may have a blurry game.
+
+## Upscaler
+
+Skyrim now has support for upscaling, using technology like [DLSS](https://www.nvidia.com/en-us/geforce/technologies/dlss/), [FSR2](https://www.amd.com/en/technologies/fidelityfx-super-resolution), and [XeSS](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/xess.html).
+
+Get the base plugin from [here](https://www.nexusmods.com/site/mods/502). You can then read [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/80343) for installation instructions, but keep in mind that this version *does not work with ENB*. If you want to use ENB with the list, you will need the version from [PureDark's Patreon](https://www.patreon.com/PureDark). At this time, you will have to pay, but it will be released to the public eventually.
+
+You won't recieve support for adding the upscaler because it falls under modifying the list.
+
+## LOD
+
+Nordic Souls uses relatively performance-friendly LODs, but they can still cause stuttering on low-end computers. Thankfully, they can be disabled or re-generated.
+
+To disable the LODs, open the `WRAPPING UP - OUTPUT` separator and disable `NS - xLODGen Output`, `NS - TexGen Output`, and `NS - DynDOLOD Output`. If you re-enable these, refer to the plugin placement [here](https://loadorderlibrary.com/lists/nordic-souls).
+
+You can also re-generate the LODs at a lower quality. Plese note that this now falls under Wabbajack's rule 11 and you will not recieve support if you break things.
+
+All the tools you need are included. In MO2's application drop-down, click `<Edit...>`. Find `xLODGenx64`, `TexGenx64`, and `DynDOLODx64`. For each application, disable `Hide in user interface`.
+
+Please refer to [Althro's DynDOLOD guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md) when generating LODs. You can skip steps involving Grass LODs (unless you want to generate grass cache and do it yourself) and ACMOS (NS uses a paper map). Some things you can do are disable 3D tree LODs and use DynDOLOD low rules.
+
+[For reference, these are the settings that NS uses by default.](https://imgur.com/gallery/sTF2mBr)
 
 ## Wrapping Up
 
