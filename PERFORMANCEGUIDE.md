@@ -1,4 +1,4 @@
-# Gameplay Guide
+# Performance Guide
 
 Despite Nordic Souls being relatively performance-friendly, it can still be taxing on low-end systems. There are several things you can do to decrease stuttering and increase overall performance.
 
