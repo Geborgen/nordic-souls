@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 1.4.3](#version-143)
 - [Version 1.4.2](#version-142)
 - [Version 1.4.1](#version-141)
 - [Version 1.4.0.1](#version-1401)
@@ -15,6 +16,34 @@
 - [Version 1.1.0](#version-110)
 - [Version 1.0.1](#version-101)
 - [Version 1.0.0](#version-100)
+
+## Version 1.4.3
+**THIS UPDATE IS SAVE-SAFE, JUST SAVE IN AN INTERIOR**
+- New Spaghetti town
+- New armor set (Sleek Wolf Armor)
+- New Serana dialogue
+- Optimized LODs for better performance
+- Updated various mods
+### Fixed
+- Crash when reading Atronach Forge Manual
+### Updated
+- [Spaghetti's Cities - AIO](https://www.nexusmods.com/skyrimspecialedition/mods/84735)
+- [Steel Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/85445)
+- [Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86097)
+- [3BA and HIMBO Bodyslide for Imperial Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/86141)
+- [VIGILANT SE](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
+- [VIGILANT Voiced - English Addon](https://www.nexusmods.com/skyrimspecialedition/mods/11894)
+### Added
+- [Spaghetti's Towns - Shor's Stone](https://www.nexusmods.com/skyrimspecialedition/mods/87767)
+- [Sleek Wolf Armor - Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/44812)
+- [Dragon Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/83222)
+- [Glass Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/87580)
+- [Simonrim I4 Addons](https://www.nexusmods.com/skyrimspecialedition/mods/87608)
+- [Interesting NPCs (3DNPC) Script Optimisation - barbasdialoguedetect](https://www.nexusmods.com/skyrimspecialedition/mods/87245)
+- [Serana Expanded - Dialogue Additions](https://www.nexusmods.com/skyrimspecialedition/mods/87386)
+### Removed
+- [Frankly HD Dragonbone and Dragonscale - Armor and Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/25110)
+- [King Olaf's Fire Festival Not Ending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/65849)
 
 ## Version 1.4.2
 **THIS UPDATE REQUIRES A NEW GAME**
