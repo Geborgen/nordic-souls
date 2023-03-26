@@ -11,6 +11,7 @@
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/77497">Nexus Page</a> |
   <a href="https://discord.com/invite/9cRs3KPyuW">Discord Support</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md">Performance Guide</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/KNOWNISSUES.md">Known Issues</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a>
 </p>
@@ -36,6 +37,7 @@
   - [Stock Game](#stock-game)
   - [Customizing the List](#customizing-the-list)
     - [ENB](#enb)
+    - [Performance](#performance)
     - [Optional Content](#optional-content)
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
@@ -74,16 +76,16 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 Nordic Souls requires ~273 GB of free space (including downloads). Without downloads, it's ~170 GB.
 
-The list was built on a low-to-mid-tier machine, with slightly older-gen parts. I run a 1080p 16:9 display.
+The list was built on a relatively low-tier machine, with older-gen parts. I run a 1080p 16:9 display.
 
 ### My Specs
 - CPU: AMD Ryzen 5 2600
 - GPU: NVIDIA GeForce GTX 1060 6GB
 - RAM: 16GB DDR4
 
-My specs are the minimum recommended for the best experience. 
+My specs are the minimum recommended for the best experience.
 
-With the default ENB, in heavy areas (Falkreath/Riverwood) I might get ~35 FPS, but in most other exteriors I'll get closer to 50 FPS. In interiors, I'll keep a steady 60. Many users report a stable high FPS in most or all areas of the game.
+With the default ENB, in heavy areas (Falkreath/Riverwood) I might drop down to 30 FPS, but in most other exteriors I'll get closer to 45 FPS. Keep in mind my PC is by no means new, and this is without any of the performance tweaks. Many users report a stable high FPS in most or all areas of the game. If you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md). With my PC being the minimum for a good experience, this list can be considered performance-friendly for most systems.
 
 ## Installation
 
@@ -162,7 +164,7 @@ Nordic Souls includes the **Stock Game** feature. This is essentially a copy of 
 
 As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's rule 11, meaning that any modifications you make, you do so at your own risk.
 
-Game settings and mod configs can be found in the `[NoDelete] NS - Game Settings` mod under the `WRAPPING UP - OUTPUT` separator in MO2. Right-click, open in explorer, and find the config you need. If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.
+Game settings and mod configs can be found in the `[NoDelete] NS - Game Settings` mod under the `WRAPPING UP - OUTPUT` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.
 
 #### ENB
 
@@ -183,10 +185,14 @@ Adding new ENBs or changing weather mods is possible but not supported.
 
 If you do not want to use ENB, keep it toggled off.
 
+#### Performance
+
+If you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md).
+
 #### Optional Content
 
 Under the `WRAPPING UP - OPTIONAL CONTENT` separator, you can enable and disable things to your liking:
-- [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is **enabled** by default. Disable if you prefer Apothecary's restore-over-time system. If you re-enable, the ESP placement doesn't matter as long as it loads after Apothecary and before the Synthesis patch.
+- [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is **enabled** by default. Disable if you prefer Apothecary's restore-over-time system.
 - [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) is **enabled** by default. Disable if you don't want zoom effect during dialogue.
 - [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) is **enabled** by default. Disable if you don't like the subtle camera-shake effect.
 - [Rumble](https://www.nexusmods.com/skyrimspecialedition/mods/84507) is **enabled** by default. Disable if you don't like the improved controller rumble.
