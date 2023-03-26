@@ -73,7 +73,7 @@ Remeber to remove the `#` where noted, so the tweaks actually work. The minimum 
 
 ## Upscaler
 
-Skyrim now has support for upscaling, using technology like [DLSS](https://www.nvidia.com/en-us/geforce/technologies/dlss/), [FSR2](https://www.amd.com/en/technologies/fidelityfx-super-resolution), and [XeSS](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/xess.html).
+Skyrim now has support for upscaling, using technology like [DLSS](https://www.nvidia.com/en-us/geforce/technologies/dlss/), [FSR2](https://www.amd.com/en/technologies/fidelityfx-super-resolution), and [XeSS](https://www.intel.com/content/www/us/en/products/docs/arc-discrete-graphics/xess.html). Using this with Skyrim increases FPS exponentially.
 
 Get the base plugin from [here](https://www.nexusmods.com/site/mods/502). You can then read [the mod page](https://www.nexusmods.com/skyrimspecialedition/mods/80343) for installation instructions, but keep in mind that this version *does not work with ENB*. If you want to use ENB with the list, you will need the version from [PureDark's Patreon](https://www.patreon.com/PureDark). At this time, you will have to pay, but it will be released to the public eventually.
 
@@ -85,7 +85,7 @@ Nordic Souls uses relatively performance-friendly LODs, but they can still cause
 
 To disable the LODs, open the `WRAPPING UP - OUTPUT` separator and disable `NS - xLODGen Output`, `NS - TexGen Output`, and `NS - DynDOLOD Output`. If you re-enable these, refer to the plugin placement [here](https://loadorderlibrary.com/lists/nordic-souls).
 
-You can also re-generate the LODs at a lower quality. Plese note that this now falls under Wabbajack's rule 11 and you will not recieve support if you break things.
+You can also re-generate the LODs at a lower quality. Plese note that this now falls under Wabbajack's rule 11 and you will not recieve support if you break things. *Re-generating LODs is not recommended unless you absolutely know what you're doing.*
 
 All the tools you need are included. In MO2's application drop-down, click `<Edit...>`. Find `xLODGenx64`, `TexGenx64`, and `DynDOLODx64`. For each application, disable `Hide in user interface`.
 
