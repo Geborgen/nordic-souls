@@ -16,7 +16,7 @@ Despite Nordic Souls being relatively performance-friendly, it can still be taxi
 
 ## Hardware Upgrade
 
-In no way do we recommend spending this type of money if you are not in a financially comfortable situation, but if you have a flexible budget, it might be worth looking into. This is not a PC guide, so this section will be brief.
+In no way do I recommend or encourage spending this type of money if you are not in a financially comfortable situation, but if you have a flexible budget, it might be worth looking into. This is not a PC guide, so this section will be brief.
 
 The first thing you should look into for PC upgrades is storage. The switch from a hard disk to a Solid State Drive (SSD) or SSD to NVMe is incredible. Everything will load noticeably faster and with minimal stuttering. Secondly, your graphics card, or GPU, while easily one of the most expensive parts of your PC, will cause drastic differences. Of course, it's also worth investing in more/faster RAM and a higher-end CPU. Again, this isn't the guide for PC hardware, but if you have the money then it's something to think about.
 
