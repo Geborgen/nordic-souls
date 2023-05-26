@@ -1,5 +1,9 @@
 # Changelog
 
+<details>
+<summary>Legacy Versions</summary>
+<br>
+
 - [Version 1.4.3](#version-143)
 - [Version 1.4.2](#version-142)
 - [Version 1.4.1](#version-141)
@@ -1060,3 +1064,5 @@ You should actually be able to download the list now.
 
 ## Version 1.0.0
 - Initial release.
+
+</details>
