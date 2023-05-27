@@ -1,6 +1,6 @@
 # Nordic Souls
 
-![NSLOGO](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NSLOGO.webp)
+![NS2Screen](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NS2Screen.png)
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
@@ -34,18 +34,16 @@
     - [Downloading and Installing the List](#downloading-and-installing-the-list)
     - [Problems with Installation](#problems-with-installation)
 - [Post-Installation](#post-installation)
-  - [Stock Game](#stock-game)
+  - [Stock Game and Root Builder](#stock-game-and-root-builder)
   - [Customizing the List](#customizing-the-list)
-    - [ENB](#enb)
     - [Performance](#performance)
-    - [Optional Content](#optional-content)
+    - [Optional Files](#optional-files)
+    - [ENB](#enb)
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
   - [Mod Configuration Menu](#mod-configuration-menu)
-    - [Easy WheelMenu](#easy-wheelmenu) 
-    - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
     - [Leveling Freedom](#leveling-freedom)
     - [SmoothCam](#smoothcam)
   - [Starting the Game](#starting-the-game)
@@ -61,13 +59,14 @@
 
 ## Preamble
 
-Nordic Souls is a comprehensive gameplay and visual overhaul for Skyrim SE/AE which expands on the darker aspects of the game while still staying true to Skyrim's Nordic theme and modernizing it. Including LOTD, dozens of hours of new quests, a complete SimonRim gameplay overhaul, and much more, this list will modernize Skyrim in a way that is somewhat familiar yet new and refreshing.
+Nordic Souls is a comprehensive gameplay and visual overhaul for Skyrim SE/AE which expands on the darker aspects of the game while still staying true to Skyrim's Nordic theme and modernizing it. Including dozens of hours of new quests, a complete SimonRim gameplay overhaul, beautiful yet performance-friendly visuals and much more, this list will modernize Skyrim in a way that is somewhat familiar yet new and refreshing.
 
 Despite the name, this list does not attempt to "turn Skyrim into Dark Souls." There are of course influences from systems of Souls-like games, but ultimately the list is focused on modernizing Skyrim, not turning it into something else.
 
 Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to modernize Skyrim, but this includes changing almost every aspect of the game. It is still recognizably Skyrim, but different enough that it feels like a new game.
 
 ## List Contents
+
 [The full list of mods can be viewed on Load Order Library.](https://loadorderlibrary.com/lists/nordic-souls)
 
 [The default keymap can be found here.](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d)
@@ -79,13 +78,14 @@ Nordic Souls requires ~273 GB of free space (including downloads). Without downl
 The list was built on a relatively low-tier machine, with older-gen parts. I run a 1080p 16:9 display.
 
 ### My Specs
+
 - CPU: AMD Ryzen 5 2600
 - GPU: NVIDIA GeForce GTX 1060 6GB
 - RAM: 16GB DDR4
 
 My specs are the minimum recommended for the best experience.
 
-With the default ENB, in heavy areas (Falkreath/Riverwood) I might drop down to 30 FPS, but in most other exteriors I'll get closer to 45 FPS. Keep in mind my PC is by no means new, and this is without any of the performance tweaks. Many users report a stable high FPS in most or all areas of the game. If you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md). With my PC being the minimum for a good experience, this list can be considered performance-friendly for most systems.
+With the default ENB, in heavy areas (Falkreath/Riverwood) I might drop down to 35 FPS, but in most other exteriors I'll get closer to 55 FPS. Keep in mind my PC is by no means new, and this is without any of the performance tweaks. Many users report a stable high FPS in most or all areas of the game. If you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md). With my PC being the minimum for a good experience, this list can be considered performance-friendly for most systems.
 
 ## Installation
 
@@ -98,8 +98,7 @@ If you are just updating the list, you can safely skip to [this section](#updati
 
 ### Preparations
 
-Please complete the following steps before the actual list installation.
-
+Please complete the following steps before the actual list installation:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime) AND [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 3. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -111,8 +110,7 @@ Please complete the following steps before the actual list installation.
 
 Large modlists require a lot of memory. If there isn't enough memory, it might fail to allocate more and cause a memory-related crash. You can fix this with a pagefile, which essentially acts as virtual memory.
 
-To prevent memory crashes, perform the following steps to increase your pagefile size.
-
+To prevent memory crashes, perform the following steps to increase your pagefile size:
 1. Press `Win + R` and enter `sysdm.cpl ,3`
 2. Under the `Advanced` tab, press `Settings` under the `Performance` section
 3. In the window that pops up, go to the `Advanced` tab and press `Change...` under the `Virtual Memory` section
@@ -127,8 +125,7 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 #### Downloading and Installing the List
 
-Downloading and installing Nordic Souls can take a long time depending on your internet connection and PC specs. I recommend you install it on an SSD, as everything will go much faster. Complete the steps below for installation.
-
+Downloading and installing Nordic Souls can take a long time depending on your internet connection and PC specs. I recommend you install it on an SSD, as everything will go much faster. Complete the steps below for installation:
 1. Create a folder near the root of your drive called `Nordic Souls`.
 2. Open Wabbajack, go to `Browse Modlists`, find Nordic Souls, and click the download arrow. Alternatively, download the .wabbajack file from this repository or the [Nexus page](https://www.nexusmods.com/skyrimspecialedition/mods/77497), add it to your Wabbajack folder, and open it.
 3. Set your installation folder to the folder you made in step 1 (e.g. `C:\Nordic Souls`).
@@ -138,10 +135,9 @@ Downloading and installing Nordic Souls can take a long time depending on your i
 
 #### Problems with Installation
 
-Some common errors you may encounter during installation are listed below.
-
+Some common errors you may encounter during installation:
 - Could not download x:
-  - Big files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
+  - Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
   - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content.
 - x is not a whitelisted download:
   - This may happen when I update the list. Please check if there is a new update or wait if there is none.
@@ -154,9 +150,11 @@ If you are still having issues, visit the [Wabbajack Discord](https://discord.co
 
 ## Post-Installation
 
-### Stock Game
+### Stock Game and Root Builder
 
-Nordic Souls includes the **Stock Game** feature. This is essentially a copy of Skyrim included with the installation folder, which has cleaned plugins and all required files. This means that everything is completely separate from your Steam installation of Skyrim (which is still required as the game files are not redistributed). Basically, you don't need to transfer any files to your game folder.
+Nordic Souls uses the [Stock Game](https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md) method. This is essentially a copy of Skyrim included with the installation folder. This means that everything is completely separate from your Steam installation of Skyrim (which is still required as the game files are not redistributed).
+
+The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) to keep the stock game folder clean. Any mod that needs to be installed to the game folder is instead added to MO2 with a special file structure, and is added to the game folder whenever the game is running.
 
 ### Customizing the List
 
@@ -164,55 +162,43 @@ Nordic Souls includes the **Stock Game** feature. This is essentially a copy of 
 
 As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's rule 11, meaning that any modifications you make, you do so at your own risk.
 
-Game settings and mod configs can be found in the `[NoDelete] NS - Game Settings` mod under the `WRAPPING UP - OUTPUT` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.
-
-#### ENB
-
-Nordic Souls uses a slightly modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796) by default,, however there are a few alternative presets to choose from. Press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle the ENB, and `F7` to take a screenshot. These keybinds are the same for all included ENBs.
-
-If you want to change the ENB, you must do the following.
-
-1. Under the `WRAPPING UP - ENB` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian` and `Rudy ENB Required Files`.
-2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers` and `ENB Night Eye Fix`.
-3. In the dropdown in the top right of MO2, change the program to `ENB Organizer`.
-4. Run it and ignore any warning about Nexus updates.
-5. Click the three bars on the top left and navigate to the `Presets` tab.
-6. Disable Rudy ENB with the toggle on the bottom of the card, and enable any other ENB (see [here](https://imgur.com/gallery/3WDkZit) for a higher quality comparison).
-7. Make sure you only have one ENB enabled at a time.
-8. Launch your game as usual.
-
-Adding new ENBs or changing weather mods is possible but not supported.
-
-If you do not want to use ENB, keep it toggled off.
+Game settings and mod configs can be found in the `NS - Game Settings` mod under the `General Settings` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. *If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.*
 
 #### Performance
 
-If you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md).
+This list is designed to run well on most systems, but if you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md).
 
-#### Optional Content
+#### Optional Files
 
-Under the `WRAPPING UP - OPTIONAL CONTENT` separator, you can enable and disable things to your liking:
-- [Apothecary - Vanilla Potion Restore](https://www.nexusmods.com/skyrimspecialedition/mods/78230) is **enabled** by default. Disable if you prefer Apothecary's restore-over-time system.
-- [Alternate Conversation Camera Plus](https://www.nexusmods.com/skyrimspecialedition/mods/40722) is **enabled** by default. Disable if you don't want zoom effect during dialogue.
-- [Camera Noise](https://www.nexusmods.com/skyrimspecialedition/mods/77185) is **enabled** by default. Disable if you don't like the subtle camera-shake effect.
-- [Rumble](https://www.nexusmods.com/skyrimspecialedition/mods/84507) is **enabled** by default. Disable if you don't like the improved controller rumble.
-- [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980) is **enabled** by default. Disable if you want the crosshair to always show.
-- [NORDIC UI Full Suite](https://www.nexusmods.com/skyrimspecialedition/mods/49881) is **disabled** by default. Enable if you want a different UI style.
-- [Enhanced Blood Textures - No Screen Blood](https://www.nexusmods.com/skyrimspecialedition/mods/2357) is **disabled** by default. Enable if you don't like the screen blood that EBT adds.
-- [Kaidan 2 Fart Patch](https://kaidanmod.com/) is **disabled** by default. Enable to make Kaidan fart. Only if you're close, though.
+Under the `Optional Files` separator, you can enable and disable things to your liking:
+- [Performance Grass INI](https://www.nexusmods.com/skyrimspecialedition/mods/48689) makes the grass sparser for better performance. This file has the grass at about the minimum density before it begins to look awful. You can make it even sparser if you really want (higher number = less dense).
+- [Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881): Different UI style. Includes the full suit of Nordic UI-styled mods, for a consistent UI overhaul.
+- [Skyrim Paper Map by Caro Tuts - LABELED VERSION](https://www.nexusmods.com/skyrimspecialedition/mods/62705): A labeled version of the paper map.
+
+#### ENB
+
+In-game, press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle ENB, and `F7` to take a screenshot. These keybinds are the same for all included presets.
+
+Nordic Souls uses a modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). By default, ambient occlusion is turned off, saving a lot of FPS. If you want better looking foliage or more depth and realism to shadows in general, turn on ambient occlusion in the ENB menu at the cost of 5-10 FPS.
+
+If you want to change to one of the two other included presets, you must do the following:
+1. Under the `ENB Presets` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian`, `Rudy Obsidian Required Files`, and `Rudy ENB for Obsidian Weathers`.
+2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers`, and either [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167) or [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333).
+3. Make sure you only have one preset enabled at a time.
+4. Launch your game as usual.
+
+If you want to add a custom preset, you should familiarize yourself with [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720), and match the way I've installed the presets to MO2.
+
+If you do not want to use ENB, disable everything in that separator and keep it toggled off in-game.
 
 #### Widescreen Support
 
-- Enable `Widescreen Fix` under the `WRAPPING UP - OPTIONAL CONTENT` separator. This was made for 21:9 displays, but it *should* work fine for 32:9 displays.
-- If you use the optional Nordic UI, enable the previous mod, and `NORDIC UI Widescreen Fix` (below the previous mod).
-- Recommended settings you should change yourself:
-  - SkyHUD - fMessageInfoPosX = `1030`
-  - TrueHUD - Player Widget Anchor X = `-0.105` 
-  - TrueHUD - Player Loot Anchor X = `1.17`
+- Enable `Widescreen Fix` under the `Widescreen Support` separator. This was made for 21:9 displays, but it should work fine for 32:9 displays.
+- If you use the optional Nordic UI, enable `Nordic UI Widescreen Fix` in addition to the main widescreen fix.
 
 #### Gamepad Support
 
-Vanilla gamepad support is... fine. For the purposes of this list, you can use the vanilla gamepad controlmap. See [this section](#the-ultimate-dodge-mod) for a recommended tweak to make dodging work correctly.
+For the purposes of this list, you can use the vanilla gamepad controlmap. The only thing you'll miss out on with the vanilla controlmap is dodging. You can change the dodge key in `TK Dodge RE.ini` to a gamepad key, but you may need to install a gamepad controlmap from the Nexus or make your own using [this tool](https://hawk.bar/SkyrimControlMapper/). You will not recieve official support for gamepad issues.
 
 ## Playing the List
 
@@ -225,27 +211,7 @@ Vanilla gamepad support is... fine. For the purposes of this list, you can use t
 
 ### Mod Configuration Menu
 
-All MCMs have been pre-configured. Wait until all notifications on the top left are gone before opening the MCM. **Failure to do so will cause quite a few issues later on and will require you to start a new save.** You can tweak them to your liking if you want to customize your experience.
-
-#### Easy WheelMenu
-
-Easy WheelMenu requires special configuration.
-
-- Open the `EasyWheel` MCM, go to `Maintenance`, and press `Load` under `User Settings`. 
-- Go to `General`, un-tick `Hide Spells`, then tick it again.
-
-Easy WheelMenu is now configured. Press `K` to use it.
-
-#### The Ultimate Dodge Mod
-
-If you use gamepad, you may want to configure TUDM.
-
-- Open the `The Ultimate Dodge Mod` MCM, go to `General`, and tick `Gamepad/Controller Compatibility`.
-- Pick your sneak style:
-  - Sneak Style 1 (recommended): Dodge with left thumb while weapon is drawn and/or in combat, sneak otherwise.
-  - Sneak Style 2: Dodge with left thumb while weapon is drawn, sneak otherwise.
-  
-TUDM is now configured for gamepad usage.
+All MCMs have been pre-configured. Wait until all notifications on the top left are gone before opening the MCM. **Failure to do so can cause quite a few issues later on and will require you to start a new save.** You can tweak them to your liking if you want to customize your experience.
 
 #### Leveling Freedom
 
@@ -257,7 +223,7 @@ The Octavian preset is enabled by default. There are a few other options you can
 
 ### Starting the Game
 
-Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls does not include any character presets, but you can easily add presets yourself by installing them like normal mods (their placement in the mod list doesn't matter). Ensure that installed presets use HPH.
+Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own.
 
 You will spawn in a cell. **Wait until notifications have stopped appearing in the top right** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options.
 
@@ -292,5 +258,7 @@ To see the changes and version history, visit the [changelog](https://github.com
 - All mod authors for their hard work
 - The Wabbajack team for making this awesome tool
 - Other Wabbajack list authors for their help and inspiration
-- All the members of my Discord who have helped develop the list, through finding issues and contributing ideas
+- The Community Helpers in my Discord server for their amazing assistance with ideas, testing, and community support
+- Everyone who has played the list that has helped in some way, through finding issues and contributing ideas
+- Waffles for the logo and branding
 - Based Department (you know who you are)
