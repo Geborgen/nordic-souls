@@ -189,6 +189,8 @@ If you want to change to one of the two other included presets, you must do the 
 
 If you want to add a custom preset, you should familiarize yourself with [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720), and match the way I've installed the presets to MO2.
 
+If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `Environment` category in the ENB menu.
+
 If you do not want to use ENB, disable everything in that separator and keep it toggled off in-game.
 
 #### Widescreen Support
