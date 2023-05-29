@@ -47,14 +47,14 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 - [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) provides the base for the combat overhaul, with mods like [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347), [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/56956), and [Enhanced Enemy AI](https://www.nexusmods.com/skyrimspecialedition/mods/32063), among others, providing an in-depth combat experience. Combat is designed to work well in both first and third-person, with new animations for both gameplay styles.
 - Creatures are overhauled as well. [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) adds features to horses. [Huntsman](https://www.nexusmods.com/skyrimspecialedition/mods/83870) expands wildlife. [Lawless](https://www.nexusmods.com/skyrimspecialedition/mods/88080) overhauls bandits. [Haugbui](https://www.nexusmods.com/skyrimspecialedition/mods/26188) overhauls Draugr. [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723) overhauls dragons.
 - You can interact with objects you wouldn't normally be able to. [Skyrim's Got Talent](https://www.nexusmods.com/skyrimspecialedition/mods/50357) lets you develop your skills as a bard, and [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) lets you use a broom to clean up physics messes.
-- There is a lot more. Read over the [load order](https://loadorderlibrary.com/lists/nordic-souls).
+- There is a lot more. Take a look at the [load order](https://loadorderlibrary.com/lists/nordic-souls).
 
 ### Creation Club
 
 [Creation Club](https://en.uesp.net/wiki/Skyrim:Creation_Club) content has been fixed, balanced, and integrated into the world through several different mods
 
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) lets you return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation.
-- [Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been overhauled with [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244). You won't get any notifaction about it, just activate it normally in the gameplay menu. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it. You can tweak it in the Survival Control Panel MCM.
+- [Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been overhauled with [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244). You won't get any notifaction about it, just activate it normally in the gameplay menu. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it.
 
 ## Quests
 
