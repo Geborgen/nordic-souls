@@ -73,7 +73,7 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 ## System Requirements
 
-Nordic Souls requires ~168 GB of free space. The total download size is ~123 GB. Overall, you'll need ~291 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
+The Nordic Souls installation requires ~168 GB of free space, not including the total download size, which is ~123 GB. Overall, you'll need ~291 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
 
 The list was built on a relatively low-tier machine, with older-gen parts. I run a 1080p 16:9 display.
 
