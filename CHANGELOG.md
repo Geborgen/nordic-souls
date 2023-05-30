@@ -1,6 +1,24 @@
 # Changelog
 
+- [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
+
+## Version 2.0.1
+
+**This update is save-safe.**
+
+- Fixed broken Khajiit from 3DNPC
+- Fixed rug collision
+- Updated several mods
+
+<details>
+  
+  ### Updated
+  - Lux
+  - Xelzaz
+  - Race Menu Player Rotation
+
+</details>
 
 ## Version 2.0.0
 
@@ -10,7 +28,7 @@ Nordic Souls has been completely rebuilt from the ground up for increased stabil
 
 There is a lot to cover, and documenting every single change from the old list is pretty much impossible, so I'll go over some of the main things.
 
-- Rebuilt from scratch
+- Rebuilt from scratch on version 1.6.640
 - Much better performance, even better than it was before
 - Added Root Builder
 - Added Stormcrown
@@ -36,7 +54,7 @@ Legacy of the Dragonborn used to be a staple of Nordic Souls. I was often praise
 
 <details>
 <summary>Legacy Versions</summary>
-<br>
+
 
 - [Version 1.4.3](#version-143)
 - [Version 1.4.2](#version-142)
