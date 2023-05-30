@@ -59,7 +59,7 @@
 
 ## Preamble
 
-Nordic Souls is a comprehensive gameplay and visual overhaul for Skyrim SE/AE which expands on the darker aspects of the game while still staying true to Skyrim's Nordic theme and modernizing it. Including dozens of hours of new quests, a complete SimonRim gameplay overhaul, beautiful yet performance-friendly visuals and much more, this list will modernize Skyrim in a way that is somewhat familiar yet new and refreshing.
+Nordic Souls is a comprehensive visual and gameplay overhaul for Skyrim SE/AE designed to "freshen up" and streamline the game while staying true to Skyrim's Nordic theme. It provides a perfect balance between a lot of lore-friendly content in the form of new quests and loot, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.
 
 Despite the name, this list does not attempt to "turn Skyrim into Dark Souls." There are of course influences from systems of Souls-like games, but ultimately the list is focused on modernizing Skyrim, not turning it into something else.
 
@@ -73,7 +73,7 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 ## System Requirements
 
-Nordic Souls requires ~273 GB of free space (including downloads). Without downloads, it's ~170 GB.
+Nordic Souls requires ~180 GB of free space. The total download size is ~132 GB. Overall, you'll need ~312 GB of free space, including downloads.
 
 The list was built on a relatively low-tier machine, with older-gen parts. I run a 1080p 16:9 display.
 
@@ -85,7 +85,7 @@ The list was built on a relatively low-tier machine, with older-gen parts. I run
 
 My specs are the minimum recommended for the best experience.
 
-With the default ENB, in heavy areas (Falkreath/Riverwood) I might drop down to 35 FPS, but in most other exteriors I'll get closer to 55 FPS. Keep in mind my PC is by no means new, and this is without any of the performance tweaks. Many users report a stable high FPS in most or all areas of the game. If you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md). With my PC being the minimum for a good experience, this list can be considered performance-friendly for most systems.
+With the default ENB, in certain heavy areas I might drop down to 35 FPS, but in most other exteriors I'll get closer to 50 FPS. Keep in mind my PC is by no means new, and this is without any of the performance tweaks. Many users report a stable high FPS in most or all areas of the game. If you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md). With my PC being the minimum for a good experience, this list can be considered performance-friendly for most systems.
 
 ## Installation
 
@@ -181,6 +181,8 @@ In-game, press `F10` to toggle the FPS counter, `F11` to open the ENB configurat
 
 Nordic Souls uses a modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). By default, ambient occlusion is turned off, saving a lot of FPS. If you want better looking foliage or more depth and realism to shadows in general, turn on ambient occlusion in the ENB menu at the cost of 5-10 FPS.
 
+If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `Environment` category in the ENB menu.
+
 If you want to change to one of the two other included presets, you must do the following:
 1. Under the `ENB Presets` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian`, `Rudy Obsidian Required Files`, and `Rudy ENB for Obsidian Weathers`.
 2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers`, and either [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167) or [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333).
@@ -188,8 +190,6 @@ If you want to change to one of the two other included presets, you must do the 
 4. Launch your game as usual.
 
 If you want to add a custom preset, you should familiarize yourself with [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720), and match the way I've installed the presets to MO2.
-
-If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `Environment` category in the ENB menu.
 
 If you do not want to use ENB, disable everything in that separator and keep it toggled off in-game.
 
