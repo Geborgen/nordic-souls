@@ -1,5 +1,39 @@
 # Changelog
 
+- [Version 2.0.0](#version-200)
+
+## Version 2.0.0
+
+**This update requires a new game.**
+
+Nordic Souls has been completely rebuilt from the ground up for increased stability, performance, and content. After two months, we've arrived at the largest update the list has seen ever.
+
+There is a lot to cover, and documenting every single change from the old list is pretty much impossible, so I'll go over some of the main things.
+
+- Rebuilt from scratch
+- Much better performance, even better than it was before
+- Added Root Builder
+- Added Stormcrown
+- Added Vestige
+- Added Lawless
+- Added Midwood Isle
+- Added Sirenroot
+- Added a lot of stuff to character customization
+- Added more NPC overhauls
+- Overhauled weapons, armor, distribution
+- Added a lot of new spells
+- Tweaked combat quite a bit
+- Changed grass
+- Changed first person animations
+- Removed LOTD*
+- Removed Undeath
+- Removed Reliquary of Myth
+- Honestly just look at the [load order](https://loadorderlibrary.com/lists/nordic-souls)
+
+### * A note on LOTD
+
+Legacy of the Dragonborn used to be a staple of Nordic Souls. I was often praised for the way in which I integrated the mod, making it feel natural and consistent with everything. However, the mod is simply too big and intrusive no matter what you try and do to it. I understand the decision to remove the mod will turn away a lot of people from the list, but I think it will be better for the list overall in the long run. Removing LOTD made the development process a lot easier, with such a large thing gone there was a lot less to worry about. I was able to have a finer control on custom content, without it all being added at once by one mod. Patching things was a lot easier. Overall, the list is much easier to maintain now, and will be for the forseeable future.
+
 <details>
 <summary>Legacy Versions</summary>
 <br>
