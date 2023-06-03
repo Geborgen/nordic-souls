@@ -3,6 +3,7 @@
 - [Version 2.0.2](#version-202)
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
+- [Legacy Versions](#legacy-versions)
 
 ## Version 2.0.2
 
@@ -75,9 +76,10 @@ There is a lot to cover, and documenting every single change from the old list i
 
 Legacy of the Dragonborn used to be a staple of Nordic Souls. I was often praised for the way in which I integrated the mod, making it feel natural and consistent with everything. However, the mod is simply too big and intrusive no matter what you try and do to it. I understand the decision to remove the mod will turn away a lot of people from the list, but I think it will be better for the list overall in the long run. Removing LOTD made the development process a lot easier, with such a large thing gone there was a lot less to worry about. I was able to have a finer control on custom content, without it all being added at once by one mod. Patching things was a lot easier. Overall, the list is much easier to maintain now, and will be for the forseeable future.
 
+## Legacy Versions
+
 <details>
 <summary>Legacy Versions</summary>
-
 
 - [Version 1.4.3](#version-143)
 - [Version 1.4.2](#version-142)
