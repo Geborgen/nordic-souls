@@ -1,7 +1,30 @@
 # Changelog
 
+- [Version 2.0.2](#version-202)
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
+
+## Version 2.0.2
+
+**This update is save-safe.**
+
+- Fixed broken/exploding Brawler's Iron Gauntlets mesh
+- Fixed broken Myrwatch interior cell
+- Tiny landscape fixes
+- Updated several mods
+
+<details>
+  
+  ### Updated
+  - Lux
+  - NPCs React To Invisibility
+  - Cathedral Armory for CC
+  
+  ### Added
+  - Editable Myrwatch - XelzazAE Patch
+  - SkyUI 3D Item Offset Fix
+
+</details>
 
 ## Version 2.0.1
 
