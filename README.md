@@ -162,7 +162,7 @@ The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspeci
 
 As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's rule 11, meaning that any modifications you make, you do so at your own risk.
 
-Game settings and mod configs can be found in the `NS - Game Settings` mod under the `General Settings` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. *If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.*
+Game settings and mod configs can be found in the `NS - Game Settings` mod under the `General Settings` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. *If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.* For example, if you want to change the dodge key, you will need to edit `Nordic Souls\mods\NS - Game Settings\SKSE\Plugins\TK Dodge RE.ini`.
 
 #### Performance
 
