@@ -24,6 +24,8 @@
   
   ### Added
   - Dynamic RaceMenu Interface Patcher (DRIP)
+  - RaceMenu - Untarnished UI Patch - DRIP Patch
+  - RaceMenu - Nordic UI Patch - DRIP Patch
   - Dwemer Armors and Weapons Retexture SE
   - Nordic Souls - Character Presets
   - Instantly Skip Dialogue NG
