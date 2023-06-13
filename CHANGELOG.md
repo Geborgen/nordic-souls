@@ -1,10 +1,40 @@
 # Changelog
 
+- [Version 2.0.3](#version-203)
 - [Version 2.0.2](#version-202)
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
 
+## Version 2.0.3
+
+**This update is save-safe.**
+
+- Fixed a bunch of random CTDs
+- Fixed certain interiors not using Lux lighting templates
+- Added optional tool to patch RaceMenu to use UI skins
+- You can now instantly skip dialogue without delay
+- Added more character presets
+
+<details>
+  
+  ### Updated
+  - SkyUI 3D Item Offset Fix
+  
+  ### Added
+  - Dynamic RaceMenu Interface Patcher (DRIP)
+  - Dwemer Armors and Weapons Retexture SE
+  - Nordic Souls - Character Presets
+  - Instantly Skip Dialogue NG
+  
+  ### Removed
+  - Unequip Quiver SE (causing crashes)
+  - Splashes of Storms (causing crashes)
+  - Rudy fix for Splashes of Storms and ENB
+  - Allow Dialogue Progress Bugfix
+
+</details>
+  
 ## Version 2.0.2
 
 **This update is save-safe.**
