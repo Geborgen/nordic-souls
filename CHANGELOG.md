@@ -20,6 +20,7 @@
   
   ### Updated
   - SkyUI 3D Item Offset Fix
+  - LOOT
   
   ### Added
   - Dynamic RaceMenu Interface Patcher (DRIP)
