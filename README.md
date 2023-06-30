@@ -41,6 +41,7 @@
     - [ENB](#enb)
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
+    - [Optional RaceMenu Skins](#optional-racemenu-skins)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
   - [Mod Configuration Menu](#mod-configuration-menu)
@@ -154,7 +155,7 @@ If you are still having issues, visit the [Wabbajack Discord](https://discord.co
 
 Nordic Souls uses the [Stock Game](https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md) method. This is essentially a copy of Skyrim included with the installation folder. This means that everything is completely separate from your Steam installation of Skyrim (which is still required as the game files are not redistributed).
 
-The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) to keep the stock game folder clean. Any mod that needs to be installed to the game folder is instead added to MO2 with a special file structure, and is added to the game folder whenever the game is running.
+The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) to keep the stock game folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
 
 ### Customizing the List
 
@@ -200,7 +201,17 @@ If you do not want to use ENB, disable everything in that separator and keep it 
 
 #### Gamepad Support
 
-For the purposes of this list, you can use the vanilla gamepad controlmap. The only thing you'll miss out on with the vanilla controlmap is dodging. You can change the dodge key in `TK Dodge RE.ini` to a gamepad key, but you may need to install a gamepad controlmap from the Nexus or make your own using [this tool](https://hawk.bar/SkyrimControlMapper/). You will not recieve official support for gamepad issues.
+For the purposes of this list, you can use the vanilla gamepad controlmap. The only thing you'll miss out on with the vanilla controlmap is dodging. You can change the dodge key in `TK Dodge RE.ini` to a gamepad key, but you may need to install a gamepad controlmap from the Nexus or make your own using [this tool](https://hawk.bar/SkyrimControlMapper/). You will not receive official support for gamepad issues.
+
+#### Optional RaceMenu Skins
+
+Nordic Souls includes the [Dynamic RaceMenu Interface Patcher (DRIP)](https://www.nexusmods.com/skyrimspecialedition/mods/92345) tool. This allows you to patch RaceMenu to be consistent with UI overhauls. Unfortunately, due to the way the tool works, RaceMenu cannot come pre-patched with the list, so you will have to do it manually. Luckily, it's just a few clicks, and completely optional.
+
+- From the application dropdown box on the right, select `DRIP` and run it.
+- Make sure your RaceMenu path is correct (`Nordic Souls/mods/RaceMenu`). It should be selected automatically.
+- Select the patch for your UI overhaul of choice. Untarnished UI and Nordic UI are included by default, with Nordic UI selected automatically (`Nordic Souls\mods\RaceMenu - Nordic UI Patch - DRIP Patch\DRIP - NORDIC UI`). If you use Untarnished UI (list default), change it to `Nordic Souls\mods\RaceMenu - Untarnished UI Patch - DRIP Patch\DRIP - Untarnished UI`.
+- Click `Patch!` and wait for it to finish.
+- Close the program.
 
 ## Playing the List
 
@@ -261,6 +272,6 @@ To see the changes and version history, visit the [changelog](https://github.com
 - The Wabbajack team for making this awesome tool
 - Other Wabbajack list authors for their help and inspiration
 - The Community Helpers in my Discord server for their amazing assistance with ideas, testing, and community support
-- Everyone who has played the list that has helped in some way, through finding issues and contributing ideas
+- Everyone who has played the list that has helped in some way, by finding issues and contributing ideas
 - Waffles for the logo and branding
 - Based Department (you know who you are)
