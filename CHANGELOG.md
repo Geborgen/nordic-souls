@@ -1,10 +1,151 @@
 # Changelog
 
+- [Version 2.1.0](#version-210)
 - [Version 2.0.3](#version-203)
 - [Version 2.0.2](#version-202)
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.1.0
+
+**This update requires a new game.**
+
+- Reworked combat with Blade and Blunt
+- Reworked dragons with Dragon War
+- Reworked Draugr with The Dragon Cult
+- Added bandit brawlers and spellswords
+- Removed Lawless
+- Removed Haugbui
+- Added bard perks
+- Added Diplomatic Dragons (you no longer have to fight random dragons until after Sahloknir)
+- Added The Dragon Cult - Priesthood (Dragon Priest perk tree)
+- Added Sil Gahrot - Improved Shouts Learning (new way to learn shouts)
+- Nerfed loot from Dareni's spell packs
+- Replaced DAR with OAR and added new greatsword animations
+- Reworked body blood decals (it looks better and is based on your remaining health)
+- Fixed freeze/crash in Karthspire
+- Fixed widescreen main menu (hopefully)
+- Updated many mods
+
+<details>
+
+### Updated
+- SIRENROOT - Deluge of Deceit
+- Penitus Oculatus
+- Adamant - A Perk Overhaul
+- Hand to Hand - An Adamant Addon
+- Aetherius - A Race Overhaul
+- Mundus - A Standing Stone Overhaul
+- Arena - An Encounter Zone Overhaul
+- Stormcrown - A Shout Overhaul
+- Vestige - An Artifact Overhaul
+- Survival Mode Improved - SKSE
+- Natura
+- Natura - Spriggans
+- Natural Waterfalls
+- Water for ENB
+- Embers XD
+- Lux
+- Lux Orbis
+- Song of the Green Auri's fancy pod
+- Remiel-Custom Voiced Dwemer Specialist and Companion
+- BiR's Remiel Replacer
+- Project ja-Kha'jay- Khajiit NPC Diversity Overhaul
+- Project ja-Kha'jay- Interesting NPCs Khajiit Addon
+- Prince and The Pauper Refine (Fixes - Improvements - New Child Outfits - No NPC Edits)
+- Iconic Statues
+- Unofficial Skyrim Modder's Patch - USMP SE
+- Unofficial Skyrim Modders Patch - USMP - Patch Emporium
+- CoMAP - Common Marker Addon Project
+- Compass Navigation Overhaul
+- Versatile Item and Group Re-Assignment - C.O.C.K.S. Enhanced
+- Cooking Categories Improvement (Constructible Object Custom Keyword System - Fixes)
+- The Handy Icon Collection Collective
+- ConsolePlusPlus
+- Conditional Armor Type Animations
+- Vanargand Animations - Male Idle Walk and Run
+- Vanargand Animations - Female Idle Walk and Run
+- Goetia Animations - Male Idle Walk And Run
+- Goetia Animations - Female Idle Walk And Run
+- Goetia Animations - Sprint
+- Leviathan Animations II - Male Idle Walk And Run
+- Leviathan Animations II - Female Idle Walk And Run
+- Leviathan Animations II - Sprint
+- Gesture Animation Remix (DAR)
+- Look Around - Searching Animations For NPCs
+- Bittercup - Tweaks and Enhancements
+- SPID - NFF - Add Ignore Token to CustomAI Followers
+- Flat World Map Framework (FWMF)
+- Unofficial eFPS Patches
+- Interesting NPCs (3DNPC) - Patch Collection
+- DynDOLOD Resources SE 3
+- xLODGen Resource - SSE Terrain Tamriel
+- ENBSeries
+- Kezyma's Root Builder
+
+### Added
+- Blade and Blunt - A Combat Overhaul
+- Adamant - Bard Perks Addon
+- Adamant - Smithing Addon
+- The Dragon Cult - A Draugr Overhaul
+- The Dragon Cult - Expanded
+- The Dragon Cult - Priesthood
+- Diplomatic Dragons
+- Sil Gahrot - Improved Shouts Learning
+- Bandit Spellswords - An Unofficial Simonrim Enemy Mod
+- Bandit Brawlers
+- Bandit Brawlers - Fearsome Fists Integration
+- Bandit Brawlers - Hand to Hand Integration
+- Brawl Lines Expansion
+- Cooking Pots in Inns
+- Wyrmstooth - Unique Weapons Reforged
+- Just Blood - Dirt and Blood Lite
+- Dirt and Blood HD Retexture
+- Enhanced Blood Textures Just Blood Just Not Enhanced Body Blood
+- Dark Brotherhood Armors Retexture
+- Chitin Armors Retexture
+- Skyland Alchemy and Enchanting Tables
+- Skyland Blacksmith Texture Overhaul
+- Rustic Maps
+- Children of the Pariah - Orc NPC Overhaul
+- Open Animation Replacer
+- Assorted Animation Fixes
+- Self-targeting Staff Animation Fix
+- Leviathan Animations II - Greatsword Low Stance
+- Leviathan Animations II - Greatsword Normal Attacks
+- Leviathan Animations II - Greatsword Power And Sprint Attacks
+- Creation Club Asset Patch
+- Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
+- Whiterun Objects SMIMed - Dragonsreach Stairs - and some other stairs too
+- Cathedral - 3D Thicket and Dead Shrub
+- Precision Trail Replacer - Simple
+- VioLens SE-Blade and Blunt Consistency Patch
+- Fish Plaque Fixes and Improvements
+- Adoption Spouse and Moving Fixes
+- NORDIC UI - Constructible Object Custom Keyword System - Widescreen Patch
+
+### Removed
+- Valhalla Combat
+- Impactful Blocking
+- Enhanced Enemy AI SE
+- Lawless - A Bandit Overhaul
+- Deadly Dragons
+- Deadly Dragons - Legacy Settings Loader
+- Skyrim's Got Talent - Improve As a Bard
+- Skyrim's Got Talent - Player Reactions Addon
+- Skyrim's Got Talent - Interesting NPCs (3DNPC) Addon
+- ElSopa - HD Grindstone Redone SE
+- Dynamic Animation Replacer
+- Mount Anthor Dragon Fix
+- Motionless Rocks Killing People Fix
+- DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+- DLC2TribalWerebearScript Fix
+- DLC2dunSeekerInvisScript Fix
+- Fish Plaque Fix
+- Bittercup - Rebalanced
+
+</details>
 
 ## Version 2.0.3
 
