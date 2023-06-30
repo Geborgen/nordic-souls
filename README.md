@@ -205,14 +205,15 @@ For the purposes of this list, you can use the vanilla gamepad controlmap. The o
 
 #### Optional RaceMenu Skins
 
-Nordic Souls includes the [Dynamic RaceMenu Interface Patcher (DRIP)](https://www.nexusmods.com/skyrimspecialedition/mods/92345) tool. This allows you to patch RaceMenu to be consistent with UI overhauls. Unfortunately, due to the way the tool works, RaceMenu cannot come pre-patched with the list, so you will have to do it manually. Luckily, it's just a few clicks, and completely optional.
+Nordic Souls includes the [Dynamic RaceMenu Interface Patcher (DRIP)](https://www.nexusmods.com/skyrimspecialedition/mods/92345) tool. This allows you to patch RaceMenu to be consistent with UI overhauls. 
 
-- Make sure you have [Java](https://www.java.com/en/download/) installed.
-- From the application dropdown box on the right, select `DRIP` and run it.
-- Make sure your RaceMenu path is correct (`Nordic Souls/mods/RaceMenu`). It should be selected automatically.
-- Select the patch for your UI overhaul of choice. Untarnished UI and Nordic UI are included by default, with Nordic UI selected automatically (`Nordic Souls\mods\RaceMenu - Nordic UI Patch - DRIP Patch\DRIP - NORDIC UI`). If you use Untarnished UI (list default), change it to `Nordic Souls\mods\RaceMenu - Untarnished UI Patch - DRIP Patch\DRIP - Untarnished UI`.
-- Click `Patch!` and wait for it to finish.
-- Close the program.
+Unfortunately, due to the way the tool works, RaceMenu cannot come pre-patched with the list, so you will have to do it manually. Luckily, it's just a few clicks, and completely optional:
+1. Make sure you have [Java](https://www.java.com/en/download/) installed.
+2. From the application dropdown box on the right, select `DRIP` and run it.
+3. Make sure your RaceMenu path is correct (`Nordic Souls/mods/RaceMenu`). It should be selected automatically.
+4. Select the patch for your UI overhaul of choice. Untarnished UI and Nordic UI are included by default, with Nordic UI selected automatically (`Nordic Souls\mods\RaceMenu - Nordic UI Patch - DRIP Patch\DRIP - NORDIC UI`). If you use Untarnished UI (list default), change it to `Nordic Souls\mods\RaceMenu - Untarnished UI Patch - DRIP Patch\DRIP - Untarnished UI`.
+5. Click `Patch!` and wait for it to finish.
+6. Close the program.
 
 ## Playing the List
 
