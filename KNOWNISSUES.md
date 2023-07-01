@@ -3,4 +3,4 @@
 | Issue | Status |
 | ------------- | ------------- |
 | Poison Spray Crash | Fix is being worked on, check [this thread](https://discord.com/channels/622502918498811907/1107773353143574538) in Simon's server |
-| Freeze at stairs in Karthspire before Skyhaven entrance | Being looked at |
+| Compass not showing undiscovered map markers | Requires update to CoMap and/or Compass Navigation Overhaul |
