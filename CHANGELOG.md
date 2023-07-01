@@ -1,11 +1,31 @@
 # Changelog
 
+- [Version 2.1.1](#version-211)
 - [Version 2.1.0](#version-210)
 - [Version 2.0.3](#version-203)
 - [Version 2.0.2](#version-202)
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.1.1
+
+**This update is save-safe.**
+
+- Fixed Alduin not spawning/invisible
+- Fixed COMAP v4 map marker inconsistency
+- Added Photo Mode
+
+<details>
+
+  ### Updated
+  - Untarnished UI
+  - Lux Orbis
+
+  ### Added
+  - Photo Mode
+  
+</details>
 
 ## Version 2.1.0
 
