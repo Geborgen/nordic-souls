@@ -13,7 +13,7 @@
 **This update is save-safe.**
 
 - Fixed Alduin not spawning/invisible
-- Fixed CoMap v4 map marker inconsistency
+- Fixed CoMAP v4 map marker inconsistency
 - Added Photo Mode
 
 <details>
