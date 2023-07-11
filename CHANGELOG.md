@@ -9,6 +9,12 @@
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
 
+## Version 2.1.2.1
+
+Hotfix, save-safe
+
+Re-enabled Simonrim Attack Speed Fix
+
 ## Version 2.1.2
 
 **This update is save-safe.**
