@@ -241,7 +241,7 @@ By default, Nordic Souls uses the vanilla leveling system, but the nuances of it
 
 Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own.
 
-You will spawn in a cell. **Wait until notifications have stopped appearing in the top right** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options.
+You will spawn in a cell. **Wait until notifications have stopped appearing in the top right** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options. *The vanilla intro sequence might be broken for some users, and no effort will be made to fix it.*
 
 ### Gameplay Guide
 
