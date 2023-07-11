@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.1.2](#version-212)
 - [Version 2.1.1](#version-211)
 - [Version 2.1.0](#version-210)
 - [Version 2.0.3](#version-203)
@@ -7,6 +8,38 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.1.2
+
+**This update is save-safe.**
+
+- Updated several mods
+- Added new Xavbio armor retextures
+- Added four character presets
+- Temporarily removed CoMAP to fix compass
+- Fixed unobtainable Investor perk
+- Cleaned up some patching
+
+<details>
+
+  ### Updated
+  - Photo Mode
+  - Mysticism - A Magic Overhaul
+  - Adamant - A Perk Overhaul
+  - Hand to Hand - An Adamant Addon
+  - Stormcrown - A Shout Overhaul
+  - Open Animation Replacer
+  - Brawl Lines Expansion
+  - Nordic Souls - Character Presets
+
+  ### Added
+  - Bonemold Armors and Weapons Retexture SE
+  - Ancient Falmer Armors and Weapons Retexture SE
+
+  ### Removed
+  - CoMAP - Common Marker Addon Project
+
+</details>
 
 ## Version 2.1.1
 
