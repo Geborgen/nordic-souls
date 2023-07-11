@@ -235,7 +235,7 @@ By default, Nordic Souls uses the vanilla leveling system, but the nuances of it
 
 #### SmoothCam
 
-The Octavian preset is enabled by default. There are a few other options you can try. If you add your own, pay attention to the slot number.
+[Octavian's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/43927) is enabled by default. There are a few other options you can try. If you add your own, pay attention to the slot number.
 
 ### Starting the Game
 
