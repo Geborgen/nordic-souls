@@ -43,7 +43,7 @@
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
     - [Optional RaceMenu Skins](#optional-racemenu-skins)
-    - [Modifying the List](#modifying-the-list)
+    - [Modification Guide](#modification-guide)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
   - [Mod Configuration Menu](#mod-configuration-menu)
@@ -217,7 +217,7 @@ Unfortunately, due to the way the tool works, RaceMenu cannot come pre-patched w
 5. Click `Patch!` and wait for it to finish.
 6. Close the program.
 
-#### Modifying the List
+#### Modification Guide
 
 Modifying the list in any other way is unsupported, but not unwelcome. Visit the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) for more information.
 
