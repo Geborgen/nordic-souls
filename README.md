@@ -43,6 +43,7 @@
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
     - [Optional RaceMenu Skins](#optional-racemenu-skins)
+    - [Modifying the List](#modifying-the-list)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
   - [Mod Configuration Menu](#mod-configuration-menu)
@@ -162,7 +163,7 @@ The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspeci
 
 **Other than what is mentioned here, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugin should always be at the very bottom of your load order.
 
-As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's rule 11, meaning that any modifications you make, you do so at your own risk.
+As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's "rule 11", meaning that any modifications you make, you do so at your own risk. Visit the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) for more information.
 
 Game settings and mod configs can be found in the `NS - Game Settings` mod under the `General Settings` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. *If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.* For example, if you want to change the dodge key, you will need to edit `Nordic Souls\mods\NS - Game Settings\SKSE\Plugins\TK Dodge RE.ini`.
 
@@ -215,6 +216,10 @@ Unfortunately, due to the way the tool works, RaceMenu cannot come pre-patched w
 4. Select the patch for your UI overhaul of choice. Untarnished UI and Nordic UI are included by default, with Nordic UI selected automatically (`Nordic Souls\mods\RaceMenu - Nordic UI Patch - DRIP Patch\DRIP - NORDIC UI`). If you use Untarnished UI (list default), change it to `Nordic Souls\mods\RaceMenu - Untarnished UI Patch - DRIP Patch\DRIP - Untarnished UI`.
 5. Click `Patch!` and wait for it to finish.
 6. Close the program.
+
+#### Modifying the List
+
+Modifying the list in any other way is unsupported, but not unwelcome. Visit the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) for more information.
 
 ## Playing the List
 
