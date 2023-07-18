@@ -19,13 +19,13 @@ It should be stated again that you do this at your own risk, and you are soley r
 
 ## Adding Mods
 
-This is not a modding guide. If you need a modding guide, there are many good resources on the internet. I put one together [here](https://sites.google.com/view/skyrimsemoddingguide). You should also check out [ModdingSkyrim](https://moddingskyrim.com/), [Lively's wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki), and [Phoenix's guide](https://thephoenixflavour.com/bg/), probably all more valuable than mine. You can find more resources [here](https://sites.google.com/view/skyrimsemoddingguide/the-guide/other-resources). You should have some understanding of modding before you modify another list.
+This is not a modding guide. If you need a modding guide, there are many good resources on the internet. I put one together [here](https://sites.google.com/view/skyrimsemoddingguide). You should also check out [ModdingSkyrim](https://moddingskyrim.com/), [Lively's wiki](https://github.com/LivelyDismay/Learn-To-Mod/wiki), and [Phoenix's guide](https://thephoenixflavour.com/bg/). You can find more resources [here](https://sites.google.com/view/skyrimsemoddingguide/the-guide/other-resources). You should have some understanding of modding before you modify another list.
 
 ### Load Order
 
 Nordic Souls has a carefully tuned load order, and as such, **you should not run LOOT** to sort mods, as my custom metadata doesn't carry over with Wabbajack. *You should build around the existing load order.*
 
-Know what mods you're adding. Read the mod pages, they should tell you where to place plugins, if it matters at all. For the sake of this list, all plugins should be placed **above** `Water for ENB (Shades of Skyrim).esp`. The paper map plugin, `NS_PaperMapMerge.esp`, must be placed at the **very bottom** of the load order *at all times*, no exceptions. It must always be the last plugin to load, or else the map will be a blank purple (missing textures). If your map is broken, double check that zero plugins load below the paper map.
+Know what mods you're adding. Read the mod pages, they should tell you where to place plugins, if it matters at all. Basic mods like armor sets generally don't matter. For the sake of this list, all plugins should be placed **above** `Water for ENB (Shades of Skyrim).esp`. The paper map plugin, `NS_PaperMapMerge.esp`, must be placed at the **very bottom** of the load order *at all times*, no exceptions. It must always be the last plugin to load, or else the map will be a blank purple (missing textures). If your map is missing or broken, double check that zero plugins load below the paper map.
 
 If you think you messed up the load order, check the [Load Order Library link](https://loadorderlibrary.com/lists/nordic-souls) and expand `plugins.txt` to compare. It will always be on the latest version, so it might not be entirely accurate if you're modifying an earlier build.
 
