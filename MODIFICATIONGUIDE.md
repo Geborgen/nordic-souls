@@ -51,7 +51,9 @@ IF you add or disable mods, you might need to regenerate Synthesis output. The p
 
 ### EasyNPC
 
-Nordic Souls facegen is generated with EasyNPC. If you want to edit NPC appearances, [familiarize yourself with this tool](https://github.com/focustense/easymod/wiki/easynpc-%E2%80%90-Home). You will need to install the base NPC replacers which are not installed by default. They are downloaded though, and you can see the install order on Load Order Library by expanding `modlist.txt` and clicking `Show Disabled`, then finding the `NPC Appearances - EasyNPC` separator.
+Nordic Souls facegen is generated with EasyNPC. If you want to edit NPC appearances, [familiarize yourself with this tool](https://github.com/focustense/easymod/wiki/easynpc-%E2%80%90-Home). You will need to install the base NPC replacers which are not installed by default. They are downloaded though, and you can see the install order on Load Order Library by expanding `modlist.txt` and clicking `Show Disabled`, then finding the `NPC Appearances - EasyNPC` separator. Install accordingly, or install your own replacers. Disable all mods under that separator when the process is complete.
+
+Make a backup of `NS_NPCFixes.esp` and disable it before the process, then restore it afterwards. This will fix broken khajiit (just disabling and re-enabling the plugin doesn't work). Alternatively, you can load all plugins related to Project ja-Kha'jay after the EasyNPC output plugins.
 
 ### LOD Tools
 
