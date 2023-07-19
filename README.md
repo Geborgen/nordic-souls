@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://geborgen.net/Nordic-Souls.html">Website</a> |
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/77497">Nexus Page</a> |
   <a href="https://discord.com/invite/9cRs3KPyuW">Discord</a> |
   <a href="https://ko-fi.com/geborgen">Ko-fi</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md">Performance Guide</a> |
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md">Modification Guide</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/KNOWNISSUES.md">Known Issues</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a>
 </p>
