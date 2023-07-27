@@ -1,6 +1,6 @@
 # Nordic Souls
 
-![NS2Screen](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NS2Screen.png)
+![Banner](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png)
 
 <p align="center">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License</a>
