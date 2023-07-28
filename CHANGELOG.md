@@ -1,5 +1,7 @@
 # Changelog
 
+- [Version 2.1.3](#version-231)
+- [Version 2.1.2.1](#version-2121)
 - [Version 2.1.2](#version-212)
 - [Version 2.1.1](#version-211)
 - [Version 2.1.0](#version-210)
@@ -8,6 +10,43 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.1.3
+
+**This update should be save-safe.** Save in an exterior.
+
+- Added Sorcerer - A Staff and Scroll Overhaul
+- Slightly brightened interiors with default ENB
+- Disabled stamina drain while sneaking
+- Fixed quicksaving
+- Cleaned up some patching
+- Updated several mods
+
+<details>
+ 
+  ### Updated
+  - CC Staves - Mysticism Consistency Patch
+  - Bandit Lines Expansion
+  - Civil War Lines Expansion
+  - House of Horrors - Quest Expansion
+  - The Only Cure - Quest Expansion
+  - College of Winterhold - Quest Expansion
+  - Take a Seat - New Sitting Animations for OAR or DAR
+  - Conditional tavern cheering (DAR)
+  - Object Categorization Framework
+  - Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)
+  - Phenomenally Enriched and Nuanced Ingredients for SkyUI (P.E.N.I.S. for B.O.O.B.I.E.S.)
+
+  ### Added
+  - Sorcerer - A Staff and Scroll Overhaul
+  - Sorcerer Patches
+  - Stalhrim Armors and Weapons Retexture SE
+  - Vampire Armors and Weapons Retexture SE
+  - Expressive Remiel
+  - Blade and Blunt - I4 icons
+  - QuickLoot EE - Settings Loader
+
+</details>
 
 ## Version 2.1.2.1
 
