@@ -21,6 +21,7 @@
 - Fixed quicksaving
 - Cleaned up some patching
 - Updated several mods
+- Changed branding
 
 <details>
  
