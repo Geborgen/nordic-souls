@@ -10,8 +10,8 @@
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/77497">Nexus Page</a> |
   <a href="https://discord.com/invite/9cRs3KPyuW">Discord</a> |
   <a href="https://ko-fi.com/geborgen">Ko-fi</a> |
+  <a href="https://loadorderlibrary.com/lists/nordic-souls">Full Modlist</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
-  <a href="https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md">Performance Guide</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md">Modification Guide</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/KNOWNISSUES.md">Known Issues</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a>
@@ -37,7 +37,6 @@
 - [Post-Installation](#post-installation)
   - [Stock Game and Root Builder](#stock-game-and-root-builder)
   - [Customizing the List](#customizing-the-list)
-    - [Performance](#performance)
     - [Optional Files](#optional-files)
     - [ENB](#enb)
     - [Widescreen Support](#widescreen-support)
@@ -166,10 +165,6 @@ The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspeci
 As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's "rule 11", meaning that any modifications you make, you do so at your own risk. Visit the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) for more information.
 
 Game settings and mod configs can be found in the `NS - Game Settings` mod under the `General Settings` separator in MO2. Right-click, open in explorer, and find the config you need, or click `Information...`, click the `INI Files` tab, and find what you need there. *If you're trying to configure a mod and it's not working, chances are it's being overwritten by a file from this mod.* For example, if you want to change the dodge key, you will need to edit `Nordic Souls\mods\NS - Game Settings\SKSE\Plugins\TK Dodge RE.ini`.
-
-#### Performance
-
-This list is designed to run well on most systems, but if you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md).
 
 #### Optional Files
 
