@@ -14,7 +14,7 @@ A clear and concise description of what the bug is.
 A clear and concise description of what you expected to happen.
 
 **Send Your Crash Log**
-If you're reporting a crash, please first verify that **the crash is consistent** and not just random. A crash log should have been generated in MO2's `Overwrite` folder (at the bottom of the mod list), please upload it.
+If you're reporting a crash, please first verify that **the crash is consistent** and not just random. You can find crash logs in `Documents\My Games\Skyrim Special Edition\SKSE`.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
