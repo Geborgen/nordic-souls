@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.2.0](#version-220)
 - [Version 2.1.3](#version-231)
 - [Version 2.1.2.1](#version-2121)
 - [Version 2.1.2](#version-212)
@@ -10,6 +11,176 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.2.0
+
+**This update requires a new game.**
+
+- Added Gourmet - A Cooking Overhaul
+- Overhauled survival mode and camping (all still optional!)
+- Added Undeath
+- Added two new followers (Gore and Redcap)
+- Added many new Alternate Start options
+- Added Spaghetti's Strongholds AIO
+- Added snow to Windhelm
+- Added like 400 new hairstyles
+- Added more character presets and tweaked existing ones
+- Slightly tweaked default bodyslide preset
+- Reworked NPC appearances
+- Added full gamepad support
+- Added a custom main menu
+- Replaced DRIP with DIP
+- Added PI-CHO as an optional ENB preset
+- Fixed Nordic UI widescreen (hopefully)
+- Fixed Sunder being invisible & improperly flagged as a waraxe
+- Fixed crossbow crafting prerequisites
+
+<details>
+
+ ### Updated
+ - Vestige - An Artifact Overhaul
+ - Apothecary - An Alchemy Overhaul
+ - aljos Apothecary Patches
+ - Blade and Blunt - A Combat Overhaul
+ - Stormcrown - A Shout Overhaul
+ - Mundus - A Standing Stone Overhaul
+ - Aetherius - A Race Overhaul
+ - Mysticism - A Magic Overhaul
+ - Survival Mode Improved - SKSE
+ - Tamrielic Distribution
+ - Headhunter - Bounties Redone
+ - Skyland AIO
+ - Lux
+ - Water for ENB
+ - Embers XD
+ - CC Camping - Embers XD patch
+ - Particle Patch for ENB
+ - Simplicity of Snow
+ - Unique Red Wave
+ - Ryn's Anise's Cabin
+ - Ryn's Bleak Falls Tower
+ - Natural Waterfalls
+ - Alternate Start - Live Another Life - SSE
+ - Swiftly Order Squad - Follower Commands UI
+ - Press H to Horse
+ - TK Dodge RE - Script Free
+ - Instantly Skip Dialogue NG
+ - FSMP - Faster HDT-SMP
+ - Keyword Item Distributor (KID)
+ - Base Object Swapper
+ - Cathedral 3D Mountain Flowers - Base Object Swapper
+ - Security Overhaul SKSE - Lock Add-ons
+ - Imperial Armors and Weapons Retexture SE
+ - Elven Armors and Weapons Retexture SE
+ - Iron Armors and Weapons Retexture SE
+ - Orcish Armors and Weapons Retexture SE
+ - Daedric Armors and Weapons Retexture SE
+ - Ebony Armors and Weapons Retexture SE
+ - Dragon Armors and Weapons Retexture SE
+ - Interesting NPCs (3DNPC) Script Optimisation - barbasdialoguedetect
+ - Nordic Souls - Character Presets
+ - VIGILANT - My patches by Xtudo SE-AE
+ - Unofficial Skyrim Special Edition Patch
+ - Unofficial Skyrim Modder's Patch - USMP SE
+ - DynDOLOD Resources SE 3
+ - DynDOLOD 3 Alpha
+
+ ### Added
+ - Gourmet - A Cooking Overhaul
+ - Gourmet Patches
+ - Starfrost - A Survival Overhaul
+ - Journeyman - A Fast Travel Overhaul
+ - Bogmort - Mud Monsters of Morthal Swamp
+ - Undeath Remastered
+ - Undeath - Classical Lichdom
+ - Undeath - Immersive Mountain Pass
+ - Undeath - XPMSSE - Skeleton Patch
+ - Dragon Priest Fix - Behaviour Overhaul
+ - Delayed Quest Starts
+ - Gore
+ - Redcap the Riekling
+ - New Beginnings - Live Another Life Extension SSE
+ - CC's Camping Expansion
+ - CC's Camping Expansion - Settings Loader
+ - Creation Sunder and Wraithguard - (Mace) Sunder fix
+ - aljos VIGILANT Tweaks
+ - Icy Windhelm
+ - Spaghetti's Orc Strongholds - AIO
+ - HG Hairdos 2
+ - HairPack02
+ - Lion's Mane
+ - Forest Cat
+ - Koralina's Freckles and Moles
+ - Even More Makeup by Koralina - ESL
+ - Lamenthia's Marks of Beauty
+ - The Eyes of Beauty - Ai Remastered
+ - Beast Race Bodypaints SE
+ - Skyland Bits and Bobs - A Clutter Overhaul
+ - Weathered Furniture - Common and Upper Class
+ - Weathered Dark Elf Furniture Retexture
+ - Weathered Bars and Counters Retexture
+ - Weathered Stockades Retexture
+ - CC Zombies Retexture
+ - Vigilant DeadPile Flesh re-texture
+ - Snazzy Items for Inigo
+ - Remiel Addon - Saddle for Dumac
+ - Kaidan 2 - NERFED
+ - USSEP Solitude Carriage Seat Fix
+ - Vigilant - No Enemy Blur
+ - Keyword Patch Collection
+ - Death Animations from Underdog Animations
+ - Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves
+ - VIGILANT - Divine Crusader
+ - Frankly HD Miraak
+ - Dovah Sonaak - Dragon Priest Masks SE
+ - Guards and Stormcloaks Armors Retexture SE
+ - Guards and Stormcloaks Armors Retexture - 3BA bodyslides
+ - Dovah Nord Weapons for Stormcloaks
+ - Ambient Bird Sounds Expanded (SRD)
+ - Flying Crows SSE
+ - Flying Crows Lite
+ - Zero Bounty Hostility Fix
+ - Dragonactorscript infinite loop fix
+ - PI-CHO ENB ( Based on Silent Horizons)
+ - Necrom Icon - I4 Add-On
+ - Desecration Icon - I4 Add-On
+ - Arclight Icon - I4 Add-On
+ - Greenwood Shack Map Marker Patch
+ - Modern Controlmap (Gamepad and Keyboard)
+ - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
+ - Dynamic Interface Patcher - DIP
+ - RaceMenu - Untarnished UI - DIP Patch
+ - RaceMenu - Nordic UI - DIP Patch
+ - DynDOLOD DLL NG
+
+ ### Removed
+ - Midwood Isle
+ - Midwood Isle - My patches SE-AE
+ - Midwood Isle Black Book Fix
+ - GV's TrueHUD Boss Bar Integration for various Quest and New Lands Mods
+ - Midwood Isle - Wyrmstooth Spell Consistency Patch
+ - Midwood Isle - Apothecary (Food) patch
+ - Midwood Isle Paper Map for FWMF
+ - Forsworn Fashions- More Variety for forsworn
+ - RMB SPIDified - Forsworn Fashions
+ - RMB SPIDified - Core
+ - Apothecary - Food and Drink Addon
+ - Sarta - Leather Wrapped Sword
+ - dunPOISoldiersRaidOnStart Script Tweak
+ - DLC2MiraakScript Fix
+ - DLC2dunFrostmoonTriggerScript Optimization
+ - Shroud Hearth Barrow Script Fix
+ - The Taste of Death Improved Shutdown
+ - Soul Cairn Script Tweaks
+ - Kettle Helm Standalone
+ - The Eyes Of Beauty SSE
+ - Skyland Chests
+ - Skyland Alchemy and Enchanting Tables
+ - Skyland Blacksmith Texture Overhaul
+ - Improved Jail Bars
+ - Simply Order Summons
+
+</details>
 
 ## Version 2.1.3
 
