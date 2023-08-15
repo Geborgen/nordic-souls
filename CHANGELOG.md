@@ -27,6 +27,7 @@
 - Added more character presets and tweaked existing ones
 - Slightly tweaked default bodyslide preset
 - Reworked NPC appearances
+- Changed some quest conditions
 - Added full gamepad support
 - Added a custom main menu
 - Replaced DRIP with DIP
