@@ -18,7 +18,7 @@
 **Hotfix, save-safe**
 
 - Hopefully fixed all installation issues
-- Actually made PI-CHO ENB show up in MO2
+- Made PI-CHO ENB and the gamepad controlmap actually show up in MO2
 - Unfortunately had to remove new hairstyles
 
 <details>
