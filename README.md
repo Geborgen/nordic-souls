@@ -25,7 +25,6 @@
 - [Preamble](#preamble)
 - [List Contents](#list-contents)
 - [System Requirements](#system-requirements)
-  - [My Specs](#my-specs)
 - [Installation](#installation)
   - [Anniversary Edition](#anniversary-edition)
   - [Preparations](#preparations)
@@ -41,7 +40,7 @@
     - [ENB](#enb)
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
-    - [Optional RaceMenu Skins](#optional-racemenu-skins)
+    - [Performance](#performance-tweaks)
     - [Modification Guide](#modification-guide)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
@@ -57,7 +56,7 @@
 - [Changelog](#changelog)
 - [Credits and Thanks](#credits-and-thanks)
 
-## IMPORTANT: THIS LIST REQUIRES THE COMPLETE ANNIVERSARY EDITION UPGRADE. THIS MEANS THAT YOU MUST *PURCHASE* THE AE UPGRADE/DLC FROM STEAM.
+## IMPORTANT: THIS LIST REQUIRES THE COMPLETE ANNIVERSARY EDITION UPGRADE. THIS MEANS THAT YOU MUST *PURCHASE* THE AE UPGRADE/DLC FROM STEAM. NO, THIS IS NOT OPTIONAL.
 
 ## Preamble
 
@@ -75,19 +74,16 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 ## System Requirements
 
-The Nordic Souls installation requires ~168 GB of free space, not including the total download size, which is ~123 GB. Overall, you'll need ~291 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
+The Nordic Souls installation requires ~172 GB of free space, not including the total download size, which is ~129 GB. Overall, you'll need ~301 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
 
-The list was built on a relatively low-tier machine, with older-gen parts. I run a 1080p 16:9 display.
+| Minimum | Recommended |
+|-----|-----|
+| Intel i5-9400 / AMD Ryzen 5 2600 | Intel i5 - 13400 / AMD Ryzen 5 5600x  |
+| NVIDIA GTX 1060 / AMD RX 580 | NVIDIA RTX 3060 TI / AMD RX 6700 |
+| 12 GB DDR3 | 32 GB DDR4 |
+| SATA SSD | NVMe SSD |
 
-### My Specs
-
-- CPU: AMD Ryzen 5 2600
-- GPU: NVIDIA GeForce GTX 1060 6GB
-- RAM: 16GB DDR4
-
-My specs are the minimum recommended for the best experience.
-
-With the default ENB, in certain heavy areas I might drop down to 35 FPS, but in most other exteriors I'll get closer to 50 FPS. Keep in mind my PC is by no means new, and this is without any of the performance tweaks. Many users report a stable high FPS in most or all areas of the game. If you need more performance, check out the [performance guide](https://github.com/Geborgen/nordic-souls/blob/main/PERFORMANCEGUIDE.md). With my PC being the minimum for a good experience, this list can be considered performance-friendly for most systems.
+Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
 
 ## Installation
 
@@ -96,13 +92,14 @@ I HIGHLY recommend you buy Nexus Premium before installing the list. You *techni
 If you are just updating the list, you can safely skip to [this section](#updating-the-list).
 
 ### Anniversary Edition
+
 **Nordic Souls requires the full AE upgrade**, which means you must PURCHASE the Anniversary Edition upgrade/DLC. The list is built around every single CC item being installed, and will not function without them.
 
 ### Preparations
 
 Please complete the following steps before the actual list installation:
-1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/16/release/vc_redist.x64.exe).
-2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime) AND [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
+1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+2. Install [Microsoft .NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime) AND [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime).
 3. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 4. Fully uninstall Skyrim by deleting the folders `/Steam/steamapps/common/Skyrim Special Edition and folder` and `/Documents/My Games/Skyrim Special Edition`, in addition to uninstalling through Steam.
 5. Reinstall Skyrim into a location that is NOT in Program Files. Somewhere like `C:\Games` is a good location. [See this tutorial for moving Steam libraries.](https://www.youtube.com/watch?v=DSF1iWCqsM8)
@@ -171,6 +168,8 @@ Game settings and mod configs can be found in the `NS - Game Settings` mod under
 Under the `Optional Files` separator, you can enable and disable things to your liking:
 - [Performance Grass INI](https://www.nexusmods.com/skyrimspecialedition/mods/48689) makes the grass sparser for better performance. This file has the grass at about the minimum density before it begins to look awful. You can make it even sparser if you really want (higher number = less dense).
 - [Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881): Different UI style. Includes the full suit of Nordic UI-styled mods, for a consistent UI overhaul.
+- [Untarnished UI - RaceMenu Patch - DIP](https://www.nexusmods.com/skyrimspecialedition/mods/97347): Untarnished UI skin for RaceMenu.
+- [NORDIC UI - RaceMenu Patch - DIP](https://www.nexusmods.com/skyrimspecialedition/mods/97348): Nordic UI skin for RaceMenu.
 - [Skyrim Paper Map by Caro Tuts - LABELED VERSION](https://www.nexusmods.com/skyrimspecialedition/mods/62705): A labeled version of the paper map.
 
 #### ENB
@@ -183,7 +182,7 @@ If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `
 
 If you want to change to one of the two other included presets, you must do the following:
 1. Under the `ENB Presets` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian`, `Rudy Obsidian Required Files`, and `Rudy ENB for Obsidian Weathers`.
-2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers`, and either [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167) or [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333).
+2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers`, and either [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167), [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333), or [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082).
 3. Make sure you only have one preset enabled at a time.
 4. Launch your game as usual.
 
@@ -193,24 +192,40 @@ If you do not want to use ENB, disable everything in that separator and keep it 
 
 #### Widescreen Support
 
-- Enable `Widescreen Fix` under the `Widescreen Support` separator. This was made for 21:9 displays, but it should work fine for 32:9 displays.
-- If you use the optional Nordic UI, enable `Nordic UI Widescreen Fix` in addition to the main widescreen fix.
+Enable mods under the `Widescreen Support` separator. Use whatever matches your UI overhaul.
 
 #### Gamepad Support
 
-For the purposes of this list, you can use the vanilla gamepad controlmap. The only thing you'll miss out on with the vanilla controlmap is dodging. You can change the dodge key in `TK Dodge RE.ini` to a gamepad key, but you may need to install a gamepad controlmap from the Nexus or make your own using [this tool](https://hawk.bar/SkyrimControlMapper/). You will not receive official support for gamepad issues.
+Enable `Gamepad Controlmap` under the `Gamepad Support` separator.
 
-#### Optional RaceMenu Skins
+<details><summary>Gamepad Bindings (expand)</summary>
 
-Nordic Souls includes the [Dynamic RaceMenu Interface Patcher (DRIP)](https://www.nexusmods.com/skyrimspecialedition/mods/92345) tool. This allows you to patch RaceMenu to be consistent with UI overhauls. 
+  ### Default Gamepad Bindings
+  
+  - Back Button: Player Menu
+  - D-Pad Up: Favorite Menu 
+  - D-Pad Left: Hotkey 1 (Favorites) 
+  - D-Pad Right: Hotkey 2 (Favorites) 
+  - D-Pad Down: Hotkey 3 (Favorites)
+  - LB+Back: Wait 
+  - LB+Start: Quicksave 
+  - LB+D-Pad Up: Quick Skills 
+  - LB+D-Pad Right: Quick Inventory 
+  - LB+D-Pad Down: Quick Map 
+  - LB+D-Pad Left: Quick Magic 
+  - R3 (Hold): Switch Perspective 
+  - R3 (Hold) + Left Stick: Change Camera Zoom in 3rd Person 
+  - B: Dodge
+  - X: Ready/Sheath Weapon
+  - Everything else is vanilla
 
-Unfortunately, due to the way the tool works, RaceMenu cannot come pre-patched with the list, so you will have to do it manually. Luckily, it's just a few clicks, and completely optional:
-1. Make sure you have [Java](https://www.java.com/en/download/) installed.
-2. From the application dropdown box on the right, select `DRIP` and run it.
-3. Make sure your RaceMenu path is correct (`Nordic Souls/mods/RaceMenu`). It should be selected automatically.
-4. Select the patch for your UI overhaul of choice. Untarnished UI and Nordic UI are included by default, with Nordic UI selected automatically (`Nordic Souls\mods\RaceMenu - Nordic UI Patch - DRIP Patch\DRIP - NORDIC UI`). If you use Untarnished UI (list default), change it to `Nordic Souls\mods\RaceMenu - Untarnished UI Patch - DRIP Patch\DRIP - Untarnished UI`.
-5. Click `Patch!` and wait for it to finish.
-6. Close the program.
+  Based off of [Modern Controlmap](https://www.nexusmods.com/skyrimspecialedition/mods/89649).
+  
+</details>
+
+#### Performance Tweaks
+
+Will work on this section later
 
 #### Modification Guide
 
@@ -241,7 +256,7 @@ By default, Nordic Souls uses the vanilla leveling system, but the nuances of it
 
 Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own.
 
-You will spawn in a cell. **Wait until notifications have stopped appearing in the top right** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options. *The vanilla intro sequence might be broken for some users, and no effort will be made to fix it.*
+You will spawn in a cell. **Wait until notifications have stopped appearing in the top right** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options. *The vanilla intro sequence should, for the most part, work correctly. At some points, your camera may be misaligned and get stuck. This is a known issue.*
 
 ### Gameplay Guide
 
