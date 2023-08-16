@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.2.0.1](#version-2201)
 - [Version 2.2.0](#version-220)
 - [Version 2.1.3](#version-231)
 - [Version 2.1.2.1](#version-2121)
@@ -11,6 +12,25 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.2.0.1
+
+**Hotfix, save-safe**
+
+- Hopefully fixed all installation issues
+- Actually made PI-CHO ENB show up in MO2
+- Unfortunately had to remove new hairstyles
+
+<details>
+ 
+ ### Updated
+ - Nordic Souls - Character Presets
+
+ ### Removed
+ - HG Hairdos 2
+ - HairPack02
+
+</details>
 
 ## Version 2.2.0
 
