@@ -166,6 +166,7 @@ Game settings and mod configs can be found in the `NS - Game Settings` mod under
 #### Optional Files
 
 Under the `Optional Files` separator, you can enable and disable things to your liking:
+- [Enhanced Volumetric Lighting and Sun Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725) improves volumetric lighting and shadows by synchronizing them with Skyrim's sun and moon(s). Looks great, but will cost you a lot of FPS. Use if you can spare performance.
 - [Performance Grass INI](https://www.nexusmods.com/skyrimspecialedition/mods/48689) makes the grass sparser for better performance. This file has the grass at about the minimum density before it begins to look awful. You can make it even sparser if you really want (higher number = less dense).
 - [Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881): Different UI style. Includes the full suit of Nordic UI-styled mods, for a consistent UI overhaul.
 - [Untarnished UI - RaceMenu Patch - DIP](https://www.nexusmods.com/skyrimspecialedition/mods/97347): Untarnished UI skin for RaceMenu.
