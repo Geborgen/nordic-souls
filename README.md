@@ -40,7 +40,7 @@
     - [ENB](#enb)
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
-    - [Performance](#performance-tweaks)
+    - [Performance Tweaks](#performance-tweaks)
     - [Modification Guide](#modification-guide)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
