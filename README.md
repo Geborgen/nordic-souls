@@ -227,7 +227,26 @@ Enable `Gamepad Controlmap` under the `Gamepad Support` separator.
 
 #### Performance Tweaks
 
-Will work on this section later
+Nordic Souls should run fine on almost any machine, but there are some things you can do to improve performance if you're struggling:
+- BethINI: Close MO2, open your installation folder, open `Tools`, open `BethINI`, run the program.
+
+<details><summary>BethINI Settings (expand)</summary>
+
+  ### BethINI Performance Settings
+  - First make sure your paths are correct in the `Setup` tab: Game path should be `Nordic Souls\Game Root` and Mod Organizer should be your Nordic Souls folder. INI path should be `ModOrganizer > Nordic Souls`.
+  - On the `Basic` tab, check `Recommended Tweaks` and then `Medium`. Disable `VSync`. Make sure your monitor's resolution matches.
+  - Set `Antialiasing` to `None`. This can cause weird shimmering in-game, however.
+  - On the `Details` tab, set `Godrays` to `None`. Set `Particles` to `6000`. Disable `Lens Flare` and `Anamorphic Lens Flare`. Set `Detailed Draw Distance` to `2000` and `Exterior Draw Distance` to `6000`. Disable `Ambient Occlusion`.
+  - On the `View Distance` tab, set `Grass Fade` to `10000`, set `Level 8` to `32768`, and `Level 16` to `200000`.
+  - Go back to the `Basic` tab, click `Save and Exit`.
+
+  Thanks to [Elysium Remastered](https://github.com/TitansBane/Elysium-Remastered) for some of these tweaks.
+  
+</details>
+
+- ENB: Toggle ENB with `F12`. Completely removing ENB has caused issues for users, so keep it disabled instead. *The default Rudy ENB is the most performance-friendly preset in the list.*
+- Pay to win: upgrade hardware. SSD will improve load times, RAM will reduce stuttering, GPU and CPU will increase performance. This isn't a PC guide, there are plenty of those on the internet.
+- Pay to win: [PureDark](https://www.patreon.com/PureDark)'s upscaler. It works for many people. You don't recieve official support for any issues, as it falls under modifying the list.
 
 #### Modification Guide
 
