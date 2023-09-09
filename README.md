@@ -74,8 +74,6 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 ## System Requirements
 
-The Nordic Souls installation requires ~172 GB of free space, not including the total download size, which is ~129 GB. Overall, you'll need ~301 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
-
 | Minimum | Recommended |
 |-----|-----|
 | Intel i5-9400 / AMD Ryzen 5 2600 | Intel i5 - 13400 / AMD Ryzen 5 5600x  |
@@ -84,6 +82,8 @@ The Nordic Souls installation requires ~172 GB of free space, not including the 
 | SATA SSD | NVMe SSD |
 
 Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
+
+The Nordic Souls installation requires ~172 GB of free space, not including the total download size, which is ~129 GB. Overall, you'll need ~301 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
 
 ## Installation
 
@@ -138,6 +138,7 @@ Some common errors you may encounter during installation:
 - Could not download x:
   - Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
   - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content.
+  - Verify game file integrity on Steam. Right-click the game, click `Properties`, click `Installed Files`, click `Verify integrity of game files`.
 - x is not a whitelisted download:
   - This may happen when I update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find the game folder:
@@ -292,5 +293,5 @@ To see the changes and version history, visit the [changelog](https://github.com
 - Other Wabbajack list authors for their help and inspiration
 - The Community Helpers in my Discord server for their amazing assistance with ideas, testing, and community support
 - Everyone who has played the list that has helped in some way, by finding issues and contributing ideas
-- Waffles for the logo and branding
+- ThwartAbyss54 for banner background
 - Based Department (you know who you are)
