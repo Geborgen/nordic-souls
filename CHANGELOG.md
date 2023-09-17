@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.2.0.2](#version-2202)
 - [Version 2.2.0.1](#version-2201)
 - [Version 2.2.0](#version-220)
 - [Version 2.1.3](#version-231)
@@ -12,6 +13,16 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.2.0.2
+
+**Hotfix, save-safe.**
+
+- Fixed installation issues related to Kaidan
+- Fixed instalation issues related to Children of the Pariah
+- You do not need to update if you have the list installed and working
+
+**Hotfix, sa
 
 ## Version 2.2.0.1
 
