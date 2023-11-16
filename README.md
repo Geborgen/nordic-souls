@@ -28,10 +28,11 @@
 - [Installation](#installation)
   - [Anniversary Edition](#anniversary-edition)
   - [Preparations](#preparations)
+    - [Prerequisites](#prerequisites)
     - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
     - [Shader Cache Size](#shader-cache-size)
     - [Steam Setup](#steam-setup)
-	- [Installing CC Content](#installing-cc-content)
+    - [Installing CC Content](#installing-cc-content)
   - [List Installation](#list-installation)
     - [Installing Wabbajack](#installing-wabbajack)
     - [Downloading and Installing the List](#downloading-and-installing-the-list)
@@ -47,7 +48,7 @@
     - [Modification Guide](#modification-guide)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
-	- [Controls](#controls)
+    - [Controls](#controls)
   - [Mod Configuration Menu](#mod-configuration-menu)
     - [Leveling Freedom](#leveling-freedom)
     - [SmoothCam](#smoothcam)
@@ -176,19 +177,19 @@ Downloading and installing Nordic Souls can take a long time depending on your i
 
 Some common errors you may encounter during installation:
 - Could not download `X`:
-	- Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
-	- Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#downloading-cc-content).
-	- Verify game file integrity on Steam. Right-click the game, click `Properties`, click `Installed Files`, click `Verify integrity of game files`.
+  - Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
+  - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#downloading-cc-content).
+  - Verify game file integrity on Steam. Right-click the game, click `Properties`, click `Installed Files`, click `Verify integrity of game files`.
 - `X` is not a whitelisted download:
-	- This may happen when I update the list. Please check if there is a new update or wait if there is none.
+  - This may happen when I update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find the game folder:
-	- You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) section.
+  - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) section.
 - Antivirus reports a virus:
-	- Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+  - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
-	- Go back to [this section](#installing-cc-content) and make sure all CC content is installed. If it is, and you have verified your game files, and you are on a legal copy of the game on Steam, then there is likely an error on Wabbajack or Bethesda's end and you will have to wait.
+  - Go back to [this section](#installing-cc-content) and make sure all CC content is installed. If it is, and you have verified your game files, and you are on a legal copy of the game on Steam, then there is likely an error on Wabbajack or Bethesda's end and you will have to wait.
 - Unable to download `Skyrim_Default.ini`:
-	 - Go back to the [this section](#steam-setup) section and change your game language to English.
+  - Go back to the [this section](#steam-setup) section and change your game language to English.
 
 If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [my server](https://discord.com/invite/9cRs3KPyuW). **Please do not ask for support before going through these steps.**
 
