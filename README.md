@@ -28,7 +28,10 @@
 - [Installation](#installation)
   - [Anniversary Edition](#anniversary-edition)
   - [Preparations](#preparations)
-    - [Pagefile](#pagefile)
+    - [Pagefile and Crash Prevention](#pagefile-and-crash-prevention)
+    - [Shader Cache Size](#shader-cache-size)
+    - [Steam Setup](#steam-setup)
+	- [Installing CC Content](#installing-cc-content)
   - [List Installation](#list-installation)
     - [Installing Wabbajack](#installing-wabbajack)
     - [Downloading and Installing the List](#downloading-and-installing-the-list)
@@ -44,6 +47,7 @@
     - [Modification Guide](#modification-guide)
 - [Playing the List](#playing-the-list)
   - [Starting Up](#starting-up)
+	- [Controls](#controls)
   - [Mod Configuration Menu](#mod-configuration-menu)
     - [Leveling Freedom](#leveling-freedom)
     - [SmoothCam](#smoothcam)
@@ -68,9 +72,7 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 ## List Contents
 
-[The full list of mods can be viewed on Load Order Library.](https://loadorderlibrary.com/lists/nordic-souls)
-
-[The default keymap can be found here.](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d)
+The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/nordic-souls).
 
 ## System Requirements
 
@@ -97,15 +99,15 @@ If you are just updating the list, you can safely skip to [this section](#updati
 
 ### Preparations
 
-Please complete the following steps before the actual list installation:
-1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-2. Install [Microsoft .NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime) AND [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime).
-3. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-4. Fully uninstall Skyrim by deleting the folders `/Steam/steamapps/common/Skyrim Special Edition and folder` and `/Documents/My Games/Skyrim Special Edition`, in addition to uninstalling through Steam.
-5. Reinstall Skyrim into a location that is NOT in Program Files. Somewhere like `C:\Games` is a good location. [See this tutorial for moving Steam libraries.](https://www.youtube.com/watch?v=DSF1iWCqsM8)
-6. Launch the game and download all Creation Club add-ons, this should happen automatically. When complete, close the game.
+#### Prerequisites
 
-#### Pagefile
+Please complete the following steps:
+1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+2. Install [Microsoft .NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime) and [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime).
+3. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+4. Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
+
+#### Pagefile and Crash Prevention
 
 Large modlists require a lot of memory. If there isn't enough memory, it might fail to allocate more and cause a memory-related crash. You can fix this with a pagefile, which essentially acts as virtual memory.
 
@@ -114,13 +116,51 @@ To prevent memory crashes, perform the following steps to increase your pagefile
 2. Under the `Advanced` tab, press `Settings` under the `Performance` section
 3. In the window that pops up, go to the `Advanced` tab and press `Change...` under the `Virtual Memory` section
 4. Disable `Automatically manage paging file size for all drives`
-5. If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to `System managed size`. Otherwise, set a custom size for the drive it's currently on and increase the maximum size to be at least 20GB.
+5. Select your disk drive, ideally your fasted SSD
+6. Under the `Custom Size:` option, change `Initial Size (MB)` and `Maximum Size (MB)` to `40960`
+7. Click `Set`
+8. Click `OK`, then `Apply` and `OK`
+9. Restart your computer
+
+#### Shader Cache Size
+
+If you have an NVIDIA graphics card, please perform the following steps to increase your shader cache size:
+1. Open your `NVIDIA Control Panel`
+2. Click on `Manage 3D settings`
+3. Scroll down in `Global Settings` until you see `Shader Cache Size`
+4. Double-click `Driver Default` to the right and set it to `10 GB`
+5. Click `Apply` and exit the application
+
+![Shader Cache](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
+
+#### Steam Setup
+
+Nordic Souls only works with the Steam version of Skyrim. Additionally, it will only work with English versions of the game as well. While this may be understandably frustrating for users with different game versions or non-English speakers, there are major differences between game versions and I am only able to support one language.
+
+A non-English version of the game will cause problems later. To verify that your game is in English, please peform the following steps:
+1. Right click on Skyrim in Steam
+2. Click `Properties`
+3. Under `General`, set `Language` to `English`
+
+If your Steam library is in Program Files, refer to [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to move it elsewhere. Do not install do default Windows folders (Desktop, Documents, Downloads, etc.) as this will cause issues.
+
+#### Installing CC Content
+
+If you have not bought the Anniversary Edition DLC before, please do so. The list will not install without it. 
+
+If you have Anniversary Edition and have yet to install Creation Club content, please perform the following steps:
+1. Right click on Skyrim in Steam, select `Properties`, select `Installed Files`, and click `Verify integrity of game files` and wait for it to complete.
+2. Launch the game from Steam, and ignore any pop-ups about settings in the launcher. Run the game to get to the title screen.
+3. You should receive a prompt to download all CC content, accept it.
+4. If you do not receive a prompt, to to the `Creation Club` menu from the title screen, and there should be a `Download All` prompt. If there is not, you need to buy the AE DLC.
+5. Wait for the download process to complete. **This may take a while. Do not ALT-TAB during this process.**
+6. When complete, close Skyrim.
 
 ### List Installation
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, such as `C:\Wabbajack`. **Do not place it in Program Files, on your desktop, or in your downloads folder.**
+Once you have completed pre-installation, download the [latest version of Wabbajack](https://www.wabbajack.org/) and place it in a folder near or at the root of your drive, such as `C:\Wabbajack`. **Do not place it in Program Files, or in any default Windows folders like Desktop or Downloads.**
 
 #### Downloading and Installing the List
 
@@ -135,16 +175,20 @@ Downloading and installing Nordic Souls can take a long time depending on your i
 #### Problems with Installation
 
 Some common errors you may encounter during installation:
-- Could not download x:
-  - Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
-  - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content.
-  - Verify game file integrity on Steam. Right-click the game, click `Properties`, click `Installed Files`, click `Verify integrity of game files`.
-- x is not a whitelisted download:
-  - This may happen when I update the list. Please check if there is a new update or wait if there is none.
+- Could not download `X`:
+	- Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
+	- Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#downloading-cc-content).
+	- Verify game file integrity on Steam. Right-click the game, click `Properties`, click `Installed Files`, click `Verify integrity of game files`.
+- `X` is not a whitelisted download:
+	- This may happen when I update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find the game folder:
-  - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) step.
+	- You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) section.
 - Antivirus reports a virus:
-  - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+	- Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+- Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
+	- Go back to [this section](#installing-cc-content) and make sure all CC content is installed. If it is, and you have verified your game files, and you are on a legal copy of the game on Steam, then there is likely an error on Wabbajack or Bethesda's end and you will have to wait.
+- Unable to download `Skyrim_Default.ini`:
+	 - Go back to the [this section](#steam-setup) section and change your game language to English.
 
 If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [my server](https://discord.com/invite/9cRs3KPyuW). **Please do not ask for support before going through these steps.**
 
@@ -152,9 +196,9 @@ If you are still having issues, visit the [Wabbajack Discord](https://discord.co
 
 ### Stock Game and Root Builder
 
-Nordic Souls uses the [Stock Game](https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md) method. This is essentially a copy of Skyrim included with the installation folder. This means that everything is completely separate from your Steam installation of Skyrim (which is still required as the game files are not redistributed).
+Nordic Souls uses the [Stock Game](https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md) method. This is essentially a copy of Skyrim included with the installation folder. This means that everything is completely separate from your Steam installation of Skyrim (which is still required as the game files are not redistributed). The folder in question is called `Game Root`, located at `Nordic Souls\Game Root`.
 
-The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) to keep the stock game folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
+The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
 
 ### Customizing the List
 
@@ -246,7 +290,7 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
 
 - ENB: Toggle ENB with `F12`. Completely removing ENB has caused issues for users, so keep it disabled instead. *The default Rudy ENB is the most performance-friendly preset in the list.*
 - Pay to win: upgrade hardware. SSD will improve load times, RAM will reduce stuttering, GPU and CPU will increase performance. This isn't a PC guide, there are plenty of those on the internet.
-- Pay to win: [PureDark](https://www.patreon.com/PureDark)'s upscaler. It works for many people. You don't recieve official support for any issues, as it falls under modifying the list.
+- Pay to win: [PureDark](https://www.patreon.com/PureDark)'s upscaler. It works for many people. You don't receive official support for any issues, as it falls under modifying the list. You should also be aware that [the author is adding DRM mines to the mod](https://www.ign.com/articles/starfield-paid-dlss-mod-creator-hits-back-at-pirates-threatens-to-add-hidden-mines-in-future-mods), and there is currently no alternative free version for Skyrim.
 
 #### Modification Guide
 
@@ -260,6 +304,10 @@ Modifying the list in any other way is unsupported, but not unwelcome. Visit the
 - Make sure the dropdown box on the right is set to `Play Nordic Souls [SKSE]` and run it.
 - You can create a desktop shortcut in the shortcuts dropdown.
 - **Do not launch the game through Steam.**
+
+#### Controls
+
+The default keymap can be found [here](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d). Refer to [this section](gamepad-support) for controller setup.
 
 ### Mod Configuration Menu
 
@@ -312,5 +360,5 @@ To see the changes and version history, visit the [changelog](https://github.com
 - Other Wabbajack list authors for their help and inspiration
 - The Community Helpers in my Discord server for their amazing assistance with ideas, testing, and community support
 - Everyone who has played the list that has helped in some way, by finding issues and contributing ideas
-- ThwartAbyss54 for banner background
+- ThwartAbyss54 for the banner background
 - Based Department (you know who you are)
