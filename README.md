@@ -308,7 +308,7 @@ Modifying the list in any other way is unsupported, but not unwelcome. Visit the
 
 #### Controls
 
-The default keymap can be found [here](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d). Refer to [this section](gamepad-support) for controller setup.
+The default keymap can be found [here](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d). Refer to [this section](#gamepad-support) for controller setup.
 
 ### Mod Configuration Menu
 
