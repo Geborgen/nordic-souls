@@ -228,7 +228,7 @@ Nordic Souls uses a modified version of the incredible [Rudy ENB](https://www.ne
 If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `Environment` category in the ENB menu.
 
 If you want to change to one of the two other included presets, you must do the following:
-1. Under the `ENB Presets` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian`, `Rudy Obsidian Required Files`, and `Rudy ENB for Obsidian Weathers`.
+1. Under the `ENB Presets` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian` and `Rudy ENB for Obsidian Weathers`.
 2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers`, and either [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167), [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333), or [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082).
 3. Make sure you only have one preset enabled at a time.
 4. Launch your game as usual.
