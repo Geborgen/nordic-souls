@@ -290,7 +290,8 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
   
 </details>
 
-- ENB: Toggle ENB with `F12`. Completely removing ENB has caused issues for users, so keep it disabled instead. *The default Rudy ENB is the most performance-friendly preset in the list.*
+- ENB: Toggle ENB with `F12`. Completely removing ENB has caused issues for users, so keep it disabled instead. *The default Rudy ENB preset is the most performance-friendly preset in the list.*
+- ENB: For any ENB preset, press `F11` to open the ENB menu, untick `EnableAmbientOcclusion` under `Effect` in the left column, and then `---SAVE CONFIGURATION---` at the top.
 - Pay to win: upgrade hardware. SSD will improve load times, RAM will reduce stuttering, GPU and CPU will increase performance. This isn't a PC guide, there are plenty of those on the internet.
 - Pay to win: [PureDark](https://www.patreon.com/PureDark)'s upscaler. It works for many people. You don't receive official support for any issues, as it falls under modifying the list. You should also be aware that [the author is adding DRM mines to the mod](https://www.ign.com/articles/starfield-paid-dlss-mod-creator-hits-back-at-pirates-threatens-to-add-hidden-mines-in-future-mods), and there is currently no alternative free version for Skyrim.
 
