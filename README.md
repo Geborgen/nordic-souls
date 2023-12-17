@@ -54,6 +54,7 @@
     - [SmoothCam](#smoothcam)
   - [Starting the Game](#starting-the-game)
   - [Gameplay Guide](#gameplay-guide)
+  - [Note for Content Creators](#note-for-content-creators)
 - [Updating the List](#updating-the-list)
 - [Uninstalling the List](#uninstalling-the-list)
 - [Known Issues](#known-issues)
@@ -331,6 +332,10 @@ You will spawn in a cell. **Wait until notifications have stopped appearing in t
 ### Gameplay Guide
 
 The gameplay guide can be viewed [here](https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md). It includes a more in-depth explanation of what the list is actually trying to do, along with breaking down the different gameplay overhauls, quest mods, and other mods to pay attention to.
+
+### Note for Content Creators
+
+Some of the added music in the list cannot be played on YouTube/Twitch or other platforms due to DMCA rules. To circumvent this, I recommend disabling in-game music with the audio slider.
 
 ## Updating the List
 
