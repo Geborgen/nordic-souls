@@ -106,8 +106,9 @@ If you are just updating the list, you can safely skip to [this section](#updati
 Please complete the following steps:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [Microsoft .NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime) and [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime).
-3. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-4. Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
+3. Make sure you have a fresh copy of Skyrim version `1.6.1130` installed on Steam. It should not be updated from a previous version, it should be a fresh installation.
+4. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+5. Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
 
 #### Pagefile and Crash Prevention
 
@@ -145,6 +146,8 @@ A non-English version of the game will cause problems later. To verify that your
 3. Under `General`, set `Language` to `English`
 
 If your Steam library is in Program Files, refer to [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to move it elsewhere. Do not install do default Windows folders (Desktop, Documents, Downloads, etc.) as this will cause issues.
+
+As mentioned earlier, your game version on Steam should be `1.6.1130`. If you updated the game from a previous version, the list may fail to install and the log might mentioned CC content. For backend reasons, updating from a previous version of the game will not work, and you must delete and reinstall Skyrim.
 
 #### Installing CC Content
 
