@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.3.0](#version-230)
 - [Version 2.2.0.2](#version-2202)
 - [Version 2.2.0.1](#version-2201)
 - [Version 2.2.0](#version-220)
@@ -14,6 +15,230 @@
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
 
+## Version 2.3.0
+
+**This update requires a new game.**
+
+- Added Artificer
+- Added Katana
+- Added new Dareni spells
+- Added several new armor sets
+- Added new Xavbio textures
+- Changed some (coastal) landscape textures
+- Added cool new tent models
+- Added a new short quest (Calling the Watchmaker)
+- Added brighter dungeon lighting templates
+- Added item descriptions
+- Added Discord Rich Presence
+- Added new music
+- Added new weapon sound effects
+- Enabled ENB AO by default
+- Changed some quest requirements
+- Replaced loading screen mods
+- Updated default animations
+- Removed CFPAO magic and crossbow animations
+- Updated many mods
+- Updated documentation greatly
+
+### Fixed
+- Vigilant Quest: Bloodsucker Invisible Vampire
+- Food Poisoning from Starfrost gives no negative effects
+- Quests are in Skyrim not working for "Ancient Technology" Quest (Dawnguard)
+- Wrong download link
+- Hendraheim LOD issue
+- Bugs not listed on GitHub
+
+<details>
+
+ ### Updated
+ - Mysticism - A Magic Overhaul
+ - Adamant - A Perk Overhaul
+ - Hand to Hand - An Adamant Addon
+ - Stormcrown - A Shout Overhaul
+ - Scion - A Vampire erhaul
+ - Manbeast - A Werewolf Overhaul
+ - Apothecary - An Alchemy Overhaul
+ - Gourmet - A Cooking Overhaul
+ - Thaumaturgy - An Enchanting Overhaul
+ - Journeyman - A Fast Travel Overhaul
+ - Starfrost - A Survival Overhaul
+ - Blade and Blunt - A Combat Overhaul
+ - Natura - Spriggans
+ - Natura
+ - Lunaris
+ - Abyss
+ - Bloodmoon
+ - Flames of Coldharbour
+ - Necrom
+ - Stellaris
+ - Vulcano
+ - Arclight
+ - Desecration
+ - Arcane
+ - Wyrmstooth
+ - VIGIlANT SE
+ - VIGILANT Voiced - English Addon
+ - Unslaad SE
+ - UNSLAAD Voiced - English Addon
+ - House of Horrors - Quest Expansion
+ - Kaidan - Extended Edition
+ - Gore - A Companion Mod
+ - GORE - Miscellaneous Patches
+ - Remiel-Custom Voiced Dwemer Specialist and Companion
+ - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+ - Redcap the Riekling - A Fully Voice-Acted Immersive Follower and Quest
+ - Nether's Follower Framework
+ - SPID - NFF - Add Ignore Token to CustomAI Followers
+ - Press H to Horse
+ - True Directional Movement - Modernized Third Person Gameplay
+ - Open Animation Replacer
+ - powerofthree's Tweaks
+ - Spell Perk Item Distributor (SPID)
+ - Keyword Item Distributor (KID)
+ - Base Object Swapper
+ - Object Categorization Framework
+ - B.O.O.B.I.E.S (aka Immersive Icons)
+ - Aura's Scrumptious Supplement
+ - The Handy Icon Collection Collective for I4
+ - Phenomenally Enriched and Nuanced Ingredients for SkyUI
+ - Instantly Skip Dialogue NG
+ - Photo Mode
+ - ConsolePlusPlus
+ - Better Third Person Selection - BTPS
+ - FSMP - Faster HDT-SMP
+ - CBPC - Physics with Collisions for SSE and VR
+ - XP32 Maximum Skeleton Special Extended - XPMSSE
+ - Immersive Equipment Displays
+ - Skyrim Landscape and Water Fixes
+ - Natural Waterfalls
+ - Unique Towns - Base Object Swapper
+ - Unofficial Skyrim Modder's Patch - USMP SE
+ - Unaggressive Dragon Priests Fix
+ - Skyland Bits and Bobs - A Clutter Overhaul
+ - Skyland AIO
+ - Lux
+ - Lux Orbis
+ - Embers XD
+ - Water for ENB
+ - Particle Patch for ENB
+ - ENBSeries
+ - The Northerner Diaries - Immersive Edition
+ - RaceMenu - Nordic UI - DIP Patch
+ - Address Library for SKSE Plugins
+ - Kezyma's Root Builder for Mod Organizer
+ - Mod Organizer 2
+ - DynDOLOD DLL NG
+ - DynDOLOD Resources SE 3
+ - DynDOLOD 3 Alpha
+ - xLODGen
+ - LOOT
+
+ ### Added
+ - Necrotic
+ - Artificer - An Artifact Overhaul
+ - aljo's Artificer Patches
+ - Artificer - Xavbio Textures - HIMBO and 3BA
+ - Katana - Journey in the Shadows
+ - Simple Fishing Overhaul - Animations and Improved Quest Dialogue
+ - Simple Fishing Overhaul - FLM Addon
+ - The Heart of Dibella - Quest Expansion
+ - VIGILANT - Tweaks
+ - UNSLAAD Music Extended
+ - Calling the Watchmaker - Lovecraftian Inspired Quest
+ - Homes Under the Warhammer
+ - Simple Player Homes Improvements
+ - Spaghetti's Palaces - AIO
+ - Spaghetti's Faction Halls - AIO
+ - Spaghetti's Faction Halls - AIO - No College of Winterhold
+ - Natural Waterfalls - Dawnguard
+ - Natural Waterfalls - Dragonborn
+ - Yaldabaoth Armor
+ - HDT-SMP Yaldabaoth Armor Patch
+ - Dovah Kriaan Armor
+ - Dragon Scouts Armor
+ - HDT-SMP Infantry Armor Patch
+ - HDT-SMP for Cloaks and Capes
+ - Unique Armors and Weapons Retexture SE
+ - Thieves Guild Armors Retexture SE
+ - Forsworn Armors and Weapons Retexture SE
+ - Dragon Priests Retexture SE
+ - Leather Armors Retexture CBBE 3BA Bodyslide Patch
+ - CBBE - 3BA Vanilla Armors - No Rim Lighting
+ - ElSopa - Skeleton Key Redone
+ - Vampire Lord and Lady Have Eyes
+ - Lamae's Gaze - vampire eyes
+ - Iconic's Werewolf and Werebear Retexture
+ - Small Nordic Tent Replacer
+ - slightly Better Rock Cairns
+ - Open Animation Replacer - IED Conditions
+ - Weapon Styles - Draw-Sheathe animations for IED
+ - Backpack Repositioner - Immersive Equipment Displays
+ - Vanargand Animations II - Male Idle Walk And Run
+ - Vanargand Animations II - Female Idle Walk And Run
+ - Vanargand Animations II - Sprint
+ - Vanargand Animations II - Unarmed Non Combat Locomotion
+ - Leviathan Animations II - Greatsword Sneak Locomotion And Attacks
+ - Paired Animation Improvements
+ - No Furniture Camera
+ - Comprehensive Attack Speed Patch - SKSE
+ - SMP-NPC crash fix
+ - Sweeping Organizes Stuff - Use Broom to Clean Mess
+ - Container Item Distributor
+ - Description Framework
+ - Vanilla Item Descriptions
+ - Creation Club Item Descriptions
+ - Mythos of Skyrim - Immersive Artifact Descriptions
+ - Weapon switch animation Fix
+ - Disk Cache Enabler
+ - Kill Caps Lock NG
+ - Vanilla Script (micro)Optimizations
+ - Vanilla Scripting Enhancements
+ - Simply Optimized Scripts AIO
+ - Bulwark - Shield Audio Overhaul
+ - Bleeding Edge - Bladed Weapons SFX Overhaul
+ - Skullbreaker - Blunt Weapons SFX
+ - Deadeye - Bow and Crossbow SFX
+ - Musical Lore (Soundtrack Mod By Nir Shor)
+ - Chapter II - Jeremy Soule Inspired Music
+ - Nyghtfall - Dark Fantasy Music
+ - One More Music Merge
+ - Clockwork (SSE) - Settings Loader
+ - The Elder Scrolls Legends - Loading Screens
+ - TESL Loading Screens - Tweaks and Addons
+ - Improved Loading Screen Colors
+ - Discord Rich Presence
+
+ ### Removed
+ - Vestige - An Artifact Overhaul
+ - White Phial - Tweaks and Enhancements
+ - Ring of Namira - Improved
+ - Trade & Barter
+ - Infantry Armor SE - My patches
+ - Frankly HD Miraak
+ - Dovah Sonaak - Dragon Priest Masks SE
+ - Wyrmstooth Suleyk Retexture SE
+ - Wyrmstooth Upscaled Textures
+ - ProjectedDiffuse Patch - Skyland
+ - eFPS - Exterior FPS boost
+ - eFPS - Anniversary Edition
+ - eFPS - Official Patch Hub
+ - Unofficial eFPS patches
+ - Sound Hammering Sounds
+ - Don't sheathe bound weapons DAR animations
+ - Vanargand Animations - Male Idle Walk and Run
+ - Vanargand Animations - Female Idle Walk and Run
+ - Vanguard
+ - Improved weapons enchantments FX SE
+ - Inferno - Fire Effects Redux
+ - Colovian Prince Armor - SPID
+ - Dragons Fall Down - Immersive Airborne Death
+ - Wait Your Turn - Enemy Circling Behaviour
+ - Artesian Cloaks of Skyrim
+ - Simple Load Screens
+ - Yet Another Music Merge
+
+</details>
+
 ## Version 2.2.0.2
 
 **Hotfix, save-safe.**
@@ -21,8 +246,6 @@
 - Fixed installation issues related to Kaidan
 - Fixed instalation issues related to Children of the Pariah
 - You do not need to update if you have the list installed and working
-
-**Hotfix, sa
 
 ## Version 2.2.0.1
 
