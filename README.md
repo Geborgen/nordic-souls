@@ -151,15 +151,13 @@ As mentioned earlier, your game version on Steam should be `1.6.1130`. If you up
 
 #### Installing CC Content
 
-If you have not bought the Anniversary Edition DLC before, please do so. The list will not install without it. 
+If you have not bought the Anniversary Edition DLC before, please do so. The list will not install without it. Additionally, you should not verify file integrity through Steam, or wrong versions of certain CC mods will be downloaded, causing installation to fail.
 
-If you have Anniversary Edition and have yet to install Creation Club content, please perform the following steps:
-1. Right click on Skyrim in Steam, select `Properties`, select `Installed Files`, and click `Verify integrity of game files` and wait for it to complete.
-2. Launch the game from Steam, and ignore any pop-ups about settings in the launcher. Run the game to get to the title screen.
-3. You should receive a prompt to download all CC content, accept it.
-4. If you do not receive a prompt, to to the `Creation Club` menu from the title screen, and there should be a `Download All` prompt. If there is not, you need to buy the AE DLC.
-5. Wait for the download process to complete. **This may take a while. Do not ALT-TAB during this process.**
-6. When complete, close Skyrim.
+If you have Anniversary Edition and a fresh copy of Skyrim installed, and have yet to install Creation Club content, please perform the following steps:
+1. Launch the game from Steam, and ignore any pop-ups about settings in the launcher. Run the game to get to the title screen.
+2. You should receive a prompt to download all CC content, accept it.
+3. Wait for the download process to complete. **This may take a while. Do not ALT-TAB during this process.**
+4. When complete, close Skyrim.
 
 ### List Installation
 
@@ -189,7 +187,6 @@ Some common errors you may encounter during installation:
 - Could not download `X`:
   - Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
   - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#downloading-cc-content).
-  - Verify game file integrity on Steam. Right-click the game, click `Properties`, click `Installed Files`, click `Verify integrity of game files`.
 - `X` is not a whitelisted download:
   - This may happen when I update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find the game folder:
@@ -197,7 +194,9 @@ Some common errors you may encounter during installation:
 - Antivirus reports a virus:
   - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
-  - Go back to [this section](#installing-cc-content) and make sure all CC content is installed. If it is, and you have verified your game files, and you are on a legal copy of the game on Steam, then there is likely an error on Wabbajack or Bethesda's end and you will have to wait.
+  - Go back to [this section](#installing-cc-content) and make sure all CC content is installed. If it is, and you are on a legal copy of the game on Steam, then there is likely an error on Wabbajack or Bethesda's end and you will have to wait.
+- Unable to download `Data_ccBGSSSE037-Curios - *.bsa` or `*.esl`:
+  - This means you have verified integrity through Steam. You should delete them from `Steam/steamapps/common/Skyrim Special Edition/Data`, open the game through Steam, and redownload the files through the pop-up.
 - Unable to download `Skyrim_Default.ini`:
   - Go back to the [this section](#steam-setup) section and change your game language to English.
 
