@@ -13,7 +13,6 @@
   <a href="https://loadorderlibrary.com/lists/nordic-souls">Full Modlist</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md">Modification Guide</a> |
-  <a href="https://github.com/Geborgen/nordic-souls/blob/main/KNOWNISSUES.md">Known Issues</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a>
 </p>
 
@@ -358,7 +357,7 @@ Simply delete the folder, and you have uninstalled the list.
 
 ## Known Issues
 
-Please refer to [this page](https://github.com/Geborgen/nordic-souls/blob/main/KNOWNISSUES.md) before reporting an issue. Keep in mind that although I try to fix issues as they come up, I cannot fix everything. If your issue isn't listed, see below.
+Please refer to the [issues](https://github.com/Geborgen/nordic-souls/issues) tab before reporting an issue. Additionally, common bugs will be discussed on Discord. Keep in mind that although I try to fix issues as they come up, I cannot fix everything. If your issue isn't listed, see below.
 
 ## I found a bug!
 
