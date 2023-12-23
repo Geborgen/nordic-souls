@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.3.1](#version-231)
 - [Version 2.3.0](#version-230)
 - [Version 2.2.0.2](#version-2202)
 - [Version 2.2.0.1](#version-2201)
@@ -14,6 +15,18 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.3.1
+
+**This update is likely not safe-save. Test on a new game if issues arise.**
+
+- Fixed instances of freezing
+- Downgraded stock game to 1.5.97
+- "Updated" all SKSE plugins to match new versions
+- Re-enabled Vigilant NPC Overhaul (forgot to in 2.3)
+- Fixed invisible backpacks
+- Added Backported Extended ESL Support
+- Removed Journeyman (does not support 1.5.97)
 
 ## Version 2.3.0
 
