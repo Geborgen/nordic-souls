@@ -1,5 +1,0 @@
-# Known Issues
-
-| Issue | Status |
-| ------------- | ------------- |
-| Poison Spray Crash | Fix is being worked on, check [this thread](https://discord.com/channels/622502918498811907/1107773353143574538) in Simon's server |
