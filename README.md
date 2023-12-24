@@ -81,12 +81,12 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 |-----|-----|
 | Intel i5-9400 / AMD Ryzen 5 2600 | Intel i5 - 13400 / AMD Ryzen 5 5600x  |
 | NVIDIA GTX 1060 / AMD RX 580 | NVIDIA RTX 3060 TI / AMD RX 6700 |
-| 12 GB DDR3 | 32 GB DDR4 |
+| 16 GB DDR3 | 32 GB DDR4 |
 | SATA SSD | NVMe SSD |
 
 Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
 
-The Nordic Souls installation requires ~172 GB of free space, not including the total download size, which is ~129 GB. Overall, you'll need ~301 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
+The Nordic Souls installation requires ~182 GB of free space, not including the total download size, which is ~137 GB. Overall, you'll need ~319 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
 
 ## Installation
 
