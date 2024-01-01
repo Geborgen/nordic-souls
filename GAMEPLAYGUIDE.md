@@ -59,7 +59,7 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 
 - [RAE - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) changes start conditions for some CC quests. For this list, they have default values. This can be tweaked in the MCM.
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) lets you return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation.
-- [Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been overhauled with [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536). You won't get any notification about it, just activate it normally in the gameplay menu. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it. It is much more lightweight, read through the mod page if you choose to enable it. [Journeyman](https://www.nexusmods.com/skyrimspecialedition/mods/92220) has been installed as well, but only activates when survival mode is enabled.
+- [Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been overhauled with [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536). You won't get any notification about it, just activate it normally in the gameplay menu. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it. It is much more lightweight, read through the mod page if you choose to enable it.
 
 ## Quests
 
