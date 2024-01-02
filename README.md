@@ -313,7 +313,7 @@ Modifying the list in any other way is unsupported, but not unwelcome. Visit the
 - Open the installation folder and open `ModOrganizer.exe`.
 - Make sure the dropdown box on the right is set to `Play Nordic Souls [SKSE]` and run it.
 - You can create a desktop shortcut in the shortcuts dropdown.
-- **Do not launch the game through Steam. This will launche vanilla Skyrim.**
+- **Do not launch the game through Steam. This will launch vanilla Skyrim.**
 - **Do not "unlock" MO2 when the game is running. This will cause various issues within the game.**
 
 #### Controls
