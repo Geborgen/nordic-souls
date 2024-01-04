@@ -16,6 +16,14 @@
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
 
+## Version 2.3.1.1
+
+**Hotfix, save-safe**
+
+- Fixed installation issues due to Ancient Dwemer Metal patches
+- Removed Ancient Dwemer Metal patches from JS retextures (permission issue)
+- Updated Faster HDT-SMP to potentially fix certain crashes
+
 ## Version 2.3.1
 
 **This update is likely not safe-save. Test on a new game if issues arise.**
