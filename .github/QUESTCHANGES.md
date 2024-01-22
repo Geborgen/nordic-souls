@@ -82,6 +82,7 @@ Please refer to this document before asking why you're unable to start a quest, 
 - Hendraheim: Finish "Glory of the Dead"
 - Shadowfoot Sanctum: Become Guildmaster of the Thieves Guild
 - Tundra Homestead: Complete "Dragon Rising"
+- Goldenhills Plantation: Finish "Unquiet Dead", buy from Whiterun steward (see [this](https://www.nexusmods.com/skyrimspecialedition/mods/69029) page)
 
 ### Quests
 - Ghosts of the Tribunal: Level 36
@@ -97,6 +98,7 @@ Please refer to this document before asking why you're unable to start a quest, 
 - Plague of the Dead: Level 10
 - Vigil Enforcer Armor: Level 18
 - The Gray Cowl of Nocturnal: Finish "Scoundrel's Folly"
+- Unquiet Dead: Level 15, ask Whiterun or Rorikstead innkeepers if there are any problems that need handling
 
 ### Weapons
 - Bow of Shadows: Level 36, complete Thieves Guild questline
