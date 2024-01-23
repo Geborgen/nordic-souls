@@ -26,6 +26,7 @@
 - Added Vanargand Animations - Unarmed Pugalism Stance
 - Re-added XPMSSE MCM
 - Updated DynDOLOD
+- Added missing Dareni spell tome vendors
 - Fixed freezing and crashing upon loading saves or new areas
 - Fixed crashing upon dying in werewolf form/entering werewolf perk menu
 - Fixed missing Helgen mud texture
