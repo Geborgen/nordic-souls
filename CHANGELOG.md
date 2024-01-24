@@ -1,6 +1,5 @@
 # Changelog
 
-- [Version 2.3.2](#version-232)
 - [Version 2.3.1.1](#version-2311)
 - [Version 2.3.1](#version-231)
 - [Version 2.3.0](#version-230)
@@ -17,19 +16,6 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
-
-## Version 2.3.2
-
-**Likely not save-safe.**
-
-- Added .NET Script Framework
-- Added Vanargand Animations - Unarmed Pugalism Stance
-- Re-added XPMSSE MCM
-- Updated DynDOLOD
-- Added missing Dareni spell tome vendors
-- Fixed freezing and crashing upon loading saves or new areas
-- Fixed crashing upon dying in werewolf form/entering werewolf perk menu
-- Fixed missing Helgen mud texture
 
 ## Version 2.3.1.1
 
