@@ -86,7 +86,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 
 Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
 
-The Nordic Souls installation requires ~182 GB of free space, not including the total download size, which is ~137 GB. Overall, you'll need ~319 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
+The Nordic Souls installation requires ~191 GB of free space, not including the total download size, which is ~137 GB. Overall, you'll need ~328 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. If the space requirement is uncomfortable, remember that you can delete downloads once the list has succesfully installed.
 
 ## Installation
 
@@ -371,10 +371,11 @@ To see the changes and version history, visit the [changelog](https://github.com
 
 ## Credits and Thanks
 
-- All mod authors for their hard work
-- The Wabbajack team for making this awesome tool
-- Other Wabbajack list authors for their help and inspiration
-- The Community Helpers in my Discord server for their amazing assistance with ideas, testing, and community support
-- Everyone who has played the list that has helped in some way, by finding issues and contributing ideas
-- ThwartAbyss54 for the banner background
-- Based Department (you know who you are)
+- YOU for reading this.
+- All mod authors for their hard work.
+- Halgari and the Wabbajack team for making this awesome tool.
+- Other Wabbajack list authors for their help and inspiration.
+- The Community Helpers in my Discord server for their amazing assistance with ideas, testing, and community support.
+- Everyone who has played the list that has helped in some way, by finding issues and contributing ideas.
+- ThwartAbyss54 for the banner background.
+- Based Department (you know who you are).
