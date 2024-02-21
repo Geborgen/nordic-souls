@@ -1,6 +1,6 @@
 # Changelog
 
-- [version 2.3.3](#version-233)
+- [Version 2.3.3](#version-233)
 - [Version 2.3.2](#version-232)
 - [Version 2.3.1.1](#version-2311)
 - [Version 2.3.1](#version-231)
