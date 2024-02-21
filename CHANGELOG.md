@@ -1,5 +1,6 @@
 # Changelog
 
+- [version 2.3.3](#version-233)
 - [Version 2.3.2](#version-232)
 - [Version 2.3.1.1](#version-2311)
 - [Version 2.3.1](#version-231)
@@ -17,6 +18,48 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.3.3
+
+**This update is save-safe. Save in an interior before updating.**
+
+- Updated several mods
+- Regenerated LOD
+- Test a new save if you still have issues
+
+### Fixed
+- Crash on dying/save load
+- Poison spell crash
+- Missing fireplace in Goldenhill's Plantation
+- Missing flame in giant's campfire
+- Rielle Doors and Casks missing activate prompt (and other issues with Skyrim - Path.bsa)
+- Ragged Flagon water flickering
+
+<details>
+ 
+ ### Updated
+ - Embers XD
+ - Water for ENB
+ - Mysticism - A Magic Overhaul
+ - Mundus - A Standing Stone Overhaul
+ - Blade and Blunt - A Combat Overhaul
+ - Scion - A Vampire Overhaul
+ - Apothecary - An Alchemy Overhaul
+ - Pilgrim - A Religion Overhaul
+ - Thaumaturgy - An Enchanting Overhaul
+ - Stormcrown - A Shout Overhaul
+ - Artificer - An Artifact Overhaul
+ - FSMP - Faster HDT-SMP
+ - Spell Perk Item Distributor
+ - Keyword Item Distributor
+ - powerofthree's Tweaks
+ - DynDOLOD
+ - xLODGen
+
+ ### Added
+ - Skyland - Better Imperial Forts
+ 
+</details>
 
 ## Version 2.3.2
 
