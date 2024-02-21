@@ -32,7 +32,7 @@
 - Poison spell crash
 - Missing fireplace in Goldenhill's Plantation
 - Missing flame in giant's campfire
-- Rielle Doors and Casks missing activate prompt (and other issues with Skyrim - Path.bsa)
+- Rielle Doors and Casks missing activate prompt (and other issues with Skyrim - Patch.bsa)
 - Ragged Flagon water flickering
 
 <details>
