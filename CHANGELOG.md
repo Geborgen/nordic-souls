@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.3.3.1](#version-2331)
 - [Version 2.3.3](#version-233)
 - [Version 2.3.2](#version-232)
 - [Version 2.3.1.1](#version-2311)
@@ -18,6 +19,15 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.3.3.1
+
+**This update requires a new game unless you know what you're doing.**
+
+- Fixed crashing on dying/save load
+- Removed DynDOLOD DLL NG
+- Regenerated DynDOLOD output with scripts only
+- Requires a new game unless you are comfortable with ReSaver (instructions in [Discord](https://discord.com/invite/9cRs3KPyuW))
 
 ## Version 2.3.3
 
