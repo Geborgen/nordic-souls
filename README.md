@@ -79,7 +79,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 
 | Minimum | Recommended |
 |-----|-----|
-| Intel i5-9400 / AMD Ryzen 5 2600 | Intel i5 - 13400 / AMD Ryzen 5 5600x  |
+| Intel i5-9400 / AMD Ryzen 5 2600 | Intel i5-13400 / AMD Ryzen 5 5600x  |
 | NVIDIA GTX 1060 / AMD RX 580 | NVIDIA RTX 3060 TI / AMD RX 6700 |
 | 16 GB DDR3 | 32 GB DDR4 |
 | SATA SSD | NVMe SSD |
