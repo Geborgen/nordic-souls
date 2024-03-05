@@ -119,7 +119,7 @@ To prevent memory crashes, perform the following steps to increase your pagefile
 3. In the window that pops up, go to the `Advanced` tab and press `Change...` under the `Virtual Memory` section
 4. Disable `Automatically manage paging file size for all drives`
 5. Select your disk drive, ideally your fasted SSD
-6. Under the `Custom Size:` option, change `Initial Size (MB)` and `Maximum Size (MB)` to `40960`
+6. Under the `Custom Size:` option, change `Initial Size (MB)` and `Maximum Size (MB)` to `20480`
 7. Click `Set`
 8. Click `OK`, then `Apply` and `OK`
 9. Restart your computer
