@@ -256,6 +256,8 @@ To enable the optional ReShade preset in addition to Community Shaders, you must
 1. Disable `ENB Binaries v0499` under the `ENB Files` separator in MO2. This is the only ENB-related file you need to disable.
 2. Enable everything under the `ReShade & Community Shaders` separator.
 
+If you want to add a custom preset, you should familiarize yourself with [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720), and make sure you properly install the required ReShade shader effect files, as NS only includes the files needed for Amethyst. Match the way I've installed the preset and shader files to MO2.
+
 Reverse the process to enable ENB again; disable everything ReShade and CS related, and re-enable the ENB binaries.
 
 #### Widescreen Support
