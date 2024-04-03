@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.3.4](#version-234)
 - [Version 2.3.3.1](#version-2331)
 - [Version 2.3.3](#version-233)
 - [Version 2.3.2](#version-232)
@@ -19,6 +20,72 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.3.4
+
+**This update is save-safe.**
+- Added ReShade & Community Shaders
+- Removed green rain with ENB disabled
+- Updated and added Jayserpa mods
+- Made improvements to Photo Mode with new overlays
+
+### Fixed
+- Animation bug when jumping in first person with sheathed two-handed weapon
+- Potential fix for various issues with XPMSE
+
+<details>
+
+ ### Updated
+ - Comprehensive First Person Animation Overhaul - CFPAO
+ - Open Animation Replacer
+ - Paired Animation Improvements
+ - Root Builder
+ - Immersive folded hands (OAR)
+ - NPC Animation Remix (OAR)
+ - Gesture Animation Remix (OAR)
+ - Reanimated NPC Animations
+ - Simple Fishing Overhaul - Animations and Improved Quest Dialogue
+ - The Heart of Dibella - Quest Expansion
+ - Vampire Lines Expansion
+ - Forsworn and Thalmor Lines Expansion
+ - Civil War Lines Expansion
+ - The Whispering Door - Quest Expansion
+ - College of Winterhold - Quest Expansion
+ - Bandit Lines Expansion
+ - Nilheim - Misc Quest Expansion
+ - Photo Mode
+ - XP32 Maximum Skeleton Special Extended - XPMSSE
+
+ ### Added
+ - ReShade
+ - SSE ReShade Helper
+ - ReShade Effect Toggler
+ - Amethyst - Weathers and ReShade
+ - Auto Parallax
+ - Community Shaders
+ - Vanilla HDR
+ - TAA Sharpen
+ - Tree LOD Lighting
+ - Grass Lighting
+ - Grass Collision
+ - Grass Sampler Fix
+ - Screen-Space Shadows
+ - Complex Parallax Materials
+ - Water Blending
+ - Light Limit Fix
+ - Water Parallax
+ - Water Caustics
+ - Subsurface Scattering
+ - Soft Shadows
+ - Sky Reflection Fix
+ - Native EditorID Fix
+ - KreatE
+ - NPCs React To Frenzy
+ - NPCs Take Cover - Smarter Anti-Cheese AI
+ - ImGui Icons
+ - Photo Mode - Cinema Overlays
+ 
+</details>
 
 ## Version 2.3.3.1
 
