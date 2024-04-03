@@ -41,6 +41,7 @@
   - [Customizing the List](#customizing-the-list)
     - [Optional Files](#optional-files)
     - [ENB](#enb)
+    - [ReShade and Community Shaders](#reshade-and-community-shaders)
     - [Widescreen Support](#widescreen-support)
     - [Gamepad Support](#gamepad-support)
     - [Performance Tweaks](#performance-tweaks)
@@ -231,19 +232,31 @@ Under the `Optional Files` separator, you can enable and disable things to your 
 
 In-game, press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle ENB, and `F7` to take a screenshot. These keybinds are the same for all included presets.
 
-Nordic Souls uses a modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796). By default, ambient occlusion is turned off, saving a lot of FPS. If you want better looking foliage or more depth and realism to shadows in general, turn on ambient occlusion in the ENB menu at the cost of 5-10 FPS.
+Nordic Souls uses a modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796).
 
 If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `Environment` category in the ENB menu.
 
 If you want to change to one of the two other included presets, you must do the following:
-1. Under the `ENB Presets` separator in MO2, **disable** `Mists of Tamriel for Rudy Obsidian` and `Rudy ENB for Obsidian Weathers`.
-2. Under the same separator, **enable** `Mists of Tamriel for Obsidian Weathers`, and either [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167), [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333), or [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082).
+1. Under the `ENB Presets` separator in MO2, **disable**  `Rudy ENB for Obsidian Weathers`.
+2. Under the same separator, **enable** either [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167), [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333), or [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082).
 3. Make sure you only have one preset enabled at a time.
 4. Launch your game as usual.
 
 If you want to add a custom preset, you should familiarize yourself with [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720), and match the way I've installed the presets to MO2.
 
 If you do not want to use ENB, disable everything in that separator and keep it toggled off in-game.
+
+#### ReShade and Community Shaders
+
+Nordic Souls includes the [Amethyst](https://www.nexusmods.com/skyrimspecialedition/mods/99450) ReShade and Community Shaders preset as an alternative to ENB. This is more performance friendly and has a slightly different aesthetic.
+
+In-game, press `END` for the CS menu, `DEL` for the KreatE menu, `HOME` for the ReShade Menu, `NUMPAD *` to toggle CS, and `INS` to toggle ReShade.
+
+To enable the optional ReShade preset in addition to Community Shaders, you must do the following:
+1. Disable `ENB Binaries v0499` under the `ENB Files` separator in MO2. This is the only ENB-related file you need to disable.
+2. Enable everything under the `ReShade & Community Shaders` separator.
+
+Reverse the process to enable ENB again; disable everything ReShade and CS related, and re-enable the ENB binaries.
 
 #### Widescreen Support
 
@@ -299,6 +312,7 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
 
 - ENB: Toggle ENB with `F12`. Completely removing ENB has caused issues for users, so keep it disabled instead. *The default Rudy ENB preset is the most performance-friendly preset in the list.*
 - ENB: For any ENB preset, press `F11` to open the ENB menu, untick `EnableAmbientOcclusion` under `Effect` in the left column, and then `---SAVE CONFIGURATION---` at the top.
+- Community Shaders: Disable ENB and enable Community Shaders. It will not be as performance-friendly as disabling ENB completely, but if you can spare some, it will still look nice.
 - External tool: [Paraphernalia - VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557). Watch [this](https://www.youtube.com/watch?v=MS8vhuyeT2g) video for more information. This falls under modifying thie list, meaning you are responsible for potential issues that may arise.
 - Pay to win: upgrade hardware. SSD will improve load times, RAM will reduce stuttering, GPU and CPU will increase performance. This isn't a PC guide, there are plenty of those on the internet.
 - Pay to win: [PureDark](https://www.patreon.com/PureDark)'s upscaler. It works for many people. You don't receive official support for any issues, as it falls under modifying the list. You should also be aware that [the author is adding DRM mines to the mod](https://www.ign.com/articles/starfield-paid-dlss-mod-creator-hits-back-at-pirates-threatens-to-add-hidden-mines-in-future-mods), and there is currently no alternative free version for Skyrim.
