@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.3.4.1](#version-2341)
 - [Version 2.3.4](#version-234)
 - [Version 2.3.3.1](#version-2331)
 - [Version 2.3.3](#version-233)
@@ -20,6 +21,12 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.3.4.1
+
+**Hotfix, save-safe**
+- Fixed invisible left-handed weapon models in third-person
+- Downgraded Simple Dual Sheath for compatibility with Native EditorID Fix
 
 ## Version 2.3.4
 
