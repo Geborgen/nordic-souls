@@ -176,10 +176,10 @@ Downloading and installing Nordic Souls can take a long time depending on your i
 7. Wait. It may take an hour or more depending on your connection. Read the rest of the readme and take a nap. If you have any errors during installation, see below. Otherwise, carry on to [post-installation](#post-installation) when completed.
 
 These four files might fail to download for various reasons. In that case, you can download them manually here and add them to the downloads folder:
-- [Kaidan - Extended Edition v14.9](https://mega.nz/file/YAMXlR5Q#yY82UYsh35adDdWdrOQspcfmBmO9YJfJdiCwaB92yZc)
-- [Kaidan - Inigo Banter Patch 2](https://mega.nz/file/JV0D1JrR#OdiIlqPhn3T83iL7KSW5lhZ3qXR1UTbpnXvmk8cDslY)
-- [Kaidan - ASLAL Patch](https://mega.nz/file/gJcgFZyB#QdDw5sUivkI6DhVzr_dw4hfAfnjgOPkqjWbFWXrvH2I)
-- [Kaidan - Rumarin - 3DNPC Patch](https://mega.nz/file/ZZNEHBSB#c88QISCg5e_P-mdTZFpH6EWf_R-eAqys0r6aPxj0ezA)
+- [Kaidan - Extended Edition v14.9](https://drive.google.com/file/d/1RmTOdP_P3DwnPs60IJhEBQQb-qOuUObt/view)
+- [Kaidan - Inigo Banter Patch 2](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-Inigo-Banter-Patch.7z)
+- [Kaidan - ASLAL Patch](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-ASLAL-Patch.7z)
+- [Kaidan - Rumarin - 3DNPC Patch](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-3DNPC-Patch.7z)
 
 #### Problems with Installation
 
