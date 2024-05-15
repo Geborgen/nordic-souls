@@ -99,6 +99,7 @@ Please refer to this document before asking why you're unable to start a quest, 
 - Vigil Enforcer Armor: Level 18
 - The Gray Cowl of Nocturnal: Finish "Scoundrel's Folly"
 - Unquiet Dead: Level 15, ask Whiterun or Rorikstead innkeepers if there are any problems that need handling
+- Alternate Armors: Disabled, integrated with leveled lists
 
 ### Weapons
 - Bow of Shadows: Level 36, complete Thieves Guild questline
