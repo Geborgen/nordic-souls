@@ -105,7 +105,7 @@ If you are just updating the list, you can safely skip to [this section](#updati
 
 Please complete the following steps:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime) and [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime).
+2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime) and [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime) (both `console apps` and `desktop apps` x64).
 3. Make sure you have a fresh copy of Skyrim version `1.6.1170` installed on Steam. It should not be updated from a previous version, it should be a fresh installation.
 4. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 5. Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
