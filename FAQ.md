@@ -30,4 +30,8 @@
 
 ## Q: Why does X quest not start?
 
-**A:** There are likely different starting requirements. Please refer to [this]https://github.com/Geborgen/nordic-souls/blob/main/.github/QUESTCHANGES.md) document.
+**A:** There are likely different starting requirements. Please refer to [this](https://github.com/Geborgen/nordic-souls/blob/main/.github/QUESTCHANGES.md) document.
+
+## Q: Why are no dragons spawning?
+
+**A:** This is due to the [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803) mod. Random dragons will not spawn until Sahloknir dies.
