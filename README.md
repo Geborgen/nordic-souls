@@ -257,7 +257,7 @@ Under the `Optional Files` separator, you can enable and disable things to your 
 
 Nordic Souls uses a modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796).
 
-If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `Environment` category in the ENB menu.
+If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `ENVIRONMENT` category in the ENB menu.
 
 If you want to change to one of the two other included presets, you must do the following:
 1. Under the `ENB Presets` separator in MO2, **disable**  `Rudy ENB for Obsidian Weathers`.
