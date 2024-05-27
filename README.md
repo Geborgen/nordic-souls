@@ -13,7 +13,8 @@
   <a href="https://loadorderlibrary.com/lists/nordic-souls">Full Modlist</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md">Modification Guide</a> |
-  <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a>
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md">FAQ</a>
 </p>
 
 <p align="center">
@@ -38,6 +39,7 @@
     - [Problems with Installation](#problems-with-installation)
 - [Post-Installation](#post-installation)
   - [Stock Game and Root Builder](#stock-game-and-root-builder)
+  - [Antivirus Exeptions](#antivirus-exceptions)
   - [Customizing the List](#customizing-the-list)
     - [Optional Files](#optional-files)
     - [ENB](#enb)
@@ -60,9 +62,11 @@
 - [Known Issues](#known-issues)
 - [I found a bug!](#i-found-a-bug)
 - [Changelog](#changelog)
+- [FAQ](#faq)
 - [Credits and Thanks](#credits-and-thanks)
 
-## IMPORTANT: THIS LIST REQUIRES THE COMPLETE ANNIVERSARY EDITION UPGRADE. THIS MEANS THAT YOU MUST *PURCHASE* THE AE UPGRADE/DLC FROM STEAM. NO, THIS IS NOT OPTIONAL.
+> [!IMPORTANT]
+> This list **requries** the complete Anniversary Edition upgrade. This means that you must *purchase* the AE upgrade/DLC from Steam.
 
 ## Preamble
 
@@ -76,6 +80,8 @@ Nordic Souls is NOT a "vanilla+" list. The goal may have originally been to mode
 
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/nordic-souls).
 
+A more in-depth look at the mods used can be found in the [gameplay guide](https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md).
+
 ## System Requirements
 
 | Minimum | Recommended |
@@ -87,13 +93,17 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 
 Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
 
-The Nordic Souls installation requires ~191 GB of free space, not including the total download size, which is ~137 GB. Overall, you'll need ~328 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. If the space requirement is uncomfortable, remember that you can delete downloads once the list is succesfully installed.
+The Nordic Souls installation requires ~191 GB of free space, not including the total download size, which is ~137 GB. Overall, you'll need ~328 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. 
+
+> [!TIP]
+> If the space requirement is uncomfortable, remember that you can delete downloads once the list is succesfully installed. You can also set your download location to a different drive than the installation location; more on that later.
 
 ## Installation
 
-I HIGHLY recommend you buy Nexus Premium before installing the list. You *technically* don't need it, but it will be an extremely long manual process if you don't have it. If you absolutely cannot buy premium, then put on a TV show or audiobook and make a day out it. 
-
 If you are just updating the list, you can safely skip to [this section](#updating-the-list).
+
+> [!TIP]  
+> I HIGHLY recommend you buy Nexus Premium before installing the list. You *technically* don't need it, but it will be an extremely long manual process if you don't have it. If you absolutely cannot buy premium, then put on a TV show or audiobook and make a day out it. 
 
 ### Anniversary Edition
 
@@ -106,9 +116,10 @@ If you are just updating the list, you can safely skip to [this section](#updati
 Please complete the following steps:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime) and [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0/runtime) (both `console apps` and `desktop apps` x64).
-3. Make sure you have a fresh copy of Skyrim version `1.6.1170` installed on Steam. It should not be updated from a previous version, it should be a fresh installation.
-4. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-5. Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
+3. Fully disable OneDrive and any other programs that hook into user file areas.
+5. Reinstall Skyrim into a location that is not Program Files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into [LostDragonist's SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide). You should have the latest version of Skyrim, version `1.6.1170`. **Do not verify file integrity, as this will cause issues.**
+6. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+7. Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
 
 #### Pagefile and Crash Prevention
 
@@ -145,13 +156,18 @@ A non-English version of the game will cause problems later. To verify that your
 2. Click `Properties`
 3. Under `General`, set `Language` to `English`
 
-If your Steam library is in Program Files, refer to [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to move it elsewhere. Do not install do default Windows folders (Desktop, Documents, Downloads, etc.) as this will cause issues.
+> [!WARNING]
+> If your Steam library is in Program Files, refer to [this](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) guide to move it elsewhere. Do not install do default Windows folders (Desktop, Documents, Downloads, etc.) as this will cause issues.
 
-As mentioned earlier, your game version on Steam should be `1.6.1170`. If you updated the game from a previous version, the list may fail to install and the log might mentioned CC content. For backend reasons, updating from a previous version of the game will not work, and you must delete and reinstall Skyrim.
+> [!CAUTION]
+> There is no workaround for a pirated copy of Skyrim, or pirated Creation Club content. If you ask for support with anything pirated, you will be banned.
 
 #### Installing CC Content
 
-If you have not bought the Anniversary Edition DLC before, please do so. The list will not install without it. Additionally, you should not verify file integrity through Steam, or wrong versions of certain CC mods will be downloaded, causing installation to fail.
+If you have not bought the Anniversary Edition DLC before, please do so. The list will not install without it. 
+
+> [!WARNING]
+> You should not verify file integrity through Steam. This will cause the wrong version of the Rare Curios creation to download, causing the installation to fail.
 
 If you have Anniversary Edition and a fresh copy of Skyrim installed, and have yet to install Creation Club content, please perform the following steps:
 1. Launch the game from Steam, and ignore any pop-ups about settings in the launcher. Run the game to get to the title screen.
@@ -175,11 +191,8 @@ Downloading and installing Nordic Souls can take a long time depending on your i
 6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 1000 mods.*
 7. Wait. It may take an hour or more depending on your connection. Read the rest of the readme and take a nap. If you have any errors during installation, see below. Otherwise, carry on to [post-installation](#post-installation) when completed.
 
-These four files might fail to download for various reasons. In that case, you can download them manually here and add them to the downloads folder:
+This file might fail to download for various reasons. In that case, you can download it manually here and add it to the downloads folder:
 - [Kaidan - Extended Edition v14.9](https://drive.google.com/file/d/1RmTOdP_P3DwnPs60IJhEBQQb-qOuUObt/view)
-- [Kaidan - Inigo Banter Patch 2](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-Inigo-Banter-Patch.7z)
-- [Kaidan - ASLAL Patch](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-ASLAL-Patch.7z)
-- [Kaidan - Rumarin - 3DNPC Patch](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-3DNPC-Patch.7z)
 
 #### Problems with Installation
 
@@ -200,7 +213,7 @@ Some common errors you may encounter during installation:
 - Unable to download `Skyrim_Default.ini`:
   - Go back to the [this section](#steam-setup) section and change your game language to English.
 
-If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [my server](https://discord.com/invite/9cRs3KPyuW). **Please do not ask for support before going through these steps.**
+If you are still having issues, visit the [Wabbajack Discord](https://discord.com/invite/wabbajack) or [my server](https://discord.com/invite/9cRs3KPyuW). **Please do not ask for support before going through the above steps and reading the [FAQ](https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md).**
 
 ## Post-Installation
 
@@ -210,9 +223,21 @@ Nordic Souls uses the [Stock Game](https://github.com/The-Animonculory/Modding-R
 
 The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
 
+### Antivirus Exceptions
+
+Generally speaking, using Windows Defender is advised as it is a solid antivirus software that will have minimal interference with the game. Antivirus programs can be notorious for false flagging MO2's VFS as problematic, causing crashes or other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will very likely need to fully remove them from your PC in order to actually launch the game through MO2.
+
+If you use Windows Defender, it is advised that you set up an Exception for the modlist. Please follow these steps:
+1. Press the Windows key, type `Windows Defender` in the search bar and select `Windows Security`.
+2. Click on `Virus & threat protection` in the left pane.
+3. Click the `Manage settings` option under `Virus & threat protection settings`.
+4. Scroll down to `Exclusions` and click `Add or remove exclusions`. Accept the run with administrator prompt.
+5. Click the `Add an exclusion` button at the top and choose `Folder`.
+6. Navigate to your installation folder for the list and click `Select Folder`.
+
 ### Customizing the List
 
-**Other than what is mentioned here, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patch, zero exceptions. The paper map plugin should always be at the very bottom of your load order.
+**Other than what is mentioned here, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patches, zero exceptions. The paper map plugin should always be at the very bottom of your load order.
 
 As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's "rule 11", meaning that any modifications you make, you do so at your own risk. Visit the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) for more information.
 
@@ -230,8 +255,6 @@ Under the `Optional Files` separator, you can enable and disable things to your 
 
 #### ENB
 
-In-game, press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle ENB, and `F7` to take a screenshot. These keybinds are the same for all included presets.
-
 Nordic Souls uses a modified version of the incredible [Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796).
 
 If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `Environment` category in the ENB menu.
@@ -246,11 +269,12 @@ If you want to add a custom preset, you should familiarize yourself with [Kezyma
 
 If you do not want to use ENB, disable everything in that separator and keep it toggled off in-game.
 
+> [!TIP]
+> In-game, press `F10` to toggle the FPS counter, `F11` to open the ENB configuration menu, `F12` to toggle ENB, and `F7` to take a screenshot. These keybinds are the same for all included presets.
+
 #### ReShade and Community Shaders
 
 Nordic Souls includes the [Amethyst](https://www.nexusmods.com/skyrimspecialedition/mods/99450) ReShade and Community Shaders preset as an alternative to ENB. This is more performance friendly and has a slightly different aesthetic.
-
-In-game, press `END` for the CS menu, `DEL` for the KreatE menu, `HOME` for the ReShade Menu, `NUMPAD *` to toggle CS, and `INS` to toggle ReShade.
 
 To enable the optional ReShade preset in addition to Community Shaders, you must do the following:
 1. Disable `ENB Binaries v0499` under the `ENB Files` separator in MO2. This is the only ENB-related file you need to disable.
@@ -260,9 +284,12 @@ If you want to add a custom preset, you should familiarize yourself with [Kezyma
 
 Reverse the process to enable ENB again; disable everything ReShade and CS related, and re-enable the ENB binaries.
 
+> [!TIP]
+> In-game, press `END` for the CS menu, `DEL` for the KreatE menu, `HOME` for the ReShade Menu, `NUMPAD *` to toggle CS, and `INS` to toggle ReShade.
+
 #### Widescreen Support
 
-Enable mods under the `Widescreen Support` separator. Use whatever matches your UI overhaul.
+Enable all mods under the `Widescreen Support` separator.
 
 #### Gamepad Support
 
@@ -317,7 +344,7 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
 - Community Shaders: Disable ENB and enable Community Shaders. It will not be as performance-friendly as disabling ENB completely, but if you can spare some, it will still look nice.
 - External tool: [Paraphernalia - VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557). Watch [this](https://www.youtube.com/watch?v=MS8vhuyeT2g) video for more information. This falls under modifying thie list, meaning you are responsible for potential issues that may arise.
 - Pay to win: upgrade hardware. SSD will improve load times, RAM will reduce stuttering, GPU and CPU will increase performance. This isn't a PC guide, there are plenty of those on the internet.
-- Pay to win: [PureDark](https://www.patreon.com/PureDark)'s upscaler. It works for many people. You don't receive official support for any issues, as it falls under modifying the list. You should also be aware that [the author is adding DRM mines to the mod](https://www.ign.com/articles/starfield-paid-dlss-mod-creator-hits-back-at-pirates-threatens-to-add-hidden-mines-in-future-mods), and there is currently no alternative free version for Skyrim.
+- Pay to win: [PureDark](https://www.patreon.com/PureDark)'s upscaler. It works for many people. You don't receive official support for any issues, as it falls under modifying the list. You should also be aware that [the author is adding DRM mines to the ENB-compatible version of the mod](https://www.ign.com/articles/starfield-paid-dlss-mod-creator-hits-back-at-pirates-threatens-to-add-hidden-mines-in-future-mods), so if you want to use the [free version](https://www.nexusmods.com/skyrimspecialedition/mods/80343), you will need to switch to [Community Shaders](#reshade-and-community-shaders).
 
 #### Modification Guide
 
@@ -327,11 +354,16 @@ Modifying the list in any other way is unsupported, but not unwelcome. Visit the
 
 ### Starting Up
 
-- Open the installation folder and open `ModOrganizer.exe`.
-- Make sure the dropdown box on the right is set to `Play Nordic Souls [SKSE]` and run it.
-- You can create a desktop shortcut in the shortcuts dropdown.
-- **Do not launch the game through Steam. This will launch vanilla Skyrim.**
-- **Do not "unlock" MO2 when the game is running. This will cause various issues within the game.**
+Open the installation folder and open `ModOrganizer.exe`. Make sure the dropdown box on the right is set to `Play Nordic Souls [SKSE]` and run it.
+
+> [!TIP]
+> You can create a desktop shortcut in the shortcuts dropdown.
+
+> [!CAUTION]
+> Do not launch the game through Steam. This will launch vanilla Skyrim.
+
+> [!CAUTION]
+> Do not "unlock" MO2 when the game is running. This will cause various issues within the game.
 
 #### Controls
 
@@ -339,7 +371,10 @@ The default keymap can be found [here](http://www.keyboard-layout-editor.com/#/g
 
 ### Mod Configuration Menu
 
-All MCMs have been pre-configured. Wait until all notifications on the top left are gone before opening the MCM. **Failure to do so can cause quite a few issues later on and will require you to start a new save.** You can tweak them to your liking if you want to customize your experience.
+All MCMs have been pre-configured. Wait until all notifications on the top left are gone before opening the MCM. Afterwards, you can tweak them to your liking if you want to customize your experience.
+
+> [!CAUTION]
+> Failure to wait for MCMs to finish can cause quite a few issues later on and will require you to start a new save.
 
 #### Leveling Freedom
 
@@ -367,7 +402,10 @@ Some of the added music in the list cannot be played on YouTube/Twitch or other 
 
 Before updating, please check the [changelog](https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md) and back up your saves. You may need to start a new save after certain updates, this will be indicated in the changelog.
 
-Updating is like installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. **Any changes you have made to the list will be reverted upon updating.** To keep mods that you added, prefix the mod name with `[NoDelete]`.
+Updating is like installing the list. Make sure your paths are the same, and tick `Overwrite Installation`. 
+
+> [!WARNING]
+> Any changes you have made to the list will be reverted upon updating. To keep mods that you added, prefix the mod name with `[NoDelete]`.
 
 ## Uninstalling the List
 
@@ -375,7 +413,11 @@ Simply delete the folder, and you have uninstalled the list.
 
 ## Known Issues
 
-Please refer to the [issues](https://github.com/Geborgen/nordic-souls/issues) tab before reporting an issue. Additionally, common bugs will be discussed on Discord. Keep in mind that although I try to fix issues as they come up, I cannot fix everything. If your issue isn't listed, see below.
+Please refer to the [issues](https://github.com/Geborgen/nordic-souls/issues) tab before reporting an issue. Additionally, common bugs will be discussed on Discord. 
+
+Keep in mind that although I try to fix issues as they come up, I cannot fix everything. Additionally, please be patient with support, as this is a hobby
+
+If your issue isn't listed, see below.
 
 ## I found a bug!
 
@@ -385,12 +427,16 @@ Visit the [issues](https://github.com/Geborgen/nordic-souls/issues) tab to see i
 
 To see the changes and version history, visit the [changelog](https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md).
 
+## FAQ
+
+Please refer to the [FAQ](https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md) before asking for support.
+
 ## Credits and Thanks
 
 - YOU for reading this.
 - All mod authors for their hard work.
 - Halgari and the Wabbajack team for making this awesome tool.
-- Other Wabbajack list authors for their help and inspiration.
+- Other Wabbajack list authors for their help and inspiration and answering all my questions.
 - The Community Helpers in my Discord server for their amazing assistance with ideas, testing, and community support.
 - Everyone who has played the list that has helped in some way, by finding issues and contributing ideas.
 - ThwartAbyss54 for the banner background.
