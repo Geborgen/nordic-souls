@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.4.0](#version-240)
 - [Version 2.3.4.1](#version-2341)
 - [Version 2.3.4](#version-234)
 - [Version 2.3.3.1](#version-2331)
@@ -21,6 +22,314 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.4.0
+
+**This update requires a new game.**
+- Added Lawless & Madmen
+- Updated most SimonRim mods
+- Added King-Priest
+- Added Dragon Hunting rewards
+- Added several small nimwraith quests
+- Added new Jayserpa quest expansions
+- Added quest to kill Dragon Priests
+- Removed BUVARP
+- Overhauled Myrwatch and Hendraheim
+- Added new armor including Fluted and Gorm armor
+- Changed balancing for several armor sets
+- Added new xavbio retextures
+- Added Dareni's spell merchants
+- Added Nordic Faces
+- Added Tragedian's NPCs
+- Added Children of the Hist
+- Removed old NPC overhauls
+- Changed Khajiit textures
+- Changed eyes
+- Added new hairstyles
+- Added new Khajiit and Argonian customization options
+- Updated character presets
+- Updated Gore (among other followers)
+- Changed Kaidan Extended to Nexus version
+- Tweaked appearance for a bunch of non-vanilla NPCs
+- Added hunger mechanic to survival mode
+- Injuries now only occur with survival mode
+- Added Journeyman
+- Added KIT sorting
+- Added new SkyUI icons
+- Changed default font
+- Changed tween menu
+- Added descriptions & changed font for books
+- Added CoMAP
+- Added Convenient Reading UI
+- Removed Nordic UI
+- Added new sounds for SRD
+- Added new Vanargand unarmed animations
+- Dragons are now bigger
+- Bears are now smaller
+- Changed flame and frost VFX
+- Replaced most Settings Loader mods with MCM Recorder
+- Split Synthesis patch into different plugins
+
+### Fixed
+- Using accented or special characters in player name causes RaceMenu to get stuck
+- Crashes in various Dwemer dungeons including Clockwork
+- Inconsistency in naming of tempered items
+- Conflicting meshes in the Grey Quarter
+- Part of The Bird's Eye's floor is floating
+- Kesh the Clean missing face
+- Various landscape and water seams
+- Dragons not landing
+
+<details>
+ 
+ ### Updated
+ - Aetherius - A Race Overhaul
+ - Mysticism - A Magic Overhaul
+ - Adamant - A Perk Overhaul
+ - Mundus - A Standing Stone Overhaul
+ - Blade and Blunt - A Combat Overhaul
+ - Gourmet - A Cooking Overhaul
+ - Survival Mode Improved - SKSE
+ - Starfrost - A Survival Overhaul
+ - Dragon War - A Dragon Overhaul
+ - The Dragon Cult - A Draugr Overhaul
+ - The Dragon Cult - Priesthood
+ - aljo's Artificer Patches
+ - SIRENROOT - Deluge of Deceit
+ - The Grand Paladin - 2021 (Remake)
+ - Innocence Lost - Quest Expansion
+ - Lunaris
+ - Abyss
+ - Bloodmoon
+ - Flames of Coldharbour
+ - Necrom
+ - Stellaris
+ - Vulcano
+ - Arclight
+ - Desecration
+ - Arcane
+ - Necrotic
+ - Tamrielic Distribution
+ - Press H to Horse
+ - Gore - A Companion Mod
+ - Remiel-Custom Voiced Dwemer Specialist and Companion
+ - Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+ - Calling the Watchmaker - Lovecraftian Inspired Quest
+ - Glass Armors and Weapons Retexture SE
+ - Ebony Armors and Weapons Retexture SE
+ - Dragon Armors and Weapons Retexture SE
+ - Caliente's Beautiful Bodies Enhancer -CBBE-
+ - BeastHHBB - Khajiit and Argonian content
+ - Skyland Bits and Bobs - A Clutter Overhaul
+ - Skyland AIO (Not Only) - Better Imperial Forts
+ - Smaller Cathedral 3D Plants
+ - Simplicity of Snow
+ - Water for ENB
+ - Embers XD
+ - Particle Patch
+ - Lux
+ - Lux Via
+ - Lux Orbis
+ - Natural Waterfalls
+ - Skyrim Landscape and Water Fixes
+ - Landscape Fixes For Grass Mods
+ - Navigator - Navmesh Fixes
+ - Static Mesh Improvement Mod Improvement Mod
+ - FYX - Candlehearth Hall Chimney
+ - Sound Record Distributor
+ - Bleeding Edge - Bladed Weapons SFX Overhaul
+ - Open Animation Replacer
+ - FSMP - Faster HDT-SMP
+ - CBPC - Physics with Collisions
+ - Comprehensive Attack Rate Patch - SKSE
+ - Sprint Draw And Sheath Fixes
+ - Precision Creatures
+ - Unofficial Skyrim Modder's Patch - USMP SE
+ - Unofficial Skyrim Modders Patch - USMP - Patch Emporium
+ - Project ja-Kha'jay- Khajiit NPC Diversity Overhaul
+ - Project ja-Kha'jay- Interesting NPCs Khajiit Addon
+ - CC Farming - Tweaks Enhancements and Quest Expansion
+ - Simple Fishing Overhaul - FLM Addon
+ - Unaggressive Dragon Priests Fix
+ - Vanargand Animations II - Unarmed Pugilism Stance
+ - NPC Animation Remix (OAR)
+ - Better Third Person Selection - BTPS
+ - Skyrim Character Sheet
+ - Infinity UI
+ - Compass Navigation Overhaul
+ - Constructible Object Custom Keyword System
+ - C.O.C.K.S. for Skyrim 1.5
+ - Inventory Interface Information Injector
+ - Inventory Interface Information Injector for Skyrim 1.5
+ - B.O.O.B.I.E.S (aka Immersive Icons)
+ - Aura's Scrumptious Supplement (A.S.S. for B.O.O.B.I.E.S.)
+ - The Handy Icon Collection Collective
+ - Object Categorization Framework
+ - Brows by Hvergelmir for High Poly Head
+ - Kalilies Brows for High Poly Head
+ - Maevan2's Eye Brows for High Poly Head
+ - powerofthree's Tweaks
+ - Spell Perk Item Distributor (SPID)
+ - Keyword Item Distributor (KID)
+ - Base Object Swapper
+ - Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE)
+ - Crash Logger SSE AE VR - PDB support
+ - More Informative Console
+ - Disk Cache Enabler
+ - Modlist Update Checker
+ - Description Framework
+ - Community Shaders
+ - Subsurface Scattering
+ - ENB Input Disabler
+ - BodySlide and Outfit Studio
+ - SSEEdit
+ - ENBSeries
+ - DynDOLOD Resources SE 3
+ - DynDOLOD 3 Alpha
+
+ ### Added
+ - Lawless - A Bandit Overhaul
+ - Madmen - A Forsworn Overhaul
+ - King-Priest - Enhanced Dragon Priests
+ - Armory of the Dragon Cult - Dragon Priest Armor
+ - Dareni's Spells - Merchants
+ - Journeyman - A Fast Travel Overhaul
+ - Journeyman for Skyrim 1.5
+ - Dragon Hunting - Quest Rewards and Alchemy Ingredients
+ - The Breathing Abyss - Lovecraftian Inspired Quest
+ - Depths of the Soul - Elden Ring Inspired Quest Mod
+ - The Gift of Saturalia - A Quest for the Holidays
+ - Infiltration - Quest Expansion
+ - Destroy The Dark Brotherhood - Quest Expansion
+ - Face Sculptor Expanded
+ - Falmer Servant Lines Expansion
+ - Defeat the Dragon Cult
+ - Hendraheim - Creation Club Patches
+ - CC Hendraheim - Tweaks and Enhancements
+ - CC Myrwatch - Tweaks and Enhancements
+ - Vanargand Animations II - Unarmed Normal And Power Attacks
+ - Unclench - A Behavior Fix
+ - Stand still in RaceMenu (OAR)
+ - SpiderWIP
+ - Majestic Dragons - Larger and immersive proportions
+ - Bears of the North - Vanilla Size Patch
+ - Lux - Patch Hub
+ - Lux Orbis - Patch Hub
+ - Flame VFX Edit
+ - Frost VFX Edit
+ - GKB Waves Reborn
+ - No Grass In Objects
+ - Gryphonknight Regalia - Breton Noble Armor
+ - Gorm HDT-SMP Armor
+ - Gorm Armor - My Patches SE by Xtudo
+ - Gorm Armor - Consistency Tweaks
+ - Fluted Armor SE
+ - (Upgrade) HDT-SMP Fluted Armor Patch
+ - Fluted Armor - My patches by Xtudo SE
+ - Robes Retexture SE
+ - Spell Knight Armors Retexture SE
+ - Ghosts of the Tribunal Retexture SE
+ - Vigil Enforcer Retexture SE
+ - Xavbio Dragon Armors - 3BA
+ - MCM Recorder
+ - Convenient Reading UI - SE
+ - Blurbs of Skyrim
+ - CoMAP - Common Marker Addon Project
+ - CoMAP 4 for Skyrim 1.5
+ - ImGui Icons - Untarnished UI
+ - Photo Mode - Untarnished UI Patch
+ - Font Overhaul - Natural Typefaces for Skyrim (FONTS)
+ - I4 Weapon Icons Overhaul
+ - I4 Armor Icons Overhaul
+ - I4 Shout Icons Overhaul
+ - Scion - Custom I4 Icons
+ - Natura - Custom I4 Icons
+ - Lunaris - Custom I4 Icons
+ - Abyss - Custom I4 Icons
+ - Bloodmoon - Custom I4 Icons
+ - Flames of Coldharbour - Custom I4 Icons
+ - Necrom - Custom I4 Icons
+ - Stellaris - Custom I4 Icons
+ - Vulcano - Custom I4 Icons
+ - Arclight - Custom I4 Icons
+ - Desecration - Custom I4 Icons
+ - Arcane - Custom I4 Icons
+ - Necrotic - Custom I4 Icons
+ - Kome's Inventory Tweaks
+ - Object Categorization Framework - Some KID Patches - I4
+ - Colored And Animated Celtic Icons For SkyUI SE
+ - Improvement Names Customized SSE
+ - DPI Scaling Fix
+ - Murder of Songbirds
+ - Wildwood Echoes
+ - Nordic Winds
+ - Ribbit Remix
+ - Cathedral - 3D Tundra Shrubs
+ - Cathedral - 3D Stonecrop
+ - slightly Better Nordic Henges
+ - Dragon Mounds - Better Collision and Mesh Fixes
+ - FYX - Windhelm Graveyard
+ - YAR - Yuril's Additional Resources
+ - LOD Model Library for DynDOLOD
+ - True Meeko SE
+ - CoverKhajiits - Face Textures 4K SE
+ - Terre's Fur Textures for CoverKhajiits
+ - Valkyr HDT-SMP Hairstyles
+ - Valkyr HDT-SMP Hairstyles 02
+ - Khajiit Brow Whiskers
+ - Better Argonian Horns
+ - Argonian Crests
+ - Argonian Face Horns
+ - Cuyi's Bosmeri Antlers - SSE
+ - Fia's Eyes - a replacer and addon
+ - Kala's Eyes - Beast Race Edition
+ - Kala's Beast Eyes - Improved
+ - Nordic Faces - Immersive Characters Overhaul
+ - Tragedian's Fabulous Followers SSE
+ - Resplendent Royals - Jarl's Court NPC Overhaul
+ - Tragedian's Interesting NPCs - 3DNPC Followers Reimagined
+ - Children of the Hist - An Argonian NPC Overhaul
+ - The Practical Dwemechanic - A Remiel Replacer
+ - Axarien's Kaidan NPCs
+ - Kaidan 2 - De-Standalone
+ - VIGILANT - NPCs Refined
+ - VIGILANT - Lamae Bal Replacer
+ - VIGILANT - Alessia Replacer
+ - Clockwork Shadow Redone
+ - Universal (SKSE) Rim Lighting Fix
+ - Andrealphus' Papyrus Functions
+
+ ### Removed
+ - BUVARP SE RE
+ - Bandit Spellswords
+ - Bandit Brawlers
+ - Dragon Mound Dirt FIX
+ - Expressive Remiel
+ - BnP - Eye Pack
+ - Masculine Khajiit Textures
+ - Feminine Khajiit Textures
+ - Dwemer Pipework Reworked
+ - High Poly Windhelm Hawk Gate Bridge
+ - Riekling Barrels SMIM
+ - SMIM Barrel Expansion
+ - Solitude Objects SMIMed - Solitude Well
+ - Solitude Objects SMIMed - Castle Dour Spire
+ - Whiterun Objects SMIMed (and fixes too)
+ - Arctic - Frost Effects Redux
+ - Dynamic Weather and Time Based Detection
+ - Icons for Skyrim Character Sheet
+ - Nordic UI
+ - I4 - SkyUI Weapons Pack
+ - Diseases - I4 icon
+ - Standing Stones - I4 icon
+ - Racial Abilities - I4 icons
+ - No More Laser-Printed Book
+ - BiR's Remiel Replacer
+ - Northbourne, Pandorables, etc. NPC Replacers
+ - CBBE - 3BA Vanilla Armors - No Rim Lighting
+ - LOOT
+ 
+</details>
 
 ## Version 2.3.4.1
 
