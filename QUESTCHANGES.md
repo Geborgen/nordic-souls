@@ -76,10 +76,10 @@ Please refer to this document before asking why you're unable to start a quest, 
 - All "Alternative Armor" quests are disabled, in favor or world integration
 
 ### Player Homes
-- Myrwatch: 350 magicka
+- Myrwatch: Buy from Tolfdir, after either completing Shalidor's Maze, the College of Winterhold questline, or a hard persuasion check (see [this](https://www.nexusmods.com/skyrimspecialedition/mods/97659) page)
 - Gallows Hall: Level 35
 - Bloodchill Manor: Finish "Awakening"
-- Hendraheim: Finish "Glory of the Dead"
+- Hendraheim: Finish "Glory of the Dead", buy from Martharth steward (see [this](https://www.nexusmods.com/skyrimspecialedition/mods/98688) page)
 - Shadowfoot Sanctum: Become Guildmaster of the Thieves Guild
 - Tundra Homestead: Complete "Dragon Rising"
 - Goldenhills Plantation: Finish "Unquiet Dead", buy from Whiterun steward (see [this](https://www.nexusmods.com/skyrimspecialedition/mods/69029) page)
