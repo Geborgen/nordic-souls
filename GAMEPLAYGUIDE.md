@@ -4,7 +4,7 @@
 
 [Default Keymap](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d)
 
-1000+ mods can change the game quite a bit. I will try to go over everything of importance, pointing out key gameplay mods, quests, followers, homes, and tips. Some things I have purposely left out, for you to explore.
+1200+ mods can change the game quite a bit. I will try to go over everything of importance, pointing out key gameplay mods, quests, followers, homes, and tips. Some things I have purposely left out, for you to explore.
 
 ## Contents
 - [What is Nordic Souls?](#what-is-nordic-souls)
