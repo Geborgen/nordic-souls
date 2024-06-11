@@ -1,3 +1,4 @@
+
 # Nordic Souls
 
 ![Banner](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png)
@@ -93,10 +94,10 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 
 Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
 
-The Nordic Souls installation requires ~191 GB of free space, not including the total download size, which is ~137 GB. Overall, you'll need ~328 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. 
+The Nordic Souls installation requires ~207 GB of free space, not including the total download size, which is ~138 GB. Overall, you'll need ~345 GB of free space, including downloads. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which Wabbajack roughly accounts for in the UI. 
 
 > [!TIP]
-> If the space requirement is uncomfortable, remember that you can delete downloads once the list is succesfully installed. You can also set your download location to a different drive than the installation location; more on that later.
+> If the space requirement is uncomfortable, remember that you can delete downloads once the list is successfully installed. You can also set your download location to a different drive than the installation location; more on that later.
 
 ## Installation
 
@@ -151,7 +152,7 @@ If you have an NVIDIA graphics card, please perform the following steps to incre
 
 Nordic Souls only works with the Steam version of Skyrim. Additionally, it will only work with English versions of the game as well. While this may be understandably frustrating for users with different game versions or non-English speakers, there are major differences between game versions and I am only able to support one language.
 
-A non-English version of the game will cause problems later. To verify that your game is in English, please peform the following steps:
+A non-English version of the game will cause problems later. To verify that your game is in English, please perform the following steps:
 1. Right click on Skyrim in Steam
 2. Click `Properties`
 3. Under `General`, set `Language` to `English`
@@ -191,12 +192,6 @@ Downloading and installing Nordic Souls can take a long time depending on your i
 6. Click the start button to begin. Follow any prompts on-screen. *Reiterating from earlier: if you do not have Nexus Premium, you will have to manually click through each mod. There are over 1000 mods.*
 7. Wait. It may take an hour or more depending on your connection. Read the rest of the readme and take a nap. If you have any errors during installation, see below. Otherwise, carry on to [post-installation](#post-installation) when completed.
 
-These files might fail to download for various reasons. In that case, you can download them manually here and add them to the downloads folder:
-- [Kaidan - Extended Edition v14.9](https://drive.google.com/file/d/1RmTOdP_P3DwnPs60IJhEBQQb-qOuUObt/view)
-- [Kaidan - Inigo Banter Patch 2](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-Inigo-Banter-Patch.7z)
-- [Kaidan - ASLAL Patch](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-ASLAL-Patch.7z)
-- [Kaidan - Rumarin - 3DNPC Patch](https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-3DNPC-Patch.7z)
-
 #### Problems with Installation
 
 Some common errors you may encounter during installation:
@@ -208,7 +203,7 @@ Some common errors you may encounter during installation:
 - Wabbajack could not find the game folder:
   - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) section.
 - Antivirus reports a virus:
-  - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+  - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](#antivirus-exceptions).
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
   - Go back to [this section](#installing-cc-content) and make sure all CC content is installed. If it is, and you are on a legal copy of the game on Steam, then there is likely an error on Wabbajack or Bethesda's end and you will have to wait.
 - Unable to download `Data_ccBGSSSE037-Curios - *.bsa` or `*.esl`:
@@ -251,9 +246,6 @@ Game settings and mod configs can be found in the `NS - Game Settings` mod under
 Under the `Optional Files` separator, you can enable and disable things to your liking:
 - [Enhanced Volumetric Lighting and Sun Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725) improves volumetric lighting and shadows by synchronizing them with Skyrim's sun and moon(s). Looks great, but will cost you a lot of FPS. Use if you can spare performance.
 - [Performance Grass INI](https://www.nexusmods.com/skyrimspecialedition/mods/48689) makes the grass sparser for better performance. This file has the grass at about the minimum density before it begins to look awful. You can make it even sparser if you really want (higher number = less dense).
-- [Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881) is a different UI style. It includes the full suit of Nordic UI-styled mods, for a consistent UI overhaul.
-- [Untarnished UI - RaceMenu Patch - DIP](https://www.nexusmods.com/skyrimspecialedition/mods/97347) is the Untarnished UI skin for RaceMenu.
-- [NORDIC UI - RaceMenu Patch - DIP](https://www.nexusmods.com/skyrimspecialedition/mods/97348) is the Nordic UI skin for RaceMenu.
 - [Skyrim Paper Map by Caro Tuts - LABELED VERSION](https://www.nexusmods.com/skyrimspecialedition/mods/62705) is a labeled version of the paper map.
 
 #### ENB
@@ -263,7 +255,7 @@ Nordic Souls uses a modified version of the incredible [Rudy ENB](https://www.ne
 If your interiors are too dark, edit `AmbientLightingIntensityInteriorDay` and `AmbientLightingIntensityInteriorNight` under the `ENVIRONMENT` category in the ENB menu.
 
 If you want to change to one of the two other included presets, you must do the following:
-1. Under the `ENB Presets` separator in MO2, **disable**  `Rudy ENB for Obsidian Weathers`.
+1. Under the `ENB Presets` separator in MO2, **disable**  `Rudy ENB`.
 2. Under the same separator, **enable** either [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167), [Ominous ENB](https://www.nexusmods.com/skyrimspecialedition/mods/27333), or [PI-CHO ENB](https://www.nexusmods.com/skyrimspecialedition/mods/35082).
 3. Make sure you only have one preset enabled at a time.
 4. Launch your game as usual.
@@ -344,10 +336,11 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
 
 - ENB: Toggle ENB with `F12`. Completely removing ENB has caused issues for users, so keep it disabled instead. *The default Rudy ENB preset is the most performance-friendly preset in the list.*
 - ENB: For any ENB preset, press `F11` to open the ENB menu, untick `EnableAmbientOcclusion` under `Effect` in the left column, and then `---SAVE CONFIGURATION---` at the top.
-- Community Shaders: Disable ENB and enable Community Shaders. It will not be as performance-friendly as disabling ENB completely, but if you can spare some, it will still look nice.
-- External tool: [Paraphernalia - VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557). Watch [this](https://www.youtube.com/watch?v=MS8vhuyeT2g) video for more information. This falls under modifying thie list, meaning you are responsible for potential issues that may arise.
+- Community Shaders: Disable ENB and enable [Community Shaders](#reshade-and-community-shaders). It will not be as performance-friendly as disabling ENB completely, but if you can spare some, it will still look nice.
+- External tool: [Paraphernalia - VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557). Watch [this](https://www.youtube.com/watch?v=MS8vhuyeT2g) video for more information. This falls under modifying the list, meaning you are responsible for potential issues that may arise.
 - Pay to win: upgrade hardware. SSD will improve load times, RAM will reduce stuttering, GPU and CPU will increase performance. This isn't a PC guide, there are plenty of those on the internet.
 - Pay to win: [PureDark](https://www.patreon.com/PureDark)'s upscaler. It works for many people. You don't receive official support for any issues, as it falls under modifying the list. You should also be aware that [the author is adding DRM mines to the ENB-compatible version of the mod](https://www.ign.com/articles/starfield-paid-dlss-mod-creator-hits-back-at-pirates-threatens-to-add-hidden-mines-in-future-mods), so if you want to use the [free version](https://www.nexusmods.com/skyrimspecialedition/mods/80343), you will need to switch to [Community Shaders](#reshade-and-community-shaders).
+- Pay to win:  [Lossless](https://store.steampowered.com/app/993090/Lossless_Scaling/). It acts as an upscaler, and also includes framegen. You can try it, and since it's on Steam, if it doesn't work for you, you can refund it within two weeks if you use it for less than two hours.
 
 #### Modification Guide
 
@@ -374,7 +367,7 @@ The default keymap can be found [here](http://www.keyboard-layout-editor.com/#/g
 
 ### Mod Configuration Menu
 
-All MCMs have been pre-configured. Wait until all notifications on the top left are gone before opening the MCM. Afterwards, you can tweak them to your liking if you want to customize your experience.
+MCMs have been pre-configured. Wait until you receive a "configuration complete" pop-up. Afterwards, you can tweak them to your liking if you want to customize your experience.
 
 > [!CAUTION]
 > Failure to wait for MCMs to finish can cause quite a few issues later on and will require you to start a new save.
@@ -391,7 +384,7 @@ By default, Nordic Souls uses the vanilla leveling system, but the nuances of it
 
 Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own.
 
-You will spawn in a cell. **Wait until notifications have stopped appearing in the top right** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options. *The vanilla intro sequence should, for the most part, work correctly. At some points, your camera may be misaligned and get stuck. This is a known issue.*
+You will spawn in a cell. **Wait until you see a "configuration complete" pop-up** and then locate the Statue of Mara to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options. *The vanilla intro sequence should, for the most part, work correctly. At some points, your camera may be misaligned and get stuck. This is a known issue.*
 
 ### Gameplay Guide
 
