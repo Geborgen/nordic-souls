@@ -67,7 +67,7 @@
 - [Credits and Thanks](#credits-and-thanks)
 
 > [!IMPORTANT]
-> This list **requries** the complete Anniversary Edition upgrade. This means that you must *purchase* the AE upgrade/DLC from Steam.
+> This list **requires** the complete Anniversary Edition upgrade. This means that you must *purchase* the AE upgrade/DLC from Steam.
 
 ## Preamble
 
