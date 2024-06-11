@@ -1,3 +1,5 @@
+
+
 # Gameplay Guide
 
 [Default Keymap](http://www.keyboard-layout-editor.com/#/gists/75d0b99d7b2f35cd7f9433b87e83c93d)
@@ -19,7 +21,7 @@
 
 I should preface this by reiterating that this list does NOT try to turn Skyrim into another game. Instead, it tries to bring aspects from modern games into Skyrim in a way that *makes sense*. Everything has been carefully selected to fit into Skyrim's atmosphere. Everything plays together nicely, with minimal consistency issues and unnecessary fluff.
 
-Nordic Souls is not vanilla+. Every aspect of the game has been touched in some way, from leveling to loot. It is still recognizably Skyrim, you are still playing Skyrim, but you are (obviously) playing a modified version of the game. It's modernized and streamlined to match modern standards, with *inspirations* from Dark Souls, Elden Ring, and the Witcher series. The list does NOT try to turn Skyrim into those other games.
+Nordic Souls is not vanilla+. Every aspect of the game has been touched in some way, from leveling to loot. It is still recognizably Skyrim, you are still playing Skyrim, but you are (obviously) playing a modified version of the game. It's modernized and streamlined to match modern standards, with *inspirations* from Dark Souls, Elden Ring, and other games. The list does NOT try to turn Skyrim into other games.
 
 Nordic Souls is fully SFW. Mods like CBBE with the 3BA add-on are included (with a realistic preset), but never-nude options are enabled and there are no skimpy armors or overly-sexualized body meshes.
 
@@ -27,11 +29,11 @@ Let's get started with the breakdown of what you can expect.
 
 ## Core Gameplay Mods
 
-Nordic Souls uses the [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) suite of mods, which includes mods by Simon as well as [DeltaRider](https://www.nexusmods.com/skyrimspecialedition/users/3222307?tab=user+files), [Guitarninja](https://www.nexusmods.com/skyrimspecialedition/users/2544390?tab=user+files), [Dareni](https://www.nexusmods.com/skyrimspecialedition/users/5073294?tab=user+files), [Oreo](https://www.nexusmods.com/skyrimspecialedition/users/56683512?tab=user+files), [aljoxo](https://www.nexusmods.com/skyrimspecialedition/users/68019769?tab=user+files), [TateTaylorOH](https://www.nexusmods.com/skyrimspecialedition/users/61720101?tab=user+files), and many others. All of these mods provide a consistent gameplay experience that fits perfectly into the list. It's semi-vanilla+ but also quite refreshing.
+Nordic Souls uses the [SimonRim](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files) suite of mods, which includes mods by Simon as well as [Delta](https://www.nexusmods.com/skyrimspecialedition/users/3222307?tab=user+files) and many other authors. All of these mods provide a consistent gameplay experience that fits perfectly into the list. It's semi-vanilla+ but also quite refreshing.
 
 The vanilla boss fights and enemies have been revamped. Each Dragon Priest gives Alduin a different buff, so you should hunt down all the priests for an easier Alduin fight. Same thing with Miraak: The Solstheim Dragon Priests will buff him unless killed (killing Vahlok will buff him, however). You can take on these familiar adventures, and explore some new lands and quests as well. You'll find more interesting Draugr fights and harder dragon fights. There are also some new creatures, armor, and weapons scattered throughout the world. New powerful artifacts have been added for you to find, with existing ones balanced and overhauled.
 
-Gameplay is more difficult than vanilla, but also fair. For example, dragons are much harder, but you don't have to fight them randomly until you kill Sahloknir. Draugr are more powerful, but barely use shouts anymore. Bandits have a bit more variety, but still barely know how to fight.
+Gameplay is more difficult than vanilla, but also fair. For example, dragons are much harder, but you don't have to fight them randomly until you kill Sahloknir. Draugr are more powerful, but barely use shouts anymore. You won't be able to cheese your way through everything. SimonRim provides a lot of tools for preparation and buffs, which you should use to have an easier time.
 
 ### Mods To Familiarize Yourself With
 
@@ -44,12 +46,12 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) overhauls magic and adds new spells. All of [Dareni](https://www.nexusmods.com/skyrimspecialedition/users/5073294?tab=user+files)'s spell packs are included as well, so there is a lot of spell variety and unique mechanics. [Sorcerer](https://www.nexusmods.com/skyrimspecialedition/mods/95196) improves staff and scroll mechanics, and allows you to craft new ones.
 - [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138) overhauls enchanting, and [Artificer](https://www.nexusmods.com/skyrimspecialedition/mods/99619) overhauls artifacts.
 - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) overhauls alchemy. [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) overhauls food. [Brewer](https://www.nexusmods.com/skyrimspecialedition/mods/83542) will let you brew other drinks.
-- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) overhauls religion, and various other [Daedric shinres](https://www.nexusmods.com/skyrimspecialedition/mods/78772) are added as well.
+- [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) overhauls religion, and various other [Daedric shrines](https://www.nexusmods.com/skyrimspecialedition/mods/78772) are added as well.
 - [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) overhauls shouts, and adds a new custom skill tree for the Dragonborn, in the same style as vampires or werewolves.
 - [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) provides the base for the combat overhaul, with mods like [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) and  [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/56956), among others, providing an in-depth combat experience. Combat is designed to work well in both first and third-person, with new animations for both gameplay styles.
-- [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) adds features to horses. [Huntsman](https://www.nexusmods.com/skyrimspecialedition/mods/83870) expands wildlife. [The Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/81422) overhauls Draugr. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) overhauls dragons.
+- [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) adds features to horses. [Huntsman](https://www.nexusmods.com/skyrimspecialedition/mods/83870) expands wildlife. [The Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/81422) overhauls Draugr. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) overhauls dragons. [King-Priest](https://www.nexusmods.com/skyrimspecialedition/mods/59652) overhauls Dragon Priests. [Lawless](https://www.nexusmods.com/skyrimspecialedition/mods/88080) and [Madmen](https://www.nexusmods.com/skyrimspecialedition/mods/98579) overhaul bandits and Forsworn, respectively.
 - You can interact with objects you wouldn't normally be able to. [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) has perks that let you develop your skills as a bard, and [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) lets you use a broom to clean up physics messes.
-- [Sil Gahrot](https://www.nexusmods.com/skyrimspecialedition/mods/52007) lets you obtain words of power by killing dragons.
+- [Sil Gahrot](https://www.nexusmods.com/skyrimspecialedition/mods/52007) lets you obtain words of power by killing dragons, and [Dragon Hunting](https://www.nexusmods.com/skyrimspecialedition/mods/99193) improves drops and adds a repeatable quest to find and kill dragons.
 - [The Dragon Cult - Priesthood](https://www.nexusmods.com/skyrimspecialedition/mods/92794) adds a Dragon Priest skill tree.
 - There is a lot more. Take a look at the [load order](https://loadorderlibrary.com/lists/nordic-souls).
 
@@ -60,6 +62,7 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 - [RAE - Quest Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/61004) changes start conditions for some CC quests. For this list, they have default values. This can be tweaked in the MCM.
 - [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) lets you return to the Shivering Isles in a fully-voiced overhaul of Skyrim's Saints and Seducers Creation.
 - [Creation Club Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode) has been overhauled with [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536). You won't get any notification about it, just activate it normally in the gameplay menu. Nordic Souls was not built around Survival Mode and is fully optional, but it has been integrated well if you choose to play with it. It is much more lightweight, read through the mod page if you choose to enable it.
+- [Goldenhills Plantation](https://www.nexusmods.com/skyrimspecialedition/mods/69029), [Myrwatch](https://www.nexusmods.com/skyrimspecialedition/mods/97659), and [Hendraheim](https://www.nexusmods.com/skyrimspecialedition/mods/98688) have been overhauled.
 
 ## Quests
 
@@ -67,10 +70,10 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 
 There are several changes to vanilla quests, to balance them and provide new role-playing opportunities. Check [here](https://github.com/Geborgen/nordic-souls/blob/main/.github/QUESTCHANGES.md) to see the different quest start conditions. If you can't start a quest, it is likely because you haven't met the correct conditions, and you should check this document.
 
-- All of [jayserpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quest expansion series is included, in addition to his dialogue expansions and various other mods.
+- All of [JaySerpa](https://www.nexusmods.com/skyrimspecialedition/users/5201727?tab=user+files)'s quest expansion series is included, in addition to his dialogue expansions and various other mods.
 - [Cult of the World Eater - Dragon Priests Buff Alduin](https://www.nexusmods.com/skyrimspecialedition/mods/83274) gives Alduin a series of powerful buffs which are dispelled by killing the named Dragon Priests. This encourages you to tear down the figureheads of the Dragon Cult before battling Alduin.
 - [Cult of the True Dragonborn - Immersive Miraak Difficulty](https://www.nexusmods.com/skyrimspecialedition/mods/83458) does a similar thing but for Miraak's Dragon Priests (except killing Vahlok which will only strengthen him...)
-- [BUVARP](https://www.nexusmods.com/skyrimspecialedition/mods/56120) gives new purposes to NPCs that are barely used in Vanilla. In many cases, they are quest NPCs that get deleted by the game after their quests.
+- [Defeat the Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/86625) adds a quest pointing you towards and offering incentive to kill the Dragon Priests.
 - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) changes start conditions for some vanilla quests.
 - [Thieves Guild Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) changes start conditions for Thieves Guild quests.
 - [Delayed Quest Starts](https://www.nexusmods.com/skyrimspecialedition/mods/72751) changes the starting requirements for a few other quests.
@@ -89,7 +92,10 @@ A few high-quality DLC-sized quest mods are included, with a bunch of smaller ad
 - [The Grand Paladin](https://www.nexusmods.com/skyrimspecialedition/mods/46867) is a quest mod involving a powerful sword. Venture beyond Skyrim, into the mists of the Sea of Ghosts, and uncover the legacy of an ancient Dragonborn order.
 - [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494) is a quest mod involving the Reach. Delve into the depths of an unground swamp in the aid of a priest in order to heal the Heart of the Reach.
 - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) is a quest where you can join the Penitus Oculatus after the vanilla "destroy the dark brotherhood" quest and get all the rewards.
+- [The Gift of Saturalia](https://www.nexusmods.com/skyrimspecialedition/mods/105697) is a quest to help the people of Skyrim and spread the spirit of Saturalia.
 - [Calling the Watchmaker](https://www.nexusmods.com/skyrimspecialedition/mods/96711) is a quest mod featuring an extremely unique story that delves into the creation myth of the Elder Scrolls universe.
+- [The Breathing Abyss](https://www.nexusmods.com/skyrimspecialedition/mods/104547) is an ocean-based quest mod centered around finding out what a mysterious entity is, where it's from, and how it can be stopped.
+- [Depths of the Soul](https://www.nexusmods.com/skyrimspecialedition/mods/118261) features a rather helpful merchant who will aid the player by selling various items for dungeons.
 - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576)  adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards.
 
 ## Followers and NPCs
