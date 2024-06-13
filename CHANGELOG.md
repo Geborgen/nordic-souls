@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.4.0.1](#version-2401)
 - [Version 2.4.0](#version-240)
 - [Version 2.3.4.1](#version-2341)
 - [Version 2.3.4](#version-234)
@@ -22,6 +23,16 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.4.0.1
+
+**Hotfixes, save-safe.**
+
+### Fixed
+- Missing keywords for various items
+- Incorrect load order for King-Priest and Artificer staves
+- po3 tweaks setting causing crashes for some users
+- Infinite black screen upon entering various interiors
 
 ## Version 2.4.0
 
