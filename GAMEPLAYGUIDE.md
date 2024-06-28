@@ -15,7 +15,7 @@
   - [Vanilla Quest Changes](#vanilla-quest-changes)
   - [New Quests](#new-quests)
 - [Followers and NPCs](#followers-and-npcs)
-- [Player Homes](#player-homes) 
+- [Player Homes](#player-homes)
 
 ## What is Nordic Souls?
 
@@ -53,6 +53,7 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 - You can interact with objects you wouldn't normally be able to. [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) has perks that let you develop your skills as a bard, and [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) lets you use a broom to clean up physics messes.
 - [Sil Gahrot](https://www.nexusmods.com/skyrimspecialedition/mods/52007) lets you obtain words of power by killing dragons, and [Dragon Hunting](https://www.nexusmods.com/skyrimspecialedition/mods/99193) improves drops and adds a repeatable quest to find and kill dragons.
 - [The Dragon Cult - Priesthood](https://www.nexusmods.com/skyrimspecialedition/mods/92794) adds a Dragon Priest skill tree.
+- [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) is a UI mod that adds a quick action wheel. Press `G`. The mod page has instructions for use, they haven't been modified for the list. It should be noted that there is a crash with self-made potions/poisons/etc. and you use the last one on the wheel. If this happens, open dMenu with `PGUP`, find Wheeler's config, and reset all wheels. Please do not submit this as a bug report.
 - There is a lot more. Take a look at the [load order](https://loadorderlibrary.com/lists/nordic-souls).
 
 ### Creation Club
