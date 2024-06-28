@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.4.1](#version-241)
 - [Version 2.4.0.1](#version-2401)
 - [Version 2.4.0](#version-240)
 - [Version 2.3.4.1](#version-2341)
@@ -23,6 +24,42 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.4.1
+
+**This update is save-safe.**
+- Added Wheeler
+- Changed Serana's appearance
+- Added new parry SFX
+- Added NIF preview for MO2
+
+### Fixed
+- Icons displaying incorrectly
+- Rune Master perk not working correctly
+- Ria's face is incorrect
+- Serana vampire armor texture issue
+- "The Defiler" weapon from Artificer is unobtainable
+- Crashing in several dragon fights (potential fix)
+
+<details>
+
+ ### Updated
+ - Lux
+ - Lux Orbis
+ - Majestic Dragons - Larger and immersive proportions
+ - Open Animation Replacer
+
+ ### Added
+ - Wheeler - Quick Action Wheel Of Skyrim
+ - Elder Creed - Wheeler Reskin
+ - W.I.O. - Wheeler Icons Overhaul
+ - Riposte - Parry SFX
+ - Seranade - A(nother) Serana Replacer
+ - NIF Preview (3D Model Viewer) for Mod Organizer
+ - Artificer - Royal Armory Plugin Replacer Patch
+ - Rune Perk Workaround for Adamant
+ 
+</details>
 
 ## Version 2.4.0.1
 
