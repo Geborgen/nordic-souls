@@ -48,6 +48,10 @@
 
 **A:** If a container has a large amount of items, the QuickLoot menu will no longer appear, in order to prevent crashing.
 
+## Q: Why are dragons/other large creatures invisible?
+
+**A:** If this bothers you, go to `SSEDisplayTweaks.ini`, find `DisableActorFade=false` and set it to `true`.
+
 ## Q: Why does this quest not start?
 
 **A:** There are likely different starting requirements. Please refer to [this](https://github.com/Geborgen/nordic-souls/blob/main/.github/QUESTCHANGES.md) document.
