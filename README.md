@@ -299,7 +299,7 @@ Enable `Gamepad Controlmap` under the `Gamepad Support` separator.
   - D-Pad Up: Favorite Menu 
   - D-Pad Left: Hotkey 1 (Favorites) 
   - D-Pad Right: Hotkey 2 (Favorites) 
-  - D-Pad Down: Hotkey 3 (Favorites)
+  - D-Pad Down: Wheeler
   - LB+Back: Wait 
   - LB+Start: Quicksave 
   - LB+D-Pad Up: Quick Skills 
