@@ -198,7 +198,7 @@ Some common errors you may encounter during installation:
 - Could not download `X`:
   - Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
   - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#downloading-cc-content).
-  - Try logging out of Nexus (in-app) and loggin in again.
+  - Try logging out of Nexus (in-app) and logging in again.
 - `X` is not a whitelisted download:
   - This may happen when I update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find the game folder:
