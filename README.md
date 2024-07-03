@@ -327,7 +327,7 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
   - First make sure your paths are correct in the `Setup` tab: Game path should be `Nordic Souls\Game Root` and Mod Organizer should be your Nordic Souls folder. INI path should be `ModOrganizer > Nordic Souls`.
   - On the `Basic` tab, check `Recommended Tweaks` and then `Medium`. Disable `VSync`. Make sure your monitor's resolution matches.
   - Set `Antialiasing` to `None`. This can cause weird shimmering in-game, however.
-  - On the `Details` tab, set `Godrays` to `None`. Set `Particles` to `6000`. Disable `Lens Flare` and `Anamorphic Lens Flare`. Set `Detailed Draw Distance` to `2000` and `Exterior Draw Distance` to `6000`. Disable `Ambient Occlusion`.
+  - On the `Detail` tab, set `Godrays` to `None`. Set `Particles` to `6000`. Disable `Lens Flare` and `Anamorphic Lens Flare`. Set `Detailed Draw Distance` to `2000` and `Exterior Draw Distance` to `6000`. Disable `Ambient Occlusion`.
   - On the `View Distance` tab, set `Grass Fade` to `10000`, set `Level 8` to `32768`, and `Level 16` to `200000`.
   - Go back to the `Basic` tab, click `Save and Exit`.
 
@@ -412,7 +412,7 @@ Simply delete the folder, and you have uninstalled the list.
 
 Please refer to the [issues](https://github.com/Geborgen/nordic-souls/issues) tab before reporting an issue. Additionally, common bugs will be discussed on Discord. 
 
-Keep in mind that although I try to fix issues as they come up, I cannot fix everything. Additionally, please be patient with support, as this is a hobby
+Keep in mind that although I try to fix issues as they come up, I cannot fix everything. Additionally, please be patient with support, as this is a hobby and schedules may be different.
 
 If your issue isn't listed, see below.
 
