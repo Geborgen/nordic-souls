@@ -38,7 +38,6 @@
 <details>
 
  ### Updated
- - Dragon War - A Dragon Overhaul
  - Dragon Priests Retexture SE
 
  ### Removed
