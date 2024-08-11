@@ -1,5 +1,6 @@
 # Changelog
 
+- [Version 2.4.1.1](#version-2411)
 - [Version 2.4.1](#version-241)
 - [Version 2.4.0.1](#version-2401)
 - [Version 2.4.0](#version-240)
@@ -24,6 +25,26 @@
 - [Version 2.0.1](#version-201)
 - [Version 2.0.0](#version-200)
 - [Legacy Versions](#legacy-versions)
+
+## Version 2.4.1.1
+
+**Hotfixes, save-safe.**
+
+### Fixed
+- Occasional crash in dragon fights
+- Crash when entering Labyrinthian Tribune
+- Crashing in Dumzbthar
+
+<details>
+
+ ### Updated
+ - Dragon War - A Dragon Overhaul
+ - Dragon Priests Retexture SE
+
+ ### Removed
+ - Dragon War NG dll
+
+</details>
 
 ## Version 2.4.1
 
