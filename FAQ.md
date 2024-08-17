@@ -22,7 +22,7 @@
 
 ## Q: How do I change my FOV?
 
-**A:** first use the FOV console command like normal (`fov x`). Then, enter the `Improved Alternate Conversation Camera` MCM. There, you can find an FOV slider. This sets the FOV you will return to when exiting dialogue, preventing it from resetting.
+**A:** first use the FOV console command like normal (`fov x x`) (yes, input the value twice).
 
 ## Q: How do I change my brightness?
 
@@ -34,7 +34,7 @@
 
 ## Q: How do I get rid of those obnoxious category icons at the top of the inventory menu?
 
-**A:** Enter the `SkyUI` MCM, go to `General`, change `Category Icon Theme to `SkyUI V5`.
+**A:** Enter the `SkyUI` MCM, go to `General`, change `Category Icon Theme` to `SkyUI V5`.
 
 ## Q: Where did my compass go?
 
