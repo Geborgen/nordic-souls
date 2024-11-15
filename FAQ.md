@@ -26,7 +26,7 @@
 
 ## Q: How do I change my brightness?
 
-**A:** In the ENB menu, go to the `ENVIRONMENT` category, and edit settings such as `AmbientLightingIntensityDay` and `AmbientLightingIntensityNight`. If you break something, you can press `LOAD CONFIGURATION` at the top to restore your previous configuration, or reinstall the list to reset everything to default.
+**A:** In the ENB menu, go to the `ENVIRONMENT` category, and edit settings such as `AmbientLightingIntensityDay` and `AmbientLightingIntensityNight`. You can also find settings for interiors, if interiors are too dark. If you break something, you can press `LOAD CONFIGURATION` at the top to restore your previous configuration, or reinstall the list to reset everything to default.
 
 ## Q: I've modified INI settings (e.g. as dodge hotkey), why are they not applying?
 
