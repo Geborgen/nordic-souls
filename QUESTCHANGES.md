@@ -169,15 +169,15 @@ Dawnfang & Duskfang | Level 30, moved note to pillar outside of canal | [CC Dawn
 ### Vigilant
 
 - Level 25
-- Finish [The House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors)
-- Finish [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment) (side does not matter)
+- Complete [The House of Horrors](https://en.uesp.net/wiki/Skyrim:The_House_of_Horrors)
+- Complete [Kindred Judgement](https://en.uesp.net/wiki/Skyrim:Kindred_Judgment) (side does not matter)
 
 ### Unslaad
 
 - Level 25
-- Finish [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer)
-- Finish Act 4 of Vigilant (ending does not matter, but the "true ending" is recommended)
-- Finish "Sacred Anatomancer" from Vigilant (the "divine the future" path is recommended, but any path works as long as the quest is completed)
+- Complete [Dragonslayer](https://en.uesp.net/wiki/Skyrim:Dragonslayer)
+- Complete Act 4 of Vigilant (ending does not matter, but the "true ending" is recommended)
+- Complete "Sacred Anatomancer" from Vigilant (the "divine the future" path is recommended, but any path works as long as the quest is completed)
 
 ### The Forgotten City
 
