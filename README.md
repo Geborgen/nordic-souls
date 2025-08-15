@@ -238,7 +238,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Customizing the List
 
-**Other than what is mentioned here, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they **MUST** load anywhere above the Synthesis patches, zero exceptions. The paper map plugins should always be at the very bottom of your load order.
+**Other than what is mentioned here, modifying the list in any way will void all support.** I cannot guarantee that everything will work if you add or remove mods. If you do add mods that include plugins, they must load **above** `Water for ENB (Shades of Skyrim).esp`. The paper map plugins should always be at the very bottom of your load order.
 
 As this may cause some confusion, I should clarify that I'm not against people editing the list. All I mean is that I won't be able to help if things break. This also falls under Wabbajack's "rule 11", meaning that any modifications you make, you do so at your own risk. Visit the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) for more information.
 
