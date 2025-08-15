@@ -14,8 +14,6 @@
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md">FAQ</a>
 </p>
 
-1200+ mods can change the game quite a bit. I will try to go over everything of importance, pointing out key gameplay mods, quests, followers, homes, and tips. Some things I have purposely left out, for you to explore.
-
 ## Contents
 - [What is Nordic Souls?](#what-is-nordic-souls)
 - [Core Gameplay Mods](#core-gameplay-mods)
@@ -28,7 +26,7 @@
 
 ## What is Nordic Souls?
 
-I should preface this by reiterating that this list does NOT try to turn Skyrim into another game. Instead, it tries to modernize Skyrim in a way that *makes sense*. Everything has been carefully selected to fit into Skyrim's atmosphere, and the mods play together nicely, with minimal consistency issues and unnecessary fluff. Despite this, every aspect of the game has been touched in some way, bringing a familiar yet new experience.
+1200+ mods can change the game quite a bit. However, I should preface this by reiterating that this list does NOT try to turn Skyrim into another game. Instead, it tries to modernize Skyrim in a way that *makes sense*. Everything has been carefully selected to fit into Skyrim's atmosphere, and the mods play together nicely, with minimal consistency issues and unnecessary fluff. Despite this, every aspect of the game has been touched in some way, bringing a familiar yet new experience.
 
 Nordic Souls is fully SFW. Mods like CBBE with the 3BA add-on are included (with a realistic preset), but never-nude options are enabled and there are no skimpy armors or overly-sexualized body meshes.
 
