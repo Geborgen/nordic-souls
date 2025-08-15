@@ -35,7 +35,6 @@
 - Placed Dodge behind Agility light armor perk
 - Added Hotkey Reminder (press F11)
 - Drastically improved gamepad support
-- Improved the worldspace with mods such as Children of the North Wind
 - Improved cities with smaller clutter addons and Roastlawyer's Restored Whiterun Refences
 - Improved death and gore with Dismembering Framework and Sanguine Symphony
 - Replaced NFF with Busy Follower Framework
