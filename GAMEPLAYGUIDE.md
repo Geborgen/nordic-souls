@@ -22,7 +22,7 @@
 - [Quests](#quests)
   - [Vanilla Quest Changes](#vanilla-quest-changes)
   - [New Quests](#new-quests)
-- [Followers and NPCs](#followers-and-npcs)
+- [Followers](#followers)
 
 ## What is Nordic Souls?
 
@@ -151,11 +151,12 @@ A few high-quality DLC-sized quest mods are included, with a bunch of smaller ad
 - [Depths of the Soul](https://www.nexusmods.com/skyrimspecialedition/mods/118261) features a rather helpful merchant who will aid the player by selling various items for dungeons.
 - Several mods by [nimwraith](https://next.nexusmods.com/profile/nimwraith/mods?gameId=1704) are included. Discover these as you travel.
 
-## Followers and NPCs
+## Followers
 
-Nordic Souls includes some of the best custom followers available.
+Nordic Souls includes some of the best custom followers available, and overhauls vanilla follower systems as well.
 
 - [Busy Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/112076) aims to provide the most immersive and intuitive experience for base followers in the game by enhancing their base functionality and adding additional features such as renaming, home assignment, outfits, teaching, looting and much more.
+- [Swiftly Order Squad](https://www.nexusmods.com/skyrimspecialedition/mods/63259) adds a neat UI to quickly manage followers. Press `L` or find it in the tween menu.
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. You can find him in the Riften prison.
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) is a traditionalist Wood Elf archer. You can find her house somewhere in the Falkreath pine forest.
 - [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is a not-so-roguish rogue with mysterious powers. The mod also introduces Megara, a healer with a knack for getting information. You can find Katana in the Winking Skeever Inn in Solitude.
