@@ -1,5 +1,19 @@
 # FAQ
 
+![Banner](https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png)
+
+<p align="center">
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/README.md">ReadMe</a> |
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/77497">Nexus</a> |
+  <a href="https://discord.com/invite/9cRs3KPyuW">Discord</a> |
+  <a href="https://ko-fi.com/geborgen">Ko-fi</a> |
+  <a href="https://loadorderlibrary.com/lists/nordic-souls">Modlist</a> |
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/GAMEPLAYGUIDE.md">Gameplay Guide</a> |
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md">Modification Guide</a> |
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md">FAQ</a>
+</p>
+
 ## Q: Do I have to read this?
 
 **A:** No, but if you ask a question that is in this document, you will likely be referred here.
@@ -18,17 +32,17 @@
 
 ## Q: Why is my map purple/missing?
 
-**A:** You have a plugin loading below the paper map plugin. Either reinstall the list to restore the load order, or refer to the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) if you've added mods.
+**A:** You have a plugin loading below the paper map plugins. Either reinstall the list to restore the load order, or refer to the [modification guide](https://github.com/Geborgen/nordic-souls/blob/main/MODIFICATIONGUIDE.md) if you've added mods.
 
 ## Q: How do I change my FOV?
 
-**A:** first use the FOV console command like normal (`fov x x`) (yes, input the value twice).
+**A:** Use the FOV console command like normal (`fov x x`) (yes, input the value twice). Then, change your FOV in the `Improved Alternate Conversation Camera` MCM so it doesn't reset when you enter and leave dialogue.
 
 ## Q: How do I change my brightness?
 
 **A:** In the ENB menu, go to the `ENVIRONMENT` category, and edit settings such as `AmbientLightingIntensityDay` and `AmbientLightingIntensityNight`. You can also find settings for interiors, if interiors are too dark. If you break something, you can press `LOAD CONFIGURATION` at the top to restore your previous configuration, or reinstall the list to reset everything to default.
 
-## Q: I've modified INI settings (e.g. as dodge hotkey), why are they not applying?
+## Q: I've modified INI settings, why are they not applying?
 
 **A:** Check the `NS - Game Settings` mod. Modify the INI files there.
 
@@ -44,14 +58,6 @@
 
 **A:** You must be sneaking to steal items. You can configure this in the `Better Third Person Selection` MCM.
 
-## Q: Why is the QuickLoot menu not showing up?
-
-**A:** If a container has a large amount of items, the QuickLoot menu will no longer appear, in order to prevent crashing.
-
-## Q: Why are dragons/other large creatures invisible?
-
-**A:** If this bothers you, go to `SSEDisplayTweaks.ini`, find `DisableActorFade=false` and set it to `true`.
-
 ## Q: Why does this quest not start?
 
 **A:** There are likely different starting requirements. Please refer to [this](https://github.com/Geborgen/nordic-souls/blob/main/QUESTCHANGES.md) document.
@@ -60,6 +66,6 @@
 
 **A:** This is due to the [Diplomatic Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/70803) mod. Random dragons will not spawn until Sahloknir dies.
 
-## Q: Why am I missing health/regeneration? How do I get rid of injuries/infenctions?
+## Q: Why am I missing health/regeneration? How do I get rid of injuries/infections?
 
 **A:** Sleep for 4 hours to cure minor injuries, 8 for major, and 12 to cure critical/all injuries. Infections act as diseases, so use a cure disease potion.
