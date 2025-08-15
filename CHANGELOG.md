@@ -37,9 +37,9 @@
 - Drastically improved gamepad support
 - Improved cities with smaller clutter addons and Roastlawyer's Restored Whiterun Refences
 - Improved death and gore with Dismembering Framework and Sanguine Symphony
-- Replaced NFF with Busy Follower Framework
-- Added A Horse's Life
-- Added Tween & Menu Overhaul
+- Replaced NFF with Busy Follower Framework for streamlined follower management
+- Added A Horse's Life for in-depth horse management
+- Added Tween & Loading Menu Overhauls
 - Added The Dragonborn's Bestiary
 - Added new idle & jump animations
 - Added optional ENB Frame Generation
