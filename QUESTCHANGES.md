@@ -48,7 +48,7 @@
 ### Dragonborn DLC
 
 - Level 20
-- Finish [The Throat of the World](https://en.uesp.net/wiki/Skyrim:The_Throat_of_the_World)
+- Complete [The Throat of the World](https://en.uesp.net/wiki/Skyrim:The_Throat_of_the_World)
 
 ### Encounters
 
