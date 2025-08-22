@@ -127,7 +127,7 @@ For xLODGen, make sure every worldspace is selected on the left panel. Also make
 
 ![TexGen Settings](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20DynDOLOD%20Settings.png)
 
-For DynDOLOD, additional steps may be needed to ensure LODs generate in Bruma. By default the `BSHeartland` worldspace is ignored. To enable the worldspace, edit `Nordic Souls\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Configs\DynDOLOD_SSE_worldspace_ignore.txt` and remove/change the line `BSHeartland.esm;000A764B;BSHeartland`. Just adding an X in front would be enough for it to show in the world selection menu again. (Copied from [Bruma - All Fixes for Custom LODs](https://www.nexusmods.com/skyrimspecialedition/mods/143795) mod page.)
+For DynDOLOD, additional steps may be needed to ensure LODs generate in Bruma. By default the `BSHeartland` worldspace is ignored. To enable the worldspace, edit `Nordic Souls\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Configs\DynDOLOD_SSE_worldspace_ignore.txt` and remove/change the line `BSHeartland.esm;000A764B;BSHeartland`. Just adding an X in front would be enough for it to show in the world selection menu again. (Copied from the [Bruma - All Fixes for Custom LODs](https://www.nexusmods.com/skyrimspecialedition/mods/143795) mod page.)
 
 When you launch DynDOLOD, make sure every worldspace is selected at the top. Then, you can select either `Low`, `Medium`, or `High` depending on performance (low settings have the best performance, high settings have the best quality/most number of objects generated). NS uses medium settings for a good balance.
 
