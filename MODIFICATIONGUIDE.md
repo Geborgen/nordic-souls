@@ -89,13 +89,55 @@ To run Synthesis, simply run the program, check whichever group you wish to gene
 
 ### ParallaxGen
 
-(section wip)
+PGPatcher, a.k.a. ParallaxGen, needs to be run if you add mods that add new meshes or change any meshes. This tool will enable Complex Material on meshes, among other fixes. You will need to use different settings if you use CS or ENB, see below.
+
+<details>
+<summary>Nordic Souls PG Settings (expand)</summary>
+
+### ParallaxGen Settings for ENB
+
+![PG Settings ENB](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20ParallaxGen%20Settings%20ENB.png)
+
+### ParallaxGen Settings for CS
+
+![PG Settings CS](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20ParallaxGen%20Settings%20CS.png)
+
+</details>
 
 ### LOD Tools
 
 All requirements for LOD generation are installed. You should disable all paper map mods for the entire process (*the mods themselves*, not just the plugins; see the `Paper Map` separator), and re-enable them when all LOD tools are run.
 
 Please refer to [Althro's written guide](https://github.com/The-Animonculory/Modding-Resources/blob/main/DynDOLOD.md) or [biggie's video guides](https://www.youtube.com/watch?v=5cHJ0i7hE2U&list=PLQVRNa_qhFsrNmcAn80ImEh0HXiTsNUyY) when generating LODs. You can skip steps involving grass LODs (although grass cache is provided if you're up for it) and ACMOS (NS uses a paper map).
+
+<details>
+<summary>Nordic Souls LOD Settings (expand)</summary>
+
+### xLODGen Settings
+
+![xLODGen Settings](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20xLODGen%20Settings.png)
+
+For xLODGen, make sure every worldspace is selected on the left panel.
+
+### TexGen Settings
+
+![TexGen Settings](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20TexGen%20Settings.png)
+
+### DynDOLOD Settings
+
+![TexGen Settings](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20DynDOLOD%20Settings.png)
+
+For DynDOLOD, additional steps may be needed to ensure LODs generate in Bruma. By default the BSHeartland worldspace is ignored. To enable the worldspace, edit `Nordic Souls\Tools\DynDOLOD\Edit Scripts\DynDOLOD\Configs\DynDOLOD_SSE_worldspace_ignore.txt` and remove/change the line `BSHeartland.esm;000A764B;BSHeartland`. Just adding an X in front would be enough for it to show in the world selection drop down again. (Copied from [Bruma - All Fixes for Custom LODs](https://www.nexusmods.com/skyrimspecialedition/mods/143795) mod page.)
+
+When you launch DynDOLOD, make sure every worldspace is selected at the top. Then, you can select either Low, Medium, or High depending on performance (low is best performance, high is best quality/most number of objects generated). NS uses Medium for a good balance.
+
+Make sure you right click and edit the tree settings as seen in the screenshot (LOD Level 4 = Billboard 4, LOD Level 8 = Billboard 4, LOD Level 16 = Billboard1, etc.).
+
+You should also right click and add a new rule called "mountain", and add the settings as seen (LOD Level 4 = Level0, LOD Level 8 = Level0, LOD Level 16 = Level1, etc.).
+
+You should edit these rules AFTER you select Low, Medium, or High.
+
+</details>
 
 ## List Updates
 
