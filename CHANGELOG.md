@@ -43,12 +43,12 @@
 ### Updated
 - Blade & Blunt - A Combat Overhaul
 - Community Shaders
-- Dismembering Framework - Creature Asset Pack - The Dragon Cult Draugr
 - Mundus - A Standing Stone Overhaul
 - SkyInteract
 - Water for ENB
 
 ### Added
+- Dismembering Framework - Creature Asset Pack - The Dragon Cult Draugr
 - Terrain Blending - Community Shaders
 - TrueHUD - Inventory Injector Patch
 
