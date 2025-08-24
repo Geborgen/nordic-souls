@@ -26,10 +26,10 @@
 
 ### Changes
 - Added CS Terrain Blending
-- Armor Rating now reduces incoming spell damage by 0.05% per point up to 500, and by 0.03% per point from 501 to 1000 ([Blade & Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) mod page)
-- The Apprentice Stone now reduces Fire, Frost, and Shock Resistance by 25% ([Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) mod page)
-- The Steed Stone now reduces the cost of sprinting by 50% both in and out of combat ([Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) mod page)
-- The Warrior Stone now reduces all incoming weapon and spell damage by 10% ([Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) mod page)
+- Armor Rating now reduces incoming spell damage by 0.05% per point up to 500, and by 0.03% per point from 501 to 1000 ([Blade & Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549))
+- The Apprentice Stone now reduces Fire, Frost, and Shock Resistance by 25% ([Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411))
+- The Steed Stone now reduces the cost of sprinting by 50% both in and out of combat ([Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411))
+- The Warrior Stone now reduces all incoming weapon and spell damage by 10% ([Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411))
 - TrueHUD pickup notifications now use I4 icons
 
 ### Fixes
