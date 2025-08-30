@@ -81,7 +81,7 @@ Remember to always save before messing with console stuff just in case something
 <details>
 <summary>Dodge (expand)</summary>
 
-[TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) and the [Addon](https://www.nexusmods.com/skyrimspecialedition/mods/125238) allow for a dodge ability. You can unlock this ability with the `Agility` light armor perk. Dodging includes invincibility frames, allowing for proper evasive maneuvers that can give you an edge in combat, at the cost of stamina.
+[TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) and the [Addon](https://www.nexusmods.com/skyrimspecialedition/mods/125238) allow for a dodge ability. You can unlock this ability with the `Agility` light armor perk. Dodging generates invincibility frames, allowing for proper evasive maneuvers that can give you an edge in combat, at the cost of stamina.
 
 The dodge key is bound to sprint, so tap `Alt` to dodge, and hold it to sprint. If you have a mouse with side buttons, you can also press `M5` to dodge. If you use gamepad, tap `LB` to dodge, and hold it to sprint. To edit the keybinds, find the `TK Dodge` MCM.
 
