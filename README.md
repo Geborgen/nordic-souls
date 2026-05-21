@@ -409,7 +409,7 @@ If your issue isn't listed, see below.
 
 ## I found a bug!
 
-Visit the [issues](https://github.com/Geborgen/nordic-souls/issues) tab to see if your issue was already reported. If not, create a new issue. Please be as detailed as possible, and use the template provided.
+Visit the [issues](https://github.com/Geborgen/nordic-souls/issues) tab to see if your issue was already reported. If not, create a new issue. Please be as detailed as possible, and use the template provided. Please do not use this to ask for support; only report genuine, reproducible bugs.
 
 ## Changelog
 
