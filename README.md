@@ -339,7 +339,18 @@ Open the installation folder and open `ModOrganizer.exe`. Make sure the dropdown
 > You can create a desktop shortcut in the shortcuts dropdown.
 
 > [!CAUTION]
-> Do not launch the game through Steam. This will launch vanilla Skyrim.
+> Do not launch the game through Steam directly. This will launch vanilla Skyrim.
+
+> [!TIP]
+> If you want to launch the game through Steam, Big Picture included, do the following:
+> 1. Right click on Skyrim in your Steam Library and select Properties.
+> 2. In Launch Options command line add the following:
+>    
+> ```"C:\Games\NordicSouls\ModOrganizer.exe" "moshortcut://:Play Nordic Souls [SKSE]" %command%```
+> 
+> Naturally, path to .exe should be matching your own. You can copy it from shortcut from the tip above.
+> 
+> For Big Picture, you may want to re-enable in-game overlay. Don't use it to exit the game though, it will stuck; use in-game menu instead.
 
 > [!CAUTION]
 > Do not "unlock" MO2 when the game is running. This will cause various issues within the game.
