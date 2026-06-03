@@ -91,7 +91,7 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 |-----|-----|
 | Intel i5-9400 / AMD Ryzen 5 2600x | Intel i5-13400 / AMD Ryzen 5 5600x  |
 | NVIDIA GTX 1060 / AMD RX 580 | NVIDIA RTX 3060 TI / AMD RX 6700 |
-| 16 GB DDR4 | 32 GB DDR4 |
+| 16 GB DDR4 | 32 GB DDR5 |
 | SATA SSD | NVMe SSD |
 
 Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
@@ -118,11 +118,11 @@ If you are just updating the list, you can safely skip to [this section](#updati
 
 Please complete the following steps:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-2. Install [Microsoft .NET 9.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) (both `console apps` and `desktop apps` x64).
+2. Install [Microsoft .NET 8.0 Runtime](https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win-x64&os=win10) and [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.27-windows-x64-installer).
 3. Fully disable OneDrive and any other programs that hook into user file areas.
 4. Reinstall Skyrim into a location that is not Program Files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into [LostDragonist's SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide). You should have the latest version of Skyrim, version `1.6.1170`. **Do not verify file integrity, as this will cause issues.**
 5. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-6. Right click Skyrim in Steam, click `Properties`, disable `Enable the Steam overlay while in-game`.
+6. Right click Skyrim in Steam, click `Properties`, turn OFF `Enable the Steam overlay while in-game`.
 
 #### Pagefile and Crash Prevention
 
@@ -318,8 +318,9 @@ Nordic Souls should run fine on almost any machine, but there are some things yo
 
 - ENB: Toggle ENB with `SHIFT + INSERT`. Completely removing ENB has caused issues for users, so keep it disabled instead.
 - ENB: Press `SHIFT + ENTER` to open the ENB menu, untick `EnableAmbientOcclusion` under `Effect` in the left column, and then `---SAVE CONFIGURATION---` at the top.
-- ENB: Enable the `ENB Frame Generation` mod under the `Optional Files` separator. Please note that unless you can get a high FPS without it and have a monitor with a high refresh rate, it won't do much for you.
+- ENB: Enable the [ENB Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/144507) mod under the `Optional Files` separator. Please note that unless you can get a high FPS without it and have a monitor with a high refresh rate, it won't do much for you.
 - CS: Press `END` to open the CS menu, scroll down to Light Limit Fix, click `Disable at Boot` on the top right, then go to Screen Space GI and do the same; save on the top right.
+- CS: Configure [Upscaling](https://www.nexusmods.com/skyrimspecialedition/mods/156952) in the CS menu. This will give you a smoother experience at the cost of FPS. Frame generation is included here as well.
 - CPU Priority: [Skyrim Priority](https://www.nexusmods.com/skyrimspecialedition/mods/50129) is included to elevate CPU priority, but you need to use an [included tool](https://www.nexusmods.com/skyrimspecialedition/mods/94636) to set CPU affinity. Click the Tools (puzzle piece) icon on the top left menu in MO2, click `Set CPU Affinity`, and click `OK`. If your affinity is already set, keep it enabled.
 - External tool: [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557). Watch [this](https://www.youtube.com/watch?v=MS8vhuyeT2g) video for more information. This falls under modifying the list, meaning you are responsible for potential issues that may arise.
 - Pay to win: upgrade hardware. SSD will improve load times, RAM will reduce stuttering, GPU and CPU will increase performance. This isn't a PC guide, there are plenty of those on the internet.
