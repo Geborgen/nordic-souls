@@ -96,11 +96,11 @@ PGPatcher, a.k.a. ParallaxGen, needs to be run if you add mods that add new mesh
 
 ### ParallaxGen Settings for ENB
 
-![PG Settings ENB](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20ParallaxGen%20Settings%20ENB.png)
+![PG Settings ENB](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20PGPatcher%20Settings%20ENB.png)
 
 ### ParallaxGen Settings for CS
 
-![PG Settings CS](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20ParallaxGen%20Settings%20CS.png)
+![PG Settings CS](https://raw.githubusercontent.com/Geborgen/nordic-souls/refs/heads/main/.github/NS%20PGPatcher%20Settings%20CS.png)
 
 </details>
 
