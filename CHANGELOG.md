@@ -62,7 +62,6 @@
 	- Buffed Impressive Physique 50->75 to Health, Stamina, Carry Weight
 	- Buffed Runecaster 2x->3x scroll efficiency (magnitude)
 	- Added missing races from Dragonborn DLC to Giant Slayer trait (Kaarstag, Lurker, Spectral Dragon)
-	- Refined descriptions ([Niko's Grammar Patch](https://www.nexusmods.com/skyrimspecialedition/mods/165643))
 - [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) update with many changes included, see mod page
 - MO2's Notes section will now appear in view mode by default, with updated information [Notes Panel for MO2](https://www.nexusmods.com/skyrimspecialedition/mods/147360)
 - Hid MO2's "unlock" prompt when launching the game
