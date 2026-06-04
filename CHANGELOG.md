@@ -51,6 +51,7 @@
 - Replaced [Skoglendi](https://www.nexusmods.com/skyrimspecialedition/mods/93944) with [Freak's Floral Fields](https://www.nexusmods.com/skyrimspecialedition/mods/125349)
 	- Downscaled grass textures for increased performance and minimal visual impact
 	- Much more diverse and interesting grassy areas
+- Added new [Raysense](https://www.nexusmods.com/skyrimspecialedition/mods/175498) animations for edge looking, beam walking, and wall sneaking
 - Nerfed the Staff of Hasedoki's Magic Damage effect from 9 damage per second to 6 ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
 - Buffed Stendarr's Hammer's bashing damage to 150% from 100% ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
 - Hopesfire and Trueflame now have a chance to cause an explosion of Shock damage and deal lingering Fire damage respectfully ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
@@ -197,6 +198,8 @@
 - Auto Resolution
 - Auto Skeleton Patch - Universal Behaviour Runtime
 - Babbling Brooks - A Water Audio Overhaul
+- Beam Walking Assist
+- Beam Walking Assist - 1st
 - Camping Plus Plus - A CC Camping Overhaul
 - Conjuration Limit Fix
 - Copy Paste In Menus
@@ -225,9 +228,12 @@
 - Norden UI (map markers only)
 - Obsidian CS
 - Olenveld - Tweaks and Fixes
+- Open Animation Replacer - RaySense
 - Papyrus Ini Manipulator
 - Perk Entry Point Extender
 - Pilgrim and Daedric Shrines Consistency and Tweaks
+- RaySense - Cover Animation
+- RaySense - Edge Lookdown
 - Ricochet - Arrow Physics Framework
 - Sassy Salt and Wind Hair Retexture - Vanilla and KS Hairdos
 - Settling of Squad - Set Follower Home
