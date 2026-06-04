@@ -52,6 +52,7 @@
 	- Downscaled grass textures for increased performance and minimal visual impact
 	- Much more diverse and interesting grassy areas
 - Added new [Raysense](https://www.nexusmods.com/skyrimspecialedition/mods/175498) animations for edge looking, beam walking, and wall sneaking
+- Added [Lorebox](https://www.nexusmods.com/skyrimspecialedition/mods/156534) UI tooltips
 - Nerfed the Staff of Hasedoki's Magic Damage effect from 9 damage per second to 6 ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
 - Buffed Stendarr's Hammer's bashing damage to 150% from 100% ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
 - Hopesfire and Trueflame now have a chance to cause an explosion of Shock damage and deal lingering Fire damage respectfully ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
