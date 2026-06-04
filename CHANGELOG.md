@@ -16,9 +16,272 @@
 
 ## Contents
 
+- [Version 3.1.0](#version-310)
 - [Version 3.0.1](#version-301)
 - [Version 3.0.0](#version-300)
 - [Legacy Versions](#legacy-versions)
+
+## Version 3.1.0
+
+**This update requires a new game.**
+
+### Changes
+- New streamlined follower system ([Simple Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/174017))
+	- Removed BFF
+	- Most follower-related bugs are now fixed
+	- Your max follower count is dictated by your Speech level
+		- Speech 0-9 = 1 follower, 10-19 = 2, 20-29 = 3 ... 79+ = 8
+	- Configurable with SKSE Menu Framework, press `F1`
+	- New dialogue options to set follower homes ([Settling of Squad](https://www.nexusmods.com/skyrimspecialedition/mods/125471))
+	- Followers don't draw weapons unless in combat ([FDDW](https://www.nexusmods.com/skyrimspecialedition/mods/3870))
+	- Followers are smarter about avoiding traps ([NPC Trap Safety](https://www.nexusmods.com/skyrimspecialedition/mods/55321))
+- Replaced map markers to have better contrast from the map ([Norden UI](https://www.nexusmods.com/skyrimspecialedition/mods/166086))
+- Added new Khajiit hair options ([Saerileth](https://www.nexusmods.com/skyrimspecialedition/mods/22486))
+- Changed female face normal and diffuse textures for a sleeker look
+- Replaced hair textures ([Sassy Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/160675))
+- Replaced Riften textures ([Tomato](https://www.nexusmods.com/skyrimspecialedition/mods/157340))
+- Replaced Windhelm textures ([Tomato](https://www.nexusmods.com/skyrimspecialedition/mods/174492))
+- CS update pass; included all the new features and improvements
+	- Added Upscaling, configure in the menu by pressing `END` (CS only)
+	- Added HDR support, press `WIN + ALT + B` to enable HDR on your monitor before launching your game (CS only)
+	- Added Unified Water, removing water LOD seams (CS only)
+	- Press `SHIFT + ENTER` with CS to open the weather editor (CS only)
+- Replaced [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061) with [Simplicity of Sea](https://www.nexusmods.com/skyrimspecialedition/mods/148761)
+	- Significantly reduced landscape conflicts
+- Replaced [Skoglendi](https://www.nexusmods.com/skyrimspecialedition/mods/93944) with [Freak's Floral Fields](https://www.nexusmods.com/skyrimspecialedition/mods/125349)
+	- Downscaled grass textures for increased performance and minimal visual impact
+	- Much more diverse and interesting grassy areas
+- Nerfed the Staff of Hasedoki's Magic Damage effect from 9 damage per second to 6 ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
+- Buffed Stendarr's Hammer's bashing damage to 150% from 100% ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
+- Hopesfire and Trueflame now have a chance to cause an explosion of Shock damage and deal lingering Fire damage respectfully ([Masterwork](https://www.nexusmods.com/skyrimspecialedition/mods/142109))
+- Updated [Biggie Traits - Refitted](https://www.nexusmods.com/skyrimspecialedition/mods/150223)
+	- Added three traits: Arcane Trickster, Magicka Barrier, Reality Bender
+	- Fixed Disciplined and Fast Shot traits
+	- Buffed Alchemical Affinity alchemy effectiveness 25%->50%
+	- Buffed Growing Legend health gain per level 5->10
+	- Buffed Impressive Physique 50->75 to Health, Stamina, Carry Weight
+	- Buffed Runecaster 2x->3x scroll efficiency (magnitude)
+	- Added missing races from Dragonborn DLC to Giant Slayer trait (Kaarstag, Lurker, Spectral Dragon)
+	- Refined descriptions ([Niko's Grammar Patch](https://www.nexusmods.com/skyrimspecialedition/mods/165643))
+- [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) update with many changes included, see mod page
+- MO2's Notes section will now appear in view mode by default, with updated information [Notes Panel for MO2](https://www.nexusmods.com/skyrimspecialedition/mods/147360)
+- Hid MO2's "unlock" prompt when launching the game
+
+### Fixes
+- Ancient Dwarven Armor is invisible for beast races ([#161](https://github.com/Geborgen/nordic-souls/issues/161))
+- An additional objective doesn't get removed after finishing The Pursuit ([#151](https://github.com/Geborgen/nordic-souls/issues/151))
+- Bloodchill Cavern not accessible ([#164](https://github.com/Geborgen/nordic-souls/issues/164))
+- Boethiah's Calling - Followers cannot interact with the Altar of Sacrifice ([#135](https://github.com/Geborgen/nordic-souls/issues/135))
+- Conflict between the fishing creation and CFTO ([#141](https://github.com/Geborgen/nordic-souls/issues/141))
+- Gap at the cabin location to start "The Devils in the Details" ([#129](https://github.com/Geborgen/nordic-souls/issues/129))
+- Halls of Rielle entrance is wrongly positioned ([#147](https://github.com/Geborgen/nordic-souls/issues/147))
+- Landscape conflict with Inigo ([#139](https://github.com/Geborgen/nordic-souls/issues/139))
+- New Daedric Shrines do not work with Pilgrim
+- Pandora pathing is incorrect, leaving it unable to be run without extra setup
+- Penitus Oculatus Armor presents as General Tullius' armor when equipped ([#148](https://github.com/Geborgen/nordic-souls/issues/148))
+- Player will be forced essential and unkillable after completing Blood and Grit/brawling Rhico ([#149](https://github.com/Geborgen/nordic-souls/issues/149))
+- Rare crash on save load after visiting certain cells (potential fix)
+- Scrambled Bugs settings might not apply properly for Windows 11 users
+- Some Races have the wrong data ([#167](https://github.com/Geborgen/nordic-souls/issues/167))
+- The Heart of Dibella quest can't be proceeded ([#145](https://github.com/Geborgen/nordic-souls/issues/145))
+- Unable to initiate dialogue with Teldryn Sero in Raven Rock ([#131](https://github.com/Geborgen/nordic-souls/issues/131))
+
+<details>
+<summary>Details (expand)</summary>
+
+### Updated
+- A Conversation - Quest Mod
+- Additional Dremora Faces
+- A Friend in Mead - Quest Mod
+- Ancient Nord Armors and Weapons Retexture SE
+- Assorted Mesh Fixes
+- Better Argonian Horns
+- Biggie Traits
+- Biggie Traits - Refitted
+- Blood and Grit - Quest Mod
+- Castigate - Next gen Magic SFX -
+- CBBE 3BA Vanilla Outfits Redone
+- Chitin Armors and Weapons Retexture SE
+- Cloud Shadows - Community Shaders
+- Community Shaders
+- Community Voices - Olenveld Revoiced
+- ConsolePlusPlus
+- CS Light
+- Daedric Armors and Weapons Retexture SE
+- Death Drop Overhaul
+- Dismembering Framework
+- Dismembering Framework - My patches by Xtudo
+- Dragon Armors and Weapons Retexture SE
+- Draugrs - My patches SE by Xtudo
+- Dwemer Armor SE - My patches and fixes by Xtudo
+- DynDOLOD 3 Alpha
+- DynDOLOD DLL NG
+- DynDOLOD Resources SE 3
+- Ebony Armors and Weapons Retexture SE
+- Elven Armors and Weapons Retexture SE
+- ENBSeries
+- Foamimi's Orlando Visual Overhaul
+- FSMP - Faster HDT-SMP
+- Hair Specular - Community Shaders
+- Icy Cave Remaster
+- Icy Cave Remaster - Ice Material Patch
+- Icy Mesh Remaster - Ice Glaciers - LOD - other fixes
+- Iron Armors and Weapons Retexture SE
+- Ivy - Ivarstead Well Addon
+- Ivy - Whiterun Well Overhaul
+- Light Placer
+- Lux
+- Lux CS
+- Lux Orbis
+- Lux Orbis - Patch Hub
+- Lux - Patch Hub
+- Masterwork - An Anniversary Edition Artifact Overhaul
+- Mesh Improvement Compilation
+- Modex - A Mod Explorer Menu (AddItemMenu)
+- Mountain LOD Helper
+- Natural Waterfalls
+- No Grass In Objects
+- Notes Panel for Mod Organizer 2
+- NPCs Take Cover - Smarter Anti-Cheese AI
+- Open Animation Replacer
+- Orcish Armors and Weapons Retexture SE
+- Pandora Behaviour Engine Plus
+- Papyrus Tweaks NG
+- PGPatcher
+- powerofthree's Tweaks
+- Remiel-Custom Voiced Dwemer Specialist and Companion
+- Roastlawyer's Restored Whiterun Defences
+- Saints and Seducers Retexture SE
+- Screen Space Global Illumination (SSGI) - Community Shaders
+- SIRENROOT - Deluge of Deceit
+- SkyInteract
+- Skylighting - Community Shaders
+- SkyPatcher
+- Skyrim Landscape and Water Fixes
+- Sky Sync - Community Shaders
+- SkyUI
+- Spell Knight Armors Retexture SE
+- Steel Armors and Weapons Retexture SE
+- Subsurface Scattering - Community Shaders
+- Swiftly Order Squad - Follower Commands UI
+- Synthesis
+- Terrain Blending - Community Shaders
+- Terrain Helper
+- Terrain Variation - Community Shaders
+- The Devil's in the Details - Quest Mod
+- The Dragonborn's Bestiary - Quest and Boss mod Patch Compendium AIO
+- The Halls of Rielle Alternate Location - Mountain LOD Helper Patch
+- The Heart of Dibella - Quest Expansion
+- Tomato's Riften and Ratway - Complex Material
+- TrueHUD - Inventory Injector Patch
+- Unique Armors and Weapons Retexture SE
+- Unofficial Skyrim Special Edition Patch - USSEP
+- UNSLAAD - Delayed Start
+- UNSLAAD - English Translation (Plus Voiced Addon)
+- Unslaad SE
+- Upscaling - Community Shaders
+- VIGILANT - Delayed Start
+- VIGILANT - Divine Crusader
+- VIGILANT - English Translation (Plus Voiced Addon)
+- VIGILANT - My patches SE by Xtudo
+- VIGILANT - No Enemy Blur
+- VIGILANT - NPCs Refined
+- VIGILANT SE
+- VIGILANT - Tweaks
+- Wetness Effects - Community Shaders
+- Wheeler - Show in UI
+- Xavbio Armors - 3BA patch
+
+### Added
+- Alt-Tab Stuck Key Fix NG
+- A-Pose Bug Fix - Universal Behavior Runtime
+- Auto Resolution
+- Auto Skeleton Patch - Universal Behaviour Runtime
+- Babbling Brooks - A Water Audio Overhaul
+- Camping Plus Plus - A CC Camping Overhaul
+- Conjuration Limit Fix
+- Copy Paste In Menus
+- DrJacopo's - 3D Landscapes and Grass Library
+- Dwemer Armor SE - CBBE 3BA
+- Dynamic Activation Key
+- Dynamic Tooltips
+- Dynamic Translation Framework
+- ENB Helper SE Updated
+- Fishing - CFTO - HS Honeyside Patch
+- Followers Don't Draw Weapons
+- Footprints
+- Footprints - Alternative Design
+- Footprints - Alternative Design - Complex Parallax Addon
+- Freak's Floral Fields - A Cathedral Grass Overhaul
+- Freak's Floral Solstheim - A Cathedral Grass Overhaul
+- Freak's Floral Veil - A Cathedral Grass Overhaul
+- HDR - Community  Shaders
+- Hide Buttons Mod Organizer 2 Plugin
+- ISL Helper SKSE
+- Khajiit Hair by Saerileth
+- LoreBox - Item and Spell Tooltips
+- LoreBox Item and Spell Tooltips - Untarnished UI Reskin
+- LoreBox - Armor Lore
+- Molag Bal Voice Unification Project
+- Norden UI (map markers only)
+- Obsidian CS
+- Olenveld - Tweaks and Fixes
+- Papyrus Ini Manipulator
+- Perk Entry Point Extender
+- Pilgrim and Daedric Shrines Consistency and Tweaks
+- Ricochet - Arrow Physics Framework
+- Sassy Salt and Wind Hair Retexture - Vanilla and KS Hairdos
+- Settling of Squad - Set Follower Home
+- Simple Follower Framework
+- SKSE Menu Framework
+- SkyLore - Ingredients
+- SPID for Footprints
+- SPID NPC Trap Safety
+- The Heart's Toll - Quest Mod
+- Tomato's Windhelm - Complex Material
+- Ultimate fix - SPID for Footprints (and kids addon)
+- Upscaling - Community Shaders
+- War's Folly - Quest Mod
+- Weight adjustment for Vanilla Hair Remake SMP
+
+### Removed
+- Ancient Falmer Armors and Weapons Retexture SE (Obsolete)
+- Auto Parallax (Obsolete)
+- Blades Armors and Weapons Retexture SE (Obsolete)
+- Bonemold Armors and Weapons Retexture SE (Obsolete)
+- CC's Camping Modular Expansion (Replaced)
+- Dark Brotherhood Armors Retexture SE (Obsolete)
+- Dawnguard Armors and Weapons Retexture SE (Obsolete)
+- ENB Helper SE (Obsolete)
+- Extended Translucency - Community Shaders (Obsolete)
+- Falmer Armors and Weapons Retexture SE (Obsolete)
+- Flat World Map Framework Ultimate Patch (Obsolete)
+- Forsworn Armors and Weapons Retexture SE (Obsolete)
+- Frame Generation - Community Shaders (Obsolete)
+- Grass Collision - Community Shaders (Obsolete)
+- Grass Lighting - Community Shaders (Obsolete)
+- Inverse Square Lighting - Community Shaders (Obsolete)
+- KS Hairdos 1.7 Salt and Wind (Replaced)
+- Light Limit Fix - Community Shaders (Obsolete)
+- Nightingale Armor and Weapons Retexture SE (Obsolete)
+- Obsidian - HDR (Obsolete)
+- Riften of Reverie SE - Parallax (Replaced)
+- Salt and Wind - KS Hairdos - Update (Replaced)
+- Screen Space Shadows - Community Shaders (Obsolete)
+- Skeleton Replacer HD - Lux Patch (Replaced)
+- Skoglendi - A Grass Mod (Replaced)
+- SkyUI 3D Item Offset Fix (Obsolete)
+- Subsurface Scattering - Community Shaders (Obsolete)
+- Terrain Shadows - Community Shaders (Obsolete)
+- Thieves Guild Armors Retexture SE (Obsolete)
+- Untarnished UI Patch for Skyrim Extended Cut - Saints and Seducers (Replaced)
+- Vampire Armors and Weapons Retexture SE (Obsolete)
+- Vanilla hair - Salt and Wind (Replaced)
+- Water Effects - Community Shaders (Obsolete)
+- Water for ENB (Replaced)
+- Wolf Armor and Weapons Retexture SE (Obsolete)
+
+</details>
 
 ## Version 3.0.1
 
@@ -70,11 +333,12 @@
 - Placed Dodge behind Agility light armor perk
 - Added Hotkey Reminder (press F11)
 - Drastically improved gamepad support
+- Improved the worldspace with mods such as Children of the North Wind
 - Improved cities with smaller clutter addons and Roastlawyer's Restored Whiterun Refences
 - Improved death and gore with Dismembering Framework and Sanguine Symphony
-- Replaced NFF with Busy Follower Framework for streamlined follower management
-- Added A Horse's Life for in-depth horse management
-- Added Tween & Loading Menu Overhauls
+- Replaced NFF with Busy Follower Framework
+- Added A Horse's Life
+- Added Tween & Menu Overhaul
 - Added The Dragonborn's Bestiary
 - Added new idle & jump animations
 - Added optional ENB Frame Generation
@@ -101,7 +365,7 @@
 ### This changelog was automatically generated by comparing the load orders of v2.4.1.1 and v3.0.0. As such, it might not be entirely accurate, but should provide a general idea.
 
 ### Summary
-- **Added:** 580 mods
+- **Added:** 581 mods
 - **Removed:** 537 mods
 - **Updated:** 205 mods
 
