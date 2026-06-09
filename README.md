@@ -96,7 +96,7 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 
 Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS at 1080p, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
 
-The Nordic Souls installation requires a total of ~271 GB. This is broken down into a ~97 GB download size and a ~174 GB installation size. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which is roughly accounted for in the UI.
+The Nordic Souls installation requires a total of ~298 GB. This is broken down into a ~122 GB download size and a ~176 GB installation size. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which is roughly accounted for in the UI.
 
 > [!TIP]
 > If the space requirement is uncomfortable, remember that you can delete downloads once the list is successfully installed. You can also set your download location to a different drive than the installation location; more on that later.
