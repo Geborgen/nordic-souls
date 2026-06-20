@@ -118,6 +118,7 @@
 
 | Home | Requirement(s) | Mod |
 |-----|-----|-----|
+| Bloodchill Manor | Complete [Bloodline](https://en.uesp.net/wiki/Skyrim:Bloodline) | [CC Home Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/116032) |
 | Gallows Hall  | Complete [Conjuration Ritual Spell](https://en.uesp.net/wiki/Skyrim:Conjuration_Ritual_Spell) | [CC Home Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/116032) |
 | Goldenhills Plantation | Complete [The Unquiet Dead](https://en.uesp.net/wiki/Skyrim:The_Unquiet_Dead), buy from Whiterun steward | [CC Farming - TnE](https://www.nexusmods.com/skyrimspecialedition/mods/69029) |
 | Hendraheim | Complete [The Silver Hand](https://en.uesp.net/wiki/Skyrim:The_Silver_Hand), buy from Markarth steward | [CC Home Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/116032), [CC Henraheim - TnE](https://www.nexusmods.com/skyrimspecialedition/mods/98688) |
