@@ -16,10 +16,47 @@
 
 ## Contents
 
+- [Version 3.1.1](#version-311)
 - [Version 3.1.0](#version-310)
 - [Version 3.0.1](#version-301)
 - [Version 3.0.0](#version-300)
 - [Legacy Versions](#legacy-versions)
+
+## Version 3.1.1
+
+**This update is save-safe.**
+
+### Changes
+- No more auto-balancing on narrow ledges
+	- Removed Beam Walking Assist due to user feedback
+- Community Shaders update pass with new fixes and features
+
+### Fixes
+- Cannot fast travel even with Survival Mode disabled
+	- Fix works in new games, but for existing saves, you must type `enablefasttravel 1` in the console
+- Splashes of Skyrim CTD - Community Shaders ([#176](https://github.com/Geborgen/nordic-souls/issues/176))
+- Auri's quests not working properly
+
+<details>
+<summary>Details (expand)</summary>
+
+### Updated
+- Community Shaders
+- FSMP - Faster HDT-SMP
+- Hair Specular - Community Shaders
+- HDR - Community Shaders
+- Screen Space Global Illumination (SSGI) - Community Shaders
+- Skylighting - Community Shaders
+- Song of the Green (Auri Follower)
+- Splashes Of Skyrim
+- Terrain Blending - Community Shaders
+
+### Removed
+- Beam Walking Assist
+- Beam Walking Assist - 1st
+- Sky Sync - Community Shaders (Obsolete)
+
+</details>
 
 ## Version 3.1.0
 
