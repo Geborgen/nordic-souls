@@ -54,6 +54,10 @@
 
 **A:** Press `X` to toggle your compass.
 
+## Q: Why can't I dismount my horse?
+
+**A:** Hold `E` or whatever your interact key is.
+
 ## Q: How come I can't access this chest/steal this item?
 
 **A:** You must be sneaking to steal items. You can configure this in the `Better Third Person Selection` MCM.
