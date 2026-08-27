@@ -16,11 +16,238 @@
 
 ## Contents
 
+- [Version 3.2.0](#version-320)
 - [Version 3.1.1](#version-311)
 - [Version 3.1.0](#version-310)
 - [Version 3.0.1](#version-301)
 - [Version 3.0.0](#version-300)
 - [Legacy Versions](#legacy-versions)
+
+## Version 3.2.0
+
+**This update requires a new game.**
+
+### Changes
+- Added a completely new class and trait system ([Apprentice](https://www.nexusmods.com/skyrimspecialedition/mods/169288))
+	- Removed Biggie Traits
+	- Class and trait selection is integrated into the character creator
+	- The 18 classes and 32 traits are balanced and lore-friendly
+	- Several races from Aetherius are edited
+	- Read the mod page for more information
+- Updated [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
+	- Massive updates to perk trees with an extensive changelog, so I'll highlight a few things here
+		- Your Poison Uses now scale with your Alchemy skill
+		- The max level of Poison Uses in the Alchemy tree now caps out at 10. Further bonuses (the Serpent Stone, the Agent Class, the enchantments) are multiplicative with this number
+		- Your chance to recover arrows now scales with your Archery skill. Your recovery chance starts at 25%, and you gain an extra 5% for every ten points in Archery, for a total of 75%
+		- Crossbows now have dedicated perk support, and do bleeding damage instead of critical damage
+		- Bashing does more damage by default, and Block scaling increases the damage of bashing by +50%
+		- Augmented Flames, Frost, and Shock have been removed, replaced by a new perk that increases the damage of Fire, Frost, and Shock spells by 25/50% at levels 20 and 70
+		- The skill scaling of light and heavy armor has been increased
+		- The one handed and two skill trees are cleaner and more elegant
+		- Bard perks have been reworked; playing instruments grants combnat, magic, or steath skill buffs
+		- Tons of new perks have been added and overhauled, please read the full mod page and changelog
+	- Added Fortify Cast Speed to several perks ([Simonrim SKSE Addons](https://www.nexusmods.com/skyrimspecialedition/mods/188102))
+	- Fixed issues with Conjuration perks ([Simonrim SKSE Addons](https://www.nexusmods.com/skyrimspecialedition/mods/188102))
+	- Changes several perks to increase power attack speed rather than damage ([Simonrim SKSE Addons](https://www.nexusmods.com/skyrimspecialedition/mods/188102))
+	- Changed the dodge perk to Simon's own implementation ([Simonrim SKSE Addons](https://www.nexusmods.com/skyrimspecialedition/mods/188102))
+- Updated [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
+	- Extensive update covering resource management and expansions to the core systems; I'll highlight a few major changes
+		- Power attacking with swords and greatswords now costs 10% less Stamina
+		- Power attacking with maces and warhammers now costs 10% more Stamina
+		- Having your Stamina reduced to 0 no longer reduces your weapon damage by 25%
+		- Having your Stamina reduced to 0 now reduces the damage of bows by 50%
+		- NPCs now follow the Stamina rules for Blade & Blunt
+		- The stagger system has been completely reworked with 9 tiers of stagger
+		- The stagger triggered by a power attack from a One-handed sword will last for 2.0 seconds; this is base 100% stagger, and additional tiers are +0.5 seconds, or +25% stagger
+		- The full range of Stagger will be from 50% (1.0 second) to 250% (5.0 seconds)
+		- Staggers will “floor” at 50%, meaning that Stagger Resistance and other forms of stagger mitigation will never result in a stagger of less than one second
+		- A new stagger bar has been added with TrueHUD
+		- A new form of resistances called Minor Resistances has been added
+		- Difficulty settings have been adjusted
+		- Please read the full mod page and changelog
+- Updated [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790), [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138), [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411), and [Sorcerer](https://www.nexusmods.com/skyrimspecialedition/mods/95196)
+	- For the sake of not making this changelog any longer than it is already, I will direct you to these mod pages to read over their changes
+- Overhauled several CC spells to be consistent with Simonrim ([Lost Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/188573))
+- Integrated spears into the world
+	- This is an unreleased mod called Legionary which I've received permission to include in the list
+	- Spears are distributed with other weapons
+	- Spears deal a new type of damage called Irresistible Damage
+	- Spears have perks, bringing a total of 4 fleshed-out weapon types
+- Added a unique set of Dragon Priest robes to Siege of Icemoth ([Armory of Tovinaan](https://www.nexusmods.com/skyrimspecialedition/mods/188123))
+- Made dragons easier to fight ([Dragon War - Rebalanced](https://www.nexusmods.com/skyrimspecialedition/mods/156008))
+	- Reduced health and damage dealt
+	- Removed poison dragons
+- Simplified the horse system
+	- Removed A Horse's Life
+	- Added [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225)
+		- You can now contol horses with a simple hotkey (H)
+		- Aim at the horse to open its saddlebag, aim elsewhere to command to wait or follow
+		- Hold the hotkey to teleport your horse closer to you
+		- Hold the hotkey while aimed at your horse to rename the horse
+	- You can now assign horses to followers using dialogue ([Followers Ride Horses](https://www.nexusmods.com/skyrimspecialedition/mods/139368))
+- Disabled sound effect and slowdown on kill
+	- Can re-enable in Sanguine Symphony's MCM
+- Added new one-handed sword animations ([Vanargand](https://www.nexusmods.com/skyrimspecialedition/mods/188411))
+- Replaced [Dwemer](https://www.nexusmods.com/skyrimspecialedition/mods/181444) and [Snow Elf](https://www.nexusmods.com/skyrimspecialedition/mods/185588) textures
+- Made interiors brighter on the CS profile
+- Minor adjustments to grass lighting on the CS profile
+- Regenerated mipmaps for FFF
+- Added weather effects to interiors (ENB and CS) ([Helios](https://www.nexusmods.com/skyrimspecialedition/mods/181533))
+- Recompiled the list against SSE version 1.7.99
+	- The actual list is still running on 1.6.1170. You just need to update Skyrim in Steam to install the list
+
+### Fixes
+- Floating lanterns above The Chill ([#171](https://github.com/Geborgen/nordic-souls/issues/171))
+- Inigo cannot ride horses ([#173](https://github.com/Geborgen/nordic-souls/issues/173))
+- Missing textures in Bloodchill cavern ([#178](https://github.com/Geborgen/nordic-souls/issues/178))
+- Some Loading Screens are incorrect ([#168](https://github.com/Geborgen/nordic-souls/issues/168))
+
+<details>
+<summary>Details (expand)</summary>
+
+### Updated
+- Acoustic Space Improvement Fixes
+- Actor Value Generator
+- Adamant - A Perk Overhaul
+- Aetherius - A Race Overhaul
+- Ancient Nord Armors and Weapons Retexture SE
+- Andrealletius' Papyrus Functions
+- Base Object Swapper
+- Blade and Blunt - A Combat Overhaul
+- College of Winterhold - Quest Expansion
+- CoMAP - Common Marker Addon Project
+- Community Shaders
+- Comprehensive Attack Rate Patch - SKSE
+- Copy Paste In Menus
+- Core Impact Framework (CIF)
+- Crash Logger SSE AE VR - PDB support
+- Death Idle Fix
+- Divine Crusader Retexture SE
+- Dragon Armors and Weapons Retexture SE
+- Dwemer Armors and Weapons Retexture SE
+- DynDOLOD 3 Alpha
+- DynDOLOD DLL NG
+- Elven Armors and Weapons Retexture SE
+- Embers XD
+- Ethereal Skill Menu Overhaul
+- Faction Armors and Weapons Retexture SE
+- Fish Plaque Fixes and Improvements
+- FormList Manipulator - FLM
+- Freak's Floral Fields - A Cathedral Grass Overhaul
+- FSMP - Faster HDT-SMP
+- Glass Armors and Weapons Retexture SE
+- Gore - A Companion Mod
+- GORE - Miscellaneous Patches
+- Gourmet - A Cooking Overhaul
+- Guards and Stormcloaks Armors Retexture SE
+- Hand to Hand - An Adamant Addon
+- HDR - Community Shaders
+- Hotkey Reminder
+- ImGui Icons
+- Imperial Armors and Weapons Retexture SE
+- Infinity UI
+- JContainers SE
+- Journeyman - A Fast Travel Overhaul
+- Keyword Item Distributor (KID)
+- Leather Armors Retexture SE
+- Local Map Upgrade
+- LoreBox - Armor Lore
+- LoreBox - Item and Spell Tooltips
+- Lux CS
+- Masterwork - An Anniversary Edition Artifact Overhaul
+- More Informative Console
+- Mundus - A Standing Stone Overhaul
+- Mysticism - A Magic Overhaul
+- No Grass In Objects
+- Object Categorization Framework
+- Open Animation Replacer
+- PGPatcher
+- Photo Mode
+- Pilgrim - A Religion Overhaul
+- Player Name Randomizer - Show in UI
+- powerofthree's Papyrus Extender
+- powerofthree's Tweaks
+- Precision Creatures
+- RaceMenu
+- Roastlawyer's Restored Whiterun Defences
+- Security Overhaul SKSE - Some More Locks
+- Silver Armor and Weapons Retexture SE
+- Simple Follower Framework
+- SkyInteract
+- SKSE Menu Framework
+- Skylighting - Community Shaders
+- SkyPatcher
+- Sorcerer - A Staff and Scroll Overhaul
+- Sound Record Distributor
+- Spell Perk Item Distributor (SPID)
+- SSE Engine Fixes (skse64 plugin)
+- Starfrost - A Survival Overhaul
+- Survival Mode Improved - SKSE
+- Synthesis
+- Tamrielic Distribution
+- Terrain Variation - Community Shaders
+- Thaumaturgy - An Enchanting Overhaul
+- The Dragonborn's Bestiary - Quest and Boss mod Patch Compendium
+- TK Dodge RE Addon
+- Unofficial Skyrim Modder's Patch - USMP SE
+- Versatile Item and Group Re-Assignment
+- Widescreen Scale Removed
+- Wyrmstooth - Skeleton Replacer HD - Vulom Fix and Retexture
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+
+### Added
+- AlphaBloom - Texture Forge
+- Apprentice - A Class Overhaul
+- Apprentice - High Poly Head - USMP Patches
+- Armory of Tovinaan - Dragon Priest Armor Patches for Siege at Icemoth
+- aTweaks and Utilities
+- Beautiful Modlist Comparisons - MO2 Diff and Load Order and Coverage Reports
+- Container Distribution Framework
+- dMenu NG
+- Dragon War - Rebalanced
+- dTry Plugin Updates
+- dTry's Key Utils
+- Dwemer Metals Retexture SE
+- Helios
+- Lexicon SKSE
+- LOD Refresh Bug Fix
+- Lost Arcana - A SimonRim Addon for Anniversary Edition
+- Luma Utility
+- Mini's Micro-Systems Framework (MMSF)
+- Precision - Attack Collision Fixes
+- Simonrim SKSE Addons
+- Snow Elf Ruins Retexture SE
+- Unarmed Behaviors Expanded
+- Vanargand Animations II - Sword Low Stance
+- Vanargand Animations II - Sword Non Combat Locomotion
+- Vanargand Animations II - Sword Normal Attacks
+- XEMI Utility
+
+### Removed
+- Arcane Accessories - Rebalance Patch (Replaced)
+- B612 - my little asteroid of useful UI components (Replaced)
+- Biggie Traits (Replaced)
+- Biggie Traits - Refitted (Replaced)
+- Biggie Traits - Thumbnail Overhaul (Replaced)
+- Biggie Traits - Untarnished UI Reskin (Replaced)
+- Cloud Shadows - Community Shaders (Obsolete)
+- First Person Sneak Strafe-Walk Stutter Fix (Obsolete)
+- JS Attunement Sphere and Lexicons SE (Replaced)
+- JS Dwarven Oil SE (Replaced)
+- JS Dwemer Artifacts SE (Replaced)
+- JS Dwemer Control Cube SE (Replaced)
+- JS Dwemer Ichor Barrels SE (Replaced)
+- JS Dwemer Kitchenware SE (Replaced)
+- JS Dwemer Puzzle Cube SE (Replaced)
+- JS Essence and Ash Extractors SE (Replaced)
+- Necromantic Grimoire - Mysticism Rebalance (Replaced)
+- NS - Agility Expansion
+- NS - Biggie Traits - Refitted - Reduced Cut
+- Proving Honor Companions Quest Progression Fix (Obsolete)
+- Saints and Seducers - Mysticism Rebalance (Replaced)
+- SMP-NPC crash fix (Obsolete)
+
+</details>
 
 ## Version 3.1.1
 
