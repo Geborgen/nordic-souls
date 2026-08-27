@@ -47,7 +47,7 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 <details>
 <summary>Core SimonRim(+) Suite (expand)</summary>
 
-- [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) handle races and standing stones.
+- [Apprentice](https://www.nexusmods.com/skyrimspecialedition/mods/169288), [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) handle races and standing stones. Apprentice also includes a cool class and trait system, discussed later.
 - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790), and [Ascension](https://www.nexusmods.com/skyrimspecialedition/mods/89223) overhaul perks.
 - [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) and [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) overhaul vampires and werewolves.
 - [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) overhauls magic and adds new spells. All of [Dareni](https://www.nexusmods.com/skyrimspecialedition/users/5073294?tab=user+files)'s spell packs are included as well, so there is a lot of spell variety and unique mechanics. [Sorcerer](https://www.nexusmods.com/skyrimspecialedition/mods/95196) improves staff and scroll mechanics, and allows you to craft new ones.
@@ -55,7 +55,7 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 - [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) overhauls alchemy. [Gourmet](https://www.nexusmods.com/skyrimspecialedition/mods/96876) overhauls food. [Brewer](https://www.nexusmods.com/skyrimspecialedition/mods/83542) will let you brew other drinks.
 - [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) overhauls religion, and various other [Daedric shrines](https://www.nexusmods.com/skyrimspecialedition/mods/78772) are added as well.
 - [Stormcrown](https://www.nexusmods.com/skyrimspecialedition/mods/90659) overhauls shouts, and adds a new custom skill tree for the Dragonborn, in the same style as vampires or werewolves.
-- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) provides the base for the combat overhaul, with mods like [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) and  [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/56956), among others, providing an in-depth combat experience. Combat is designed to work well in both first and third-person, with new animations for both gameplay styles. *Dodge is locked behind the Agility light armor perk.*
+- [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) provides the base for the combat overhaul, with mods like [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) and  [TK Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/56956), among others, providing an in-depth combat experience. Combat is designed to work well in both first and third-person, with new animations for both gameplay styles. *Dodge is locked behind the Evasion light armor perk.*
 - [Oblivion](https://www.nexusmods.com/skyrimspecialedition/mods/69513) and [Arachnomancy](https://www.nexusmods.com/skyrimspecialedition/mods/67272) overhaul the atronach forge and spider scrolls, respectively.
 - [Arena](https://www.nexusmods.com/skyrimspecialedition/mods/33487) overhauls encounter zones, making them more difficult and improving progression. [Locational Encounter Zones](https://www.nexusmods.com/skyrimspecialedition/mods/85212) will match exterior and interior enemy difficulty for locations.
 
@@ -64,28 +64,18 @@ From perks to leveling to combat, there are a lot of mods that make up the gamep
 <details>
 <summary>Traits (expand)</summary>
 
-[Biggie Traits - Refitted](https://www.nexusmods.com/skyrimspecialedition/mods/150223) provides a unique trait system. Once you create your character, you can use the Select Traits power. I've cut a decent amount of overpowered traits, and rebalanced a few as well. The included traits should provide a lot of build variety.
+[Apprentice](https://www.nexusmods.com/skyrimspecialedition/mods/169288) provides a unique class and trait system. You can select your class and trait directly in the character creator. The 18 classes and 32 traits offer a huge amount of lore-friendly build variety.
 
-#### Procedure to reset traits (copied from the mod page):
-
-1. Open console and type the following: `player.additem FE2730CE 1` or type `help slate` to find ID of '_Potion of Blank Slate_' or look up ID under Ingestibles in xEdit. This will grant you a potion that will remove all traits. Drink the potion. 
-2. In console again, type the following: `player.addspell Traits_SelectionSpell`  
-This will grant you the power to pick traits again. Use the power to pick any trait.
-3. (optional) If you wish to change traits again after the first reset, the power will be locked in power menu for some reason, so you will need to remove it and re-add it again.  
-Type in console: `player.removespell Traits_SelectionSpell` and repeat steps 1 and 2.
-  
-Remember to always save before messing with console stuff just in case something doesn't go right.
+The traits are designed in such a way that, if you decide to switch your build later, you can do so relatively consequence-free. It's a fun system that can equip you with lore-friendly buffs and passives, not a locked-down build selector.
 
 </details>
 
 <details>
 <summary>Dodge (expand)</summary>
 
-[TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) and the [Addon](https://www.nexusmods.com/skyrimspecialedition/mods/125238) allow for a dodge ability. You can unlock this ability with the `Agility` light armor perk. Dodging generates invincibility frames, allowing for proper evasive maneuvers that can give you an edge in combat, at the cost of stamina.
+[TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) and the [Addon](https://www.nexusmods.com/skyrimspecialedition/mods/125238) allow for a dodge ability, implemented by the [Simonrim SKSE Addons](https://www.nexusmods.com/skyrimspecialedition/mods/188102). You can unlock this ability with the `Evasion` light armor perk. Dodging does not generate invincibility frames, but an upgrade for it adds a 50% Resist All when dodging.
 
-The dodge key is bound to sprint, so tap `Alt` to dodge, and hold it to sprint. If you have a mouse with side buttons, you can also press `M5` to dodge. If you use gamepad, tap `LB` to dodge, and hold it to sprint. To edit the keybinds, find the `TK Dodge` MCM.
-
-By default, the dodge style is set to step dodge. If you want to switch to a roll, you can go to `Nordic Souls\mods\NS - Game Settings\SKSE\Plugins\TK Dodge RE.ini` and set `StepDodge` to `false`.
+The dodge key is bound to sprint, so tap `Alt` to dodge, and hold it to sprint. If you have a mouse with side buttons, you can also press `M5` to dodge. If you use gamepad, tap `LB` to dodge, and hold it to sprint. To edit the keybinds, press `F1` and edit the `TK Dodge Addon` SKSE menu. Don't touch anything else in that menu for the sake of the perks working properly.
 
 </details>
 
@@ -97,7 +87,6 @@ By default, the dodge style is set to step dodge. If you want to switch to a rol
 - [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) overhauls dragons. 
 - [King-Priest](https://www.nexusmods.com/skyrimspecialedition/mods/59652) overhauls Dragon Priests. 
 - [Lawless](https://www.nexusmods.com/skyrimspecialedition/mods/88080) and [Madmen](https://www.nexusmods.com/skyrimspecialedition/mods/98579) overhaul bandits and Forsworn, respectively.
-- [A Horse's Life](https://www.nexusmods.com/skyrimspecialedition/mods/146675) expands horses in many ways, adding plenty of new features.
 
 </details>
 
@@ -105,6 +94,7 @@ By default, the dodge style is set to step dodge. If you want to switch to a rol
 <summary>Miscellaneous (expand)</summary>
 
 - [Sentinel](https://www.nexusmods.com/skyrimspecialedition/mods/100985) overhauls gear distribution, adding variants for each tier. It also overhauls backpacks and distributes CC alternative armors.
+- Legionary adds spears with beautiful custom animations. They're naturally integrated with the world, and even have perks.
 - [Leveling Freedom](https://www.nexusmods.com/skyrimspecialedition/mods/69589) gives you control over the shape of the leveling curve in the game. You can adjust how quickly levels come at first, and how much more they cost as you level up - if any more at all. Vanilla values are set by default, but you can change them in the MCM.
 - You can interact with objects you wouldn't normally be able to. [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) has perks that let you develop your skills as a bard, and [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) lets you use a broom to clean up physics messes.
 - [Sil Gahrot](https://www.nexusmods.com/skyrimspecialedition/mods/52007) lets you obtain words of power by killing dragons, and [Dragon Hunting](https://www.nexusmods.com/skyrimspecialedition/mods/99193) improves drops and adds a repeatable quest to find and kill dragons.
@@ -154,7 +144,7 @@ A few high-quality DLC-sized quest mods are included, with a bunch of smaller ad
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) is the first mod in history to win a national Writers' Guild award for its script. It is a critically acclaimed expansion mod offering a unique 6 - 8 hour experience: a murder mystery investigation set in an ancient underground city. You'll need to solve it using your wits, and the ability to travel through time... (level 25+ required).
 - [Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/109541) is a small scale vanilla-esque new lands mod adding some new islands with new locations and dungeons in the Sea of Ghosts. To travel to the isles, you'll need to reach the Old Wooden Jetty at the most north western beach in Skyrim.
 - [Gravewind](https://www.nexusmods.com/skyrimspecialedition/mods/129582) is a quest about a realm lost to myth, an ancient city of ghosts, and a small house in the woods. Travel just northwest of the Roadside Ruins in Falkreath, and enter the abandoned homestead; you will be trapped inside. Recommended level 25+.
-- [Demon of Dream](https://www.nexusmods.com/skyrimspecialedition/mods/118719) is a Daedric quest in which you enter the nightmares of three ex-cultists of Vaermina
+- [Demon of Dream](https://www.nexusmods.com/skyrimspecialedition/mods/118719) is a Daedric quest in which you enter the nightmares of three ex-cultists of Vaermina.
 - [Heart of the Reach](https://www.nexusmods.com/skyrimspecialedition/mods/76494) is a quest mod involving the Reach that sends you into the Ever-Bog, an underground swamp in the reach in order to help a priest.
 - [Penitus Oculatus](https://www.nexusmods.com/skyrimspecialedition/mods/21061) is a quest where you can join the Penitus Oculatus after the vanilla "destroy the dark brotherhood" quest and get all the rewards.
 - [The Gift of Saturalia](https://www.nexusmods.com/skyrimspecialedition/mods/105697) is a quest to help the people of Skyrim and spread the spirit of Saturalia.
@@ -169,7 +159,8 @@ Nordic Souls includes some of the best custom followers available, and overhauls
 
 - [Simple Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/174017) adds extended functionality to followers as well as the ability to bring multiple followers. Your maximum follower count is dictated by your Speech level (Speech 0-9 = 1 follower, 10-19 = 2, 20-29 = 3 ... 79+ = 8). Friendly fire disabled, and followers can sandbox. Complementary mods like [Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471) are included as well.
 - [Swiftly Order Squad](https://www.nexusmods.com/skyrimspecialedition/mods/63259) adds a neat UI to quickly manage followers. Press `L` or find it in the tween menu.
-- [A Horse's Life](https://www.nexusmods.com/skyrimspecialedition/mods/146675) is an advanced horse management framework. There are a lot of features, so reading the mod page is recommended. If you want to skip the dialogue box every time you want to ride your horse, just press `H` to automatically mount it.
+- [Simplest Horses](https://www.nexusmods.com/skyrimspecialedition/mods/54225) allows you to control your horse with the `H` key. If you aim at one of your horses and press it, you will open your horse's saddlebag. Aiming elsewhere and pressing it will command your horse to either wait or follow. Long pressing the hotkey while aiming elsewhere will call your horse to you, and long pressing while aiming at your horse will allow you to rename it.
+- [Followers Ride Horses](https://www.nexusmods.com/skyrimspecialedition/mods/139368) allows you to assign owned horses to followers using dialogue.
 - [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) is a fully voiced khajiit adventuring companion with over 7000 lines of unique dialogue - much of it about you. He'll level alongside you and avoid most traps. If you're sneaking he won't chatter and he'll whisper if you talk to him. He can run out of arrows. He's highly skilled in archery, one-handed, and sneak. You can find him in the Riften prison.
 - [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) is a traditionalist Wood Elf archer. You can find her house somewhere in the Falkreath pine forest.
 - [Katana](https://www.nexusmods.com/skyrimspecialedition/mods/69622) is a not-so-roguish rogue with mysterious powers. The mod also introduces Megara, a healer with a knack for getting information. You can find Katana in the Winking Skeever Inn in Solitude.
