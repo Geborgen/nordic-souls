@@ -89,12 +89,12 @@ A more in-depth look at the mods used can be found in the [gameplay guide](https
 
 | Minimum | Recommended |
 |-----|-----|
-| Intel i5-9400 / AMD Ryzen 5 2600x | Intel i5-13400 / AMD Ryzen 5 9600x  |
+| Intel i5-9400 / AMD Ryzen 5 2600x | Intel i5-13400 / AMD Ryzen 5 5600x  |
 | NVIDIA GTX 1060 / AMD RX 580 | NVIDIA RTX 3060 TI / AMD RX 6700 |
 | 16 GB DDR4 | 32 GB DDR5 |
 | SATA SSD | NVMe SSD |
 
-Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS at 1080p, you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
+Many users report high FPS in most areas. This list is performance-friendly on almost any machine. The specs listed above are for 60 FPS at 1080p, but you can go lower if you don't mind losing some frames. Refer to the [performance section](#performance-tweaks) for more information.
 
 The Nordic Souls installation requires a total of ~298 GB. This is broken down into a ~122 GB download size and a ~176 GB installation size. Keep in mind that Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation, which is roughly accounted for in the UI.
 
@@ -118,7 +118,7 @@ If you are just updating the list, you can safely skip to [this section](#updati
 
 Please complete the following steps:
 1. Install [Visual C++ x64 Redistributables](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-2. Install [Microsoft .NET 8.0 Runtime](https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win-x64&os=win10) and [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.27-windows-x64-installer).
+2. Install [Microsoft .NET 8.0 Runtime](https://aka.ms/dotnet-core-applaunch?framework=Microsoft.NETCore.App&framework_version=8.0.0&arch=x64&rid=win-x64&os=win10), [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.27-windows-x64-installer), [.NET 10.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.400-windows-x64-installer), and [.NET 10.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-10.0.11-windows-x64-installer).
 3. Fully disable OneDrive and any other programs that hook into user file areas.
 4. Reinstall Skyrim into a location that is not Program Files. Somewhere like `C:\Games` is a good location. If you only have one drive, look into [LostDragonist's SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide). You should have the latest version of Skyrim, version `1.6.1170`. **Do not verify file integrity, as this will cause issues.**
 5. Set Skyrim to not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -220,6 +220,9 @@ If you are still having issues, visit the [Wabbajack Discord](https://discord.co
 
 ### Stock Game and Root Builder
 
+> [!NOTE]
+> This section is purely for your information. These are no steps to follow here. This is all preconfigured.
+
 Nordic Souls uses the [Stock Game](https://github.com/The-Animonculory/Modding-Resources/blob/main/Stock%20Game%20Setup.md) method. This is essentially a copy of Skyrim included with the installation folder. This means that everything is completely separate from your Steam installation of Skyrim (which is still required as the game files are not redistributed). The folder in question is called `Game Root`, located at `Nordic Souls\Game Root`.
 
 The list also uses [Kezyma's Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) to keep the game root folder clean. Any mod that needs to be installed in the game folder is instead added to MO2 with a special file structure, and is then added to the game folder whenever the game is running.
@@ -271,8 +274,10 @@ To use Community Shaders, switch to the `Nordic Souls - Community Shaders` profi
 
 If you switch profiles mid-save, you will get a popup warning about missing plugins. You can safely ignore this.
 
+CS supports [HDR](https://www.nexusmods.com/skyrimspecialedition/mods/179371). If your monitor supports HDR, you can enable it with `WIN + ALT + B` (outside of your game), and configure HDR settings using the in-game CS menu. You will need to relaunch your game each time you enable or disable HDR.
+
 > [!TIP]
-> In-game, press `F10` to toggle the performance overlay, `END` to open the CS configuration menu, and `INSERT` to toggle CS.
+> In-game, press `F10` to toggle the performance overlay, `SHIFT + ENTER` or `END` to open the CS configuration menu, and `SHIFT + INSERT` to toggle CS.
 
 #### Widescreen Support
 
@@ -371,13 +376,11 @@ MCMs have been pre-configured. Wait until you receive a "configuration complete"
 
 ### Starting the Game
 
-Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own.
+Character creation has been overhauled. High Poly Head is selected automatically. Nordic Souls includes several character presets for you to choose from, but you can easily add your own. You will also be able to select a class and a trait within the character creator.
 
 You will spawn in a cell. **Wait until you see a "configuration complete" pop-up** before continuing. If you wish to edit your character again, you can activate the Runic Stone located on the wall near the door. Otherwise, interact with the Statue of Azura to select your starting point. You can go through the vanilla intro sequence if you want, but I recommend exploring all the options.
 
 Once you've selected your start, activate the Arcane Circle on the floor to enter the world.
-
-You can activate the Select Traits power in your magic menu to select up to two unique character building traits, if you so wish.
 
 ### Gameplay Guide
 
@@ -429,4 +432,3 @@ Please refer to the [FAQ](https://github.com/Geborgen/nordic-souls/blob/main/FAQ
 - The community helpers and moderators in my Discord server for their amazing assistance with ideas, testing, and community support.
 - The beta testers who helped make the list the best it can be.
 - Everyone who has played the list that has helped in some way, by finding issues and contributing ideas.
-- Based Department (you know who you are).
