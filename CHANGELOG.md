@@ -56,7 +56,7 @@
 		- Augmented Flames, Frost, and Shock have been removed, replaced by a new perk that increases the damage of Fire, Frost, and Shock spells by 25/50% at levels 20 and 70
 		- The skill scaling of light and heavy armor has been increased
 		- The one handed and two skill trees are cleaner and more elegant
-		- Bard perks have been reworked; playing instruments grants combat, magic, or steath skill buffs
+		- Bard perks have been reworked; playing instruments grants combat, magic, or stealth skill buffs
 		- Tons of new perks have been added and overhauled, please read the full mod page and changelog
 	- Added Fortify Cast Speed to several perks ([Simonrim SKSE Addons](https://www.nexusmods.com/skyrimspecialedition/mods/188102))
 	- Fixed issues with Conjuration perks ([Simonrim SKSE Addons](https://www.nexusmods.com/skyrimspecialedition/mods/188102))
