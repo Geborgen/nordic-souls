@@ -29,7 +29,7 @@
 **This update is save-safe.**
 
 ### Changes
-- Fixed engine fixes config that was revereted on the update
+- Fixed SSE Engine Fixes config that was accidentally reverted on the update
 	- Quick saves are now regular saves
 	- Wait menu is quicker
 - Fixed patching for Legionary
