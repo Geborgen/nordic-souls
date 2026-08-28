@@ -16,12 +16,24 @@
 
 ## Contents
 
+- [Version 3.2.1](#version-321)
 - [Version 3.2.0](#version-320)
 - [Version 3.1.1](#version-311)
 - [Version 3.1.0](#version-310)
 - [Version 3.0.1](#version-301)
 - [Version 3.0.0](#version-300)
 - [Legacy Versions](#legacy-versions)
+
+## Version 3.2.1
+
+**This update is save-safe.**
+
+### Changes
+- Fixed engine fixes config that was revereted on the update
+	- Quick saves are now regular saves
+	- Wait menu is quicker
+- Fixed patching for Legionary
+	- Amended leveled list issues
 
 ## Version 3.2.0
 
