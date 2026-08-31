@@ -14,8 +14,7 @@
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md">FAQ</a>
 </p>
 
-## Contents
-
+- [ Version 3.2.2](#version-322)
 - [Version 3.2.1](#version-321)
 - [Version 3.2.0](#version-320)
 - [Version 3.1.1](#version-311)
@@ -23,6 +22,40 @@
 - [Version 3.0.1](#version-301)
 - [Version 3.0.0](#version-300)
 - [Legacy Versions](#legacy-versions)
+
+## Version 3.2.2
+
+**This update is save-safe.**
+
+### Changes
+- Added [Character Menu](https://www.nexusmods.com/skyrimspecialedition/mods/173074)
+	- View stats, class, factions, and more at a glance
+	- [Character Sheet](https://www.nexusmods.com/skyrimspecialedition/mods/56069) is still included for more in-depth analysis
+- Added a [new FOV slider](https://www.nexusmods.com/skyrimspecialedition/mods/172417)
+	- You can no longer control FOV with the console
+	- Press F1 to bring up SKSE Menu
+	- Alternate Conversation Camera FOV configuration is still required for it to reset properly when exiting dialogue
+	- There is no more zoom when entering the tween menu, this is intentional
+
+### Fixes
+- Followers do not coming with you on fast travel while sandbox mode is on ([SFF](https://www.nexusmods.com/skyrimspecialedition/mods/174017))
+- Followers randomly leave the party after recruiting another follower ([SFF](https://www.nexusmods.com/skyrimspecialedition/mods/174017))
+- Photo Mode does not display correctly ([#180](https://github.com/Geborgen/nordic-souls/issues/180))
+
+<details>
+<summary>Details (expand)</summary>
+
+### Updated
+- Photo Mode
+- Simple Follower Framework
+
+### Added
+- Character Menu SE
+- Character Menu SE - Simonrim Patches
+- Character Menu - Untarnished UI Reskin
+- First Person FOV and Tween Menu Fix SKSE
+
+</details>
 
 ## Version 3.2.1
 
