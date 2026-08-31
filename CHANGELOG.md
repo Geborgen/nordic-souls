@@ -33,7 +33,7 @@
 	- [Character Sheet](https://www.nexusmods.com/skyrimspecialedition/mods/56069) is still included for more in-depth analysis
 - Added a [new FOV slider](https://www.nexusmods.com/skyrimspecialedition/mods/172417)
 	- You can no longer control FOV with the console
-	- Press F1 to bring up SKSE Menu
+	- Press `F1` to bring up SKSE Menu
 	- Alternate Conversation Camera FOV configuration is still required for it to reset properly when exiting dialogue
 	- There is no more zoom when entering the tween menu, this is intentional
 
