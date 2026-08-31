@@ -36,7 +36,7 @@
 
 ## Q: How do I change my FOV?
 
-**A:** Use the FOV console command like normal (`fov x x`) (yes, input the value twice). Then, change your FOV in the `Improved Alternate Conversation Camera` MCM so it doesn't reset when you enter and leave dialogue.
+**A:** Press `F1` to view the SKSE Menu, and find the FOV slider the `FirstPersonFOV` tab. Then, change your FOV in the `Improved Alternate Conversation Camera` MCM so it doesn't reset when you enter and leave dialogue.
 
 ## Q: How do I change my brightness?
 
