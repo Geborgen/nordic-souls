@@ -26,6 +26,12 @@
 
 **A:** Reinstall the list to verify any missing/broken files. If you still have issues, go back and make sure you have all prerequisits (.NET, etc.). Install them even if you think you have them. **Make sure you have disabled OneDrive.**
 
+If you're still crashing, it may be an issue related to recent Skyrim updates. Perform these steps:
+- Press `WIN + R`
+- Enter `%LocalAppData%`, press `OK`
+- Find and navigate to the `Skyrim Special Edition` folder
+- Delete `ContentCatalog.txt`
+
 ## Q: Why is my game window super zoomed-in?
 
 **A:** Go to your `Game Root` folder, right-click `SkyrimSE.exe`, go to `Properties`, and follow the steps outlined [here](https://raw.githubusercontent.com/Lost-Outpost/resources/main/skyrim-scaling.png).
