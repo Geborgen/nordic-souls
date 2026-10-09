@@ -350,6 +350,12 @@ Open the installation folder and open `ModOrganizer.exe`. Make sure the dropdown
 > [!CAUTION]
 > Do not "unlock" MO2 when the game is running. This will cause various issues within the game.
 
+If you crash when starting the list, please follow these steps:
+1. Press `WIN + R`
+2. Enter `%LocalAppData%`, press `OK`
+3. Find and navigate to the `Skyrim Special Edition` folder
+4. Delete `ContentCatalog.txt`
+
 #### Controls
 
 <details><summary>Key Bindings (expand)</summary>
