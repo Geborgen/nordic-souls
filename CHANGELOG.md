@@ -14,7 +14,8 @@
   <a href="https://github.com/Geborgen/nordic-souls/blob/main/FAQ.md">FAQ</a>
 </p>
 
-- [ Version 3.2.2](#version-322)
+- [Version 3.2.3](#version-323)
+- [Version 3.2.2](#version-322)
 - [Version 3.2.1](#version-321)
 - [Version 3.2.0](#version-320)
 - [Version 3.1.1](#version-311)
@@ -22,6 +23,63 @@
 - [Version 3.0.1](#version-301)
 - [Version 3.0.0](#version-300)
 - [Legacy Versions](#legacy-versions)
+
+## Version 3.2.3
+
+**This update requires a new game.**
+
+- Verolevi animations have been converted to OAR
+- New [sword power attack](https://www.nexusmods.com/skyrimspecialedition/mods/190166) animations
+- Wait and Character Menu buttons have higher priority in the Tween Menu
+- Hopefully resolved most issues with followers ([SFF](https://www.nexusmods.com/skyrimspecialedition/mods/174017))
+
+### Changes
+
+<details>
+<summary>Details (expand)</summary>
+
+### Updated
+- Artificer - Xavbio Textures Addon
+- Community Shaders
+- Goetia Animations - Enchanted Magic Staves
+- Goetia Animations - Magic Spell Casting
+- Goetia Animations - Sneak Magic
+- HDR - Community Shaders
+- Keyword Item Distributor (KID)
+- Leviathan Animations II - Greatsword Low Stance
+- Leviathan Animations II - Greatsword Normal Attacks
+- Leviathan Animations II - Greatsword Power And Sprint Attacks
+- Leviathan Animations - Two-Handed High Stance
+- Leviathan Animations - Two-Handed Normal Attacks
+- Leviathan Animations - Two-Handed Power Attacks
+- LOD Refresh Bug Fix
+- Simple Follower Framework
+- Skylighting - Community Shaders
+- Terrain Variation - Community Shaders
+- Vanargand Animations - Archery
+- Vanargand Animations - Crossbows
+- Vanargand Animations - Dual Wield Normal and Power Attacks
+- Vanargand Animations - Dual Wield Sneak Strikes
+- Vanargand Animations - Dual Wield Sneak Thrusts
+- Vanargand Animations II - Sword Low Stance
+- Vanargand Animations II - Sword Non Combat Locomotion
+- Vanargand Animations II - Unarmed Normal And Power Attacks
+- Vanargand Animations - One Handed Mid Stance
+- Vanargand Animations - One Handed Normal Attacks
+- Vanargand Animations - One Handed Power Attacks
+- Vanargand Animations - Sneak Archery
+- Vanargand Animations - Sneak Crossbows
+- Vanargand Animations - Sneak idle walk and run
+- Vanargand Animations - Sneak Strike Attacks
+- Vanargand Animations - Sneak Thrust Attacks
+
+### Added
+- Vanargand Animations II - Sword Power Attacks
+
+### Removed
+- Settling of Squad - Set Follower Home
+
+</details>
 
 ## Version 3.2.2
 
