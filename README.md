@@ -199,12 +199,12 @@ Downloading and installing Nordic Souls can take a long time depending on your i
 Some common errors you may encounter during installation:
 - Could not download `X`:
   - Large files can fail to download due to connection issues. You can either run Wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads (`Nordic Souls\downloads`).
-  - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#downloading-cc-content).
+  - Make sure you have purchased the Anniversary Edition upgrade, and launched the game through Steam to download all CC content. Refer to [this section](#installing-cc-content).
   - Try logging out of Nexus (in-app) and logging in again.
 - `X` is not a whitelisted download:
   - This may happen when I update the list. Please check if there is a new update or wait if there is none.
 - Wabbajack could not find the game folder:
-  - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Pre-Installation](#pre-installation) section.
+  - You will never get support for a pirated copy of the game. Either buy the game *on Steam* or, if you did, go back to the [Installation](#installation) section.
 - Antivirus reports a virus:
   - Windows 10/11 may automatically quarantine a key file that is needed for MO2. You can fix this by [adding an exclusion for MO2 in windows defender](#antivirus-exceptions).
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
