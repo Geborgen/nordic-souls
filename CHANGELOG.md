@@ -196,7 +196,7 @@
 - Minor adjustments to grass lighting on the CS profile
 - Regenerated mipmaps for FFF
 - Added weather effects to interiors (ENB and CS) ([Helios](https://www.nexusmods.com/skyrimspecialedition/mods/181533))
-- Recompiled the list against SSE version 1.7.99
+- Recompiled the list against SSE version 1.7.104
 	- The actual list is still running on 1.6.1170. You just need to update Skyrim in Steam to install the list
 
 ### Fixes
